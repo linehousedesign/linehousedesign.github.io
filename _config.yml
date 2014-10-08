@@ -3,51 +3,44 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "LINEHOUSE"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   architectural design
 
-email: a-mail@mail.mail
+email: mail@linehousedesign.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/linehouse-icon.gif"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cover-deli-001.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Linehouse Design'
+author: 'Linehouse'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	10
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "hhttp://0.0.0.0:4000" # the base hostname & protocol for the site
 baseurl: ""
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/linehousedesign
+    desc: Follow us on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://facebook.com/linehousedesign
+    desc: Connect with us on facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+  - icon:	google-plus
+    url:	https://google.com/+linehousedesign
+    desc:	Add us on google+
     share_url:
     share_title:
     share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
