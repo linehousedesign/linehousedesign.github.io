@@ -80,12 +80,26 @@
           {{content}}
         </section>
 		
-		<section style="clear: both;">
+		  <div style="position: float; float: left; width: 45%;">
+			{{ content }}
+		  </div>
+		  <div class="flexslider" style="position: float; float: right; width: 45%;">
+		  <ul class="slides">
+		    {% for image in page.image-gallery %}
+			  <li>
+			    <img width="100%" src="{{image}}" />
+			  </li>
+		    {% endfor %}
+		  </ul>
+		  </div>
+        </section>
+		
+		<section style="float: clear;">
 			<div width="50%" class="flexslider" style="position: float; float: left;">
 			  <ul class="slides">
 			    {% for image in page.image-gallery %}
 				  <li>
-				    <img width="200" src="{{image}}" />
+				    <img src="{{image}}" />
 				  </li>
 			    {% endfor %}
 			  </ul>
@@ -94,7 +108,7 @@
 			  <ul class="slides">
 			    {% for image in page.image-gallery %}
 				  <li>
-				    <img width="200" src="{{image}}" />
+				    <img src="{{image}}" />
 				  </li>
 			    {% endfor %}
 			  </ul>
@@ -109,7 +123,7 @@
 	      </div>
 		</section -->
         
-		<div class="bottom-teaser cf" style="clear: both;">
+		<div class="bottom-teaser cf">
           <div class="isLeft">
             <h5 class="index-headline"><span>Linehouse</span></h5>
               <p class="detail">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
