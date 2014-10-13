@@ -77,52 +77,31 @@
           </div>
 		  
           <a name="topofpage"></a>
-          {{content}}
+          <!-- >{{content}} -->
         </section>
-		
-		  <div style="position: float; float: left; width: 45%;">
+		<section>
+		  <div class="post-response">
 			{{ content }}
 		  </div>
-		  <div class="flexslider" style="position: float; float: right; width: 45%;">
+		  <div class="flexslider post-response">
 		  <ul class="slides">
 		    {% for image in page.image-gallery %}
 			  <li>
-			    <img width="100%" src="{{image}}" />
+			    <a href="{{image}}" data-lightbox="lightbox-galery" data-title="{{page.title}}"><img width="100%" src="{{image}}" /></a>
 			  </li>
 		    {% endfor %}
 		  </ul>
 		  </div>
+		  <div style="float: clear;">
         </section>
 		
-		<section style="float: clear;">
-			<div width="50%" class="flexslider" style="position: float; float: left;">
-			  <ul class="slides">
-			    {% for image in page.image-gallery %}
-				  <li>
-				    <img src="{{image}}" />
-				  </li>
-			    {% endfor %}
-			  </ul>
-			</div>
-			<div width="50%" class="flexslider" style="position: float; float: right;">
-			  <ul class="slides">
-			    {% for image in page.image-gallery %}
-				  <li>
-				    <img src="{{image}}" />
-				  </li>
-			    {% endfor %}
-			  </ul>
-			</div>
-		</section>
-
-		<!-- section width="100%">
-		  <div>
-		  {% for image in page.image-gallery %}
-		    <p><img src="{{image}}" width="100%"></p>
-		  {% endfor %}
-	      </div>
-		</section -->
-        
+		<!-- div>
+			{% for image in page.image-gallery %}
+			  <p><a href="{{image}}" data-lightbox="image-1" data-title="My caption"><img src="{{image}}" width="100%"></a></p>
+			{% endfor %}
+		</div -->
+		
+		<section width="100%" style="clear: both;">
 		<div class="bottom-teaser cf">
           <div class="isLeft">
             <h5 class="index-headline"><span>Linehouse</span></h5>

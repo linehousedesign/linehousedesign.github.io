@@ -298,6 +298,15 @@ body
     text-decoration: none
     &:hover
       color: #333
+
+.post-response
+  display: inline-block
+  width: 49%
+  padding: 0 3px 0 3px
+  vertical-align: top
+  @include respond-to(1024)
+    display: block
+    width: 100%
 .post
   .article-image
     position: absolute
@@ -499,6 +508,8 @@ body
   .bottom-teaser
     padding: 50px 0
     font-family: $font-sans
+    max-width: 640px
+    margin: 0 auto
     h4
       font-size: 18px
       line-height: 1.1
