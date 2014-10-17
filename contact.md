@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-banner: /assets/images/shanghai-map.jpg
+banner: /assets/images/main-site-images/footer-contact.jpg
 ---
 LINEHOUSE Design    
 876 Jiangsu Lu  

@@ -2,6 +2,7 @@
 layout: page
 title: Profile
 permalink: /profile/
+banner: /assets/images/main-site-images/footer-profile.jpg
 ---
 LINEHOUSE was established in Shanghai 2013. The studio seeks projects of varying scales and typologies that allows exploration of both the poetic idea and pragmatic solution.
 

@@ -2,7 +2,7 @@
 layout: page
 title: News
 permalink: /news/
-banner: /assets/images/shanghai-map.jpg
+banner: /assets/images/main-site-images/footer-news.jpg
 ---
 <h3>Latest News</h3>
 

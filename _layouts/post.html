@@ -75,32 +75,21 @@
           <div class="post-reading">
             <span class="post-reading-time"></span> read
           </div>
-		  
-          <a name="topofpage"></a>
-          <!-- >{{content}} -->
         </section>
+		
 		<section>
+		  <a name="topofpage"></a>
 		  <div class="post-response">
 			{{ content }}
 		  </div>
-		  <div class="flexslider post-response">
-		  <ul class="slides">
+		  <div class="post-response">
 		    {% for image in page.image-gallery %}
-			  <li>
-			    <a href="{{image}}" data-lightbox="lightbox-galery" data-title="{{page.title}}"><img width="100%" src="{{image}}" /></a>
-			  </li>
+			  <p><a href="{{image}}" data-lightbox="lightbox-galery" data-title="{{page.title}}"><img width="100%" src="{{image}}" /></a></p>
 		    {% endfor %}
-		  </ul>
 		  </div>
 		  <div style="float: clear;">
         </section>
-		
-		<!-- div>
-			{% for image in page.image-gallery %}
-			  <p><a href="{{image}}" data-lightbox="image-1" data-title="My caption"><img src="{{image}}" width="100%"></a></p>
-			{% endfor %}
-		</div -->
-		
+
 		<section width="100%" style="clear: both;">
 		<div class="bottom-teaser cf">
           <div class="isLeft">
@@ -128,13 +117,6 @@
     </main>
 	
 	{% include menu-strip.html %}
-	
-    <div class="bottom-closer">
-      <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover }})"{% endif %}>
-      Image
-    </div>
-    <div class="inner">
-    </div>
-    </div>
+	{% include footer.html %}
   </body>
 </html>

@@ -9,13 +9,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: mail@linehousedesign.com
 #blog logo
-logo: "/assets/images/linehouse-icon.gif"
+logo: "/assets/images/main-site-images/linehouse-icon.gif"
 # blog cover
-cover: "/assets/images/cover-deli-001.jpg"
+cover: "/assets/images/main-site-images/cover-deli-001.jpg"
 
 name: 'Linehouse Design'
 author: 'Linehouse'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/main-site-images/author.jpg"
 
 paginate:	10
 
