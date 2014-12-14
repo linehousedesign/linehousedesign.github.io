@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  "Factory Five, Shanghai"
-date:   2014-10-05 14:34:25
+title: "Factory Five, Shanghai"
+date: 2014-10-05 14:34:25
 categories: interior retail
 tags: featured
-location: Shanghai 
-client: Factory Five
-project-type: Retail Architecture
-header-image: /assets/images/projects/factory-five/factory_five_004.jpg
+details:
+  -  Year of Completion: 2012
+  -  Architect: Linehouse
+  -  Location: Shanghai, China
+  -  Address: 876 Jiangsu Road
+  -  Area: 95sqm 
+  -  Photographer: Tyler Bowa
+header-image: /assets/images/projects/factory-five/factory_five_000.jpg
 square-image: /assets/images/projects/factory-five/factory_five_square.jpg
 image-gallery:
   -  /assets/images/projects/factory-five/factory_five_001.jpg
@@ -16,11 +20,7 @@ image-gallery:
   -  /assets/images/projects/factory-five/factory_five_004.jpg
   -  /assets/images/projects/factory-five/factory_five_005.jpg
   -  /assets/images/projects/factory-five/factory_five_006.jpg
-  -  /assets/images/projects/factory-five/factory_five_007.jpg
-  -  /assets/images/projects/factory-five/factory_five_008.jpg
-  -  /assets/images/projects/factory-five/factory_five_009.jpg
-  -  /assets/images/projects/factory-five/factory_five_010.jpg
 ---
-Curabitur suscipit quam in odio luctus sollicitudin eget molestie orci. Ut ut mi pharetra lacus fermentum euismod. Quisque fringilla luctus fermentum. Nam blandit sollicitudin vulputate. Curabitur at orci quis neque interdum volutpat. Sed egestas tincidunt sodales.
+The first shop for Shanghai’s premier fixed gear bike brand evolved organically over two years as opportunities to expand and redesign arose. The final 95sqm space featured a communal workshop, retail, an office and a built in table shared by the biking community for events, a resting place after long rides or a chat with friends.
 
-In vehicula aliquam sapien, et dapibus justo hendrerit ac. Vivamus vestibulum diam sed pretium venenatis. Nulla velit diam, vulputate a magna sit amet, accumsan tempor purus. Etiam consectetur risus nec magna blandit aliquet. Aliquam erat volutpat. Mauris tempor gravida pulvinar. Etiam tristique elit aliquet condimentum sollicitudin. Morbi ac pretium justo.
+The wood planks table for the table was sourced from a local demolition site and the existing white and brown paint was retained. A Georgian wire sliding glass door and metal framed window separated the office from the rest of the shop. For the retail area OSB board was used for the display units, the main focus being a horizontal lightbox.

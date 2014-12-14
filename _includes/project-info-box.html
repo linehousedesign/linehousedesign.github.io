@@ -1,0 +1,10 @@
+<div class="project-info-box">
+  <b><h4>{{ page.title }}</h4></b>
+  <ul>
+  {% for details in page.details %}
+    {% for detail in details %}
+      <li>{{ detail[0] }} : {{ detail[1] }}</li>
+    {% endfor %}
+  {% endfor %}
+</ul>
+</div>

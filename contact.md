@@ -5,14 +5,10 @@ permalink: /contact/
 banner: /assets/images/main-site-images/footer-contact.jpg
 ---
 LINEHOUSE Design    
-876 Jiangsu Lu  
-Building 5  
-Ground Floor  
+667 Changhua Lu  
+Unit S1
+Jing'an District
 Shanghai, China
 
 <a href="mailto:info@linehousedesign.com">info@linehousedesign.com</a>  
-+86 021 1222 2111
-
-Twitter: linehousedesign  
-Instagram: linehousedesign  
-Facebook: facebook.com/linehousedesign
++86 139 1800 6479

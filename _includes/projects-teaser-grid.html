@@ -1,9 +1,13 @@
 <div class="cf frame" style="width: 100%">
   <ul class="project-grid">
   {% for post in paginator.posts limit:3 %}
-	<li class="project-grid">
-		<a href="{{ post.url }}" itemprop="url"><img src="{{ post.square-image }}"></a>
-		<h4><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h4>
+	<li>
+		<div style="position:relative; background-image: url({{ post.header-image }});">
+		<a href="{{ post.url }}" itemprop="url"><span></span></a>
+		</div>
+		<div>
+			<a href="{{ post.url }}" itemprop="url">{{ post.title }}</a>
+		</div>
 		<!-- p>{{ post.content | strip_html | truncatewords: 15 }}</p -->
 	</li>
   {% endfor %}
