@@ -11,4 +11,3 @@ Jing'an District
 Shanghai, China
 
 <a href="mailto:info@linehousedesign.com">info@linehousedesign.com</a>  
-+86 139 1800 6479

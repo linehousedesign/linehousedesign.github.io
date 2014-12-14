@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Factory Five, Shanghai"
-date: 2014-10-05 14:34:25
+date: 2014-09-05 14:34:25
 categories: interior retail
 tags: featured
 details:
