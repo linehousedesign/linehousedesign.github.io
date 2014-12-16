@@ -7,6 +7,7 @@ tags: featured
 details:
   -  Year of Completion: 2014
   -  Architect: Linehouse
+  -  Area: 150sqm
   -  Location: Shanghai, China
   -  Address: 667 Changhua Rd, Shanghai, China
   -  Photographer: Benoit Florencon
@@ -27,4 +28,4 @@ image-gallery:
   -  /assets/images/projects/factory-five-jingan/factory-five-jingan-012.jpg
   
 ---
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+The new Factory 5 shop was a graduation from its previous smaller shop. Occupying a double height industrial warehouse space a mezzanine was inserted to accommodate private office space. The rest of the first floor retail and workshop space again focused on retaining a clubhouse feel with the creation of a bar and a communal table. Feature retail display walls was arranged to highlight Factory 5’s signature bicycle frames, Mission Workshop bags and clothing, and component displays of all the 45 parts that makes up a fixed gear bicycle. The design of the mezzanine and the bar used 150 by 150mm I-beams fixed horizontally between the existing metal columns to serve as counters for customers and staff. Retaining the feel of the old shop OSB and reclaimed wood from Shanghai’s demolition sites was again used for table tops and the cabinetry. The existing concrete floor was overlaid with a clear epoxy.

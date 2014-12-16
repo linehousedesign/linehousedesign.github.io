@@ -9,9 +9,9 @@ description: > # this means to ignore newlines until "email:"
 
 email: mail@linehousedesign.com
 #blog logo
-logo: "/assets/images/main-site-images/linehouse-icon.gif"
+logo: "/assets/images/main-site-images/linehouse-icon.png"
 # blog cover
-cover: "/assets/images/main-site-images/cover-deli-001.jpg"
+cover: "/assets/images/projects/dressed-ifc/dressed-sh-001.jpg"
 
 name: 'Linehouse Design'
 author: 'Linehouse'

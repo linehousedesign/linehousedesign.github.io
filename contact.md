@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 banner: /assets/images/main-site-images/footer-contact.jpg
 ---
-LINEHOUSE Design    
+LINEHOUSE    
 667 Changhua Lu  
 Unit S1
 Jing'an District

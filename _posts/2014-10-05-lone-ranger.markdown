@@ -7,6 +7,7 @@ tags: featured
 details:
   -  Year of Completion: 2014
   -  Architect: Linehouse
+  -  Area: Interior - 19sqm
   -  Location: Shanghai, China
   -  Address: Wai Ma Road, Shanghai 
   -  Photographer: Benoit Florencon
@@ -20,10 +21,6 @@ image-gallery:
   -  /assets/images/projects/lone-ranger-bund/lone-ranger-004.jpg
   -  /assets/images/projects/lone-ranger-bund/lone-ranger-005.jpg
   -  /assets/images/projects/lone-ranger-bund/lone-ranger-006.jpg
-  -  /assets/images/projects/lone-ranger-bund/lone-ranger-007.jpg
-  -  /assets/images/projects/lone-ranger-bund/lone-ranger-008.jpg
-  -  /assets/images/projects/lone-ranger-bund/lone-ranger-009.jpg
-  -  /assets/images/projects/lone-ranger-bund/lone-ranger-010.jpg
-  -  /assets/images/projects/lone-ranger-bund/lone-ranger-011.jpg
+
 ---
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+Lone Ranger was seeking a modern interpretation of their Wild West theme to serve up their range of Corn Dogs. Replacing the entire façade of the shop located at the waterfront of the Hangpu River, Linehouse created a playful composition of white timber weatherboarding, raw timber, and custom white tiles featuring an arrowhead motif. The exterior is composed of opening doors and windows, which when opened reveals the continuous tile pattern which wraps the counters and floors. The exterior counters seats 6 with a further 6 seats inside. The 4m high ceiling void is filled with a rope installation which hangs down into the space as lights.

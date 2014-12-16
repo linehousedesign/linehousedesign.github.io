@@ -8,10 +8,11 @@ location: Shanghai
 details:
   -  Year of Completion: 2014
   -  Architect: Linehouse
+  -  Area: interior - 32sqm
   -  Location: Shanghai, China
   -  Address: B1, IFC Pudong, Shanghai 
   -  Photographer: Benoit Florencon
-header-image: /assets/images/projects/dressed-ifc/dressed-sh-000a.jpg
+header-image: /assets/images/projects/dressed-ifc/dressed-sh-001.jpg
 square-image: /assets/images/projects/dressed-ifc/dressed-sh-square.jpg
 image-gallery:
   -  /assets/images/projects/dressed-ifc/dressed-sh-001.jpg
@@ -19,4 +20,4 @@ image-gallery:
   -  /assets/images/projects/dressed-ifc/dressed-sh-003.jpg
   -  /assets/images/projects/dressed-ifc/dressed-sh-004.jpg  
 ---
-Dressed Salads appointed Linehouse to create a new feel for their first shop in China, already having numerous shops in North America and Asia.
+The concept for this small shop for international brand Dressed Salads was to create a glass enclosed showcase for the salad preparation. The glass enclosure wraps through the space to connect both entrances in to the shop. Along this wall a rich composition of white glossy subway tiles, green glazed tiles, brass words, wood shelves, logos, menu boards, and plants are hung off a brass structure that is suspended from a small extending canopy and folds down the walls and floors. On the floor a pattern is created by the brass strips that is further emphasised by varying the tile sizes and directions. The inside of the kitchen is finished with green glazed tiles. A free standing brass table wrapped in green mesh seats 10 people.
