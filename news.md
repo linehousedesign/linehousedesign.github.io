@@ -5,15 +5,16 @@ permalink: /news/
 banner: /assets/images/main-site-images/footer-news.jpg
 ---
 
-<hr>
 <div>
 <div style="display: inline-block;">
-<img width="100" src="/assets/images/news/hypebeast_logo.png">
+<img width="100" src="/assets/images/news/hypebeast-logo.png">
 </div>
 <div style="display: inline-block; padding-left: 15px">
 <b>Factory Five featured on Hypebeast</b><br>
 Our work was featured on <a href="http://hypebeast.com/2014/12/factory-five-opens-a-new-shop"> Hypebeast's highlights</a>.
 </div>
+</div>
+<hr>
 <div>
 <div style="display: inline-block;">
 <img width="100" src="/assets/images/news/dfa-silver-award.jpg">
