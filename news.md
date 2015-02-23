@@ -7,6 +7,17 @@ banner: /assets/images/main-site-images/footer-news.jpg
 
 <div>
 <div style="display: inline-block;">
+<img width="50" src="/assets/images/news/archdaily.png">
+<img width="50" src="/assets/images/news/designboom-logo.gif">
+</div>
+<div style="display: inline-block; padding-left: 15px">
+<b>Lone Ranger Hot Dog shop Featured Online </b><br>
+Our project has been featured on both <a href="http://www.archdaily.com/598150/lone-ranger-hot-dog-shop-linehouse/">Arch Daily</a> and <a href="http://www.designboom.com/architecture/linehouse-lone-ranger-hot-dog-shop-shanghai-china-02-11-2015/">Design Boom</a>.
+</div>
+</div>
+<hr>
+<div>
+<div style="display: inline-block;">
 <img width="100" src="/assets/images/news/hypebeast-logo.png">
 </div>
 <div style="display: inline-block; padding-left: 15px">
