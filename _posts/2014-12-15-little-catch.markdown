@@ -11,7 +11,7 @@ details:
   -  Address: Wulumuqi Road, Shanghai 
   -  Area: 18sqm
 header-image: /assets/images/projects/little-catch-wulumuqi/lc-9-edit.jpg
-square-image: /assets/images/projects/little-catch-wulumuqi/little-catch-square.jpg
+square-image: /assets/images/projects/little-catch-wulumuqi/little-catch-square_001.jpg
 image-gallery:
   -  /assets/images/projects/little-catch-wulumuqi/lc-9-edit.jpg
 ---
