@@ -37,6 +37,12 @@ presslinks:
   -  name: Design Boom, Factory Five
      image: /assets/images/press/design-boom-factory-five.jpg
      url: http://www.designboom.com/architecture/factory-5-bikes-jingan-linehouse-02-27-2015/
+  -  name: Dezeen, Shenzhen Deli
+     image: /assets/images/press/dezeen-deli-shenzhen.jpg
+     url: http://www.dezeen.com/2014/06/06/brass-cage-like-structure-inserted-into-shenzhen-patisserie-by-linehouse/
+  -  name: Archilovers, Factory Five
+     image: /assets/images/press/archilovers-factory-five.jpg
+     url: http://www.archilovers.com/projects/150296/factory-5-bike-shop.html
 ---
 
 <div class="news-grid-page">
