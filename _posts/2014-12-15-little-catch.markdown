@@ -10,13 +10,10 @@ details:
   -  Location: Shanghai, China
   -  Address: Wulumuqi Road, Shanghai 
   -  Area: 18sqm
-header-image: /assets/images/projects/little-catch-wulumuqi/little-catch-003.jpg
+header-image: /assets/images/projects/little-catch-wulumuqi/lc-9-edit.jpg
 square-image: /assets/images/projects/little-catch-wulumuqi/little-catch-square.jpg
 image-gallery:
-  -  /assets/images/projects/little-catch-wulumuqi/little-catch-002.jpg
-  -  /assets/images/projects/little-catch-wulumuqi/little-catch-003.jpg
-  -  /assets/images/projects/little-catch-wulumuqi/little-catch-004.jpg
-  -  /assets/images/projects/little-catch-wulumuqi/little-catch-005.jpg
+  -  /assets/images/projects/little-catch-wulumuqi/lc-9-edit.jpg
 ---
 
 Located on one of Shanghai’s busiest streets full of local street food, small restaurants and bustling activity, Little Catch is a fishmonger specialising in fresh seafood, as well as cooked foods. The design concept is conceived as a three dimensional net that externally reaches into the street as a canopy, and envelops the customers as they enter into the shop.

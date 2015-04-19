@@ -4,7 +4,6 @@ title: News
 permalink: /news/
 banner: /assets/images/main-site-images/footer-news.jpg
 ---
-
 <div>
 <div style="display: inline-block;">
 <img width="50" src="/assets/images/news/archdaily.png">

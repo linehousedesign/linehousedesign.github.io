@@ -104,6 +104,37 @@ body
       &:hover
         color: #aaa
 
+.news-grid-page
+  .news-container
+    width: 22%
+    @include respond-to($bigthreshold)
+      width: 47%
+    @include respond-to($mobilethreshold)
+      width: 100%
+    display: inline-block
+    border: #000
+    border-width: 0px
+    border-style: solid
+    padding: 5px 5px 5px 5px
+  .image-box
+    display: inline-block
+  .info-box
+    width: 100%
+    background-color: #FFF
+    padding: 5px
+  p
+    margin: 0 0 0 0
+    font-family: $font-sans
+    text-decoration: none
+    font-size: 14px
+    line-height: 1
+    color: #555
+  a
+    text-decoration: none
+    color: #333
+    &:hover
+      color: #aaa
+
 .project-grid-page
   .project-container
     width: 31%

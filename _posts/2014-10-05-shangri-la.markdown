@@ -9,7 +9,7 @@ details:
   -  Architect: Linehouse
   -  Location: Shenzhen, China
   -  Address: 4088 Yi Tian Road, Futian District, Shenzhen, 518048, China
-  -  Area: Interior - 110sqm 
+  -  Area:  interior - 35sqm, exterior - 110sqm 
   -  Photographer: Benoit Florencon
 header-image: /assets/images/projects/deli-shangrila/deli-sz-000.jpg
 square-image: /assets/images/projects/deli-shangrila/square-deli-001.jpg
