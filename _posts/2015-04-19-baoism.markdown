@@ -5,7 +5,7 @@ date:   2015-04-19 14:34:25
 categories: design conceptual
 tags: featured
 details:
-  -  Year of Completion: 2015
+  -  Year of Completion: Ongoing, 2015
   -  Architect: Linehouse
   -  Location: Shanghai, China
   -  Address: Xintiandi, Shanghai, China
