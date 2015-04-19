@@ -19,6 +19,9 @@ presslinks:
   -  name: Design Boom, Lone Ranger
      image: /assets/images/press/design-boom-lone-ranger.jpg
      url: http://www.designboom.com/architecture/linehouse-lone-ranger-hot-dog-shop-shanghai-china-02-11-2015/
+  -  name: Wallpaper, Factory Five
+     image: /assets/images/press/wallpaper-factory-five.jpg
+     url: http://www.wallpaper.com/travel-directory/china/shanghai/shops/factory-five/605
   -  name: Arch Daily, Lone Ranger
      image: /assets/images/press/arch-daily-lone-ranger.jpg
      url: http://www.archdaily.com/598150/lone-ranger-hot-dog-shop-linehouse/
@@ -34,9 +37,6 @@ presslinks:
   -  name: Design Boom, Factory Five
      image: /assets/images/press/design-boom-factory-five.jpg
      url: http://www.designboom.com/architecture/factory-5-bikes-jingan-linehouse-02-27-2015/
-  -  name: Wallpaper, Factory Five
-     image: /assets/images/press/wallpaper-factory-five.jpg
-     url: http://www.wallpaper.com/travel-directory/china/shanghai/shops/factory-five/605
 ---
 
 <div class="news-grid-page">

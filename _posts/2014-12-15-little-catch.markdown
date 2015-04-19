@@ -18,4 +18,4 @@ image-gallery:
 
 Located on one of Shanghai’s busiest streets full of local street food, small restaurants and bustling activity, Little Catch is a fishmonger specialising in fresh seafood, as well as cooked foods. The design concept is conceived as a three dimensional net that externally reaches into the street as a canopy, and envelops the customers as they enter into the shop.
 
-The net is made out of a white powder coated metal structure infilled with various types of mesh of varying density and transparencies. Internally the metal structure folds and bends to become the ice counters, the cashier, and a table seating two.       
+The net is made out of a white powder coated metal structure infilled with various types of mesh of varying density and transparencies. Internally the metal structure folds and bends to become the ice counters, the cashier, and a table seating two.
