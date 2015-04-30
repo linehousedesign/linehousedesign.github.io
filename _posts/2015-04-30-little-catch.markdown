@@ -12,7 +12,7 @@ details:
   -  Location: Shanghai, China
   -  Address: Wulumuqi Road, Shanghai, China
   -  Area: 18sqm
-header-image: /assets/images/projects/little-catch/linehouse-little-catch-001.jpg
+header-image: /assets/images/projects/little-catch/linehouse-little-catch-003.jpg
 square-image: /assets/images/projects/little-catch/linehouse-little-catch-square.jpg
 image-gallery:
   -  /assets/images/projects/little-catch/linehouse-little-catch-001.jpg
