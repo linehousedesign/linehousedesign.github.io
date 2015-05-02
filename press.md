@@ -4,10 +4,17 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 presslinks: 
+  -  name: Elle Decor, Factory Five, May 2015
+     image: /assets/images/press/elle-decor-factory-five-5-may-2015.jpg
+     url: http://www.elledecor.it/interior-decoration/Linehouse-bike-shop-multifunzione-stile-industriale-shanghai
+  -  name: Modern Weekly, Factory Five, April 2015
+     image: /assets/images/press/modern-weekly-11-april-2015.jpg
+  -  name: L'officiel Magazine, Factory Five
+     image: /assets/images/press/linehouse-lofficiel.jpg
   -  name: Ehousing Magazine, Lone Ranger, March 2015
      image: /assets/images/press/ehousing-lone-ranger-001.jpg
      url: /assets/images/press/ehousing-lone-ranger.pdf
-     name: BOB Magazine, Lone Ranger, February 2015
+  -  name: BOB Magazine, Lone Ranger, February 2015
      image: /assets/images/press/bob-magazine-cover.jpg
      url: /assets/images/press/2015_2_bob-magazine.pdf
   -  name: Elle Decor, Lone Ranger
@@ -49,7 +56,11 @@ presslinks:
   {% for presslink in page.presslinks %}
 	<div class="news-container">
 		<div class="image-box">
-      <p><a href="{{ presslink.image }}" data-lightbox="lightbox-galery" data-title="{{ presslink.name }}<br /><a style='color: #CCC;' href='{{ presslink.url }}' target='_blank'>Link to full article</a>"><img width="100%" src="{{ presslink.image }}" alt="{{ presslink.name }}" title="{{ presslink.name }}" /></a></p>
+      <p><a href="{{ presslink.image }}" data-lightbox="lightbox-galery" data-title="{{ presslink.name }}<br />
+        {% if presslink.url %}
+          <a style='color: #CCC;' href='{{ presslink.url }}' target='_blank'>Link to full article</a>{% endif %}
+          ">
+        <img width="100%" src="{{ presslink.image }}" alt="{{ presslink.name }}" title="{{ presslink.name }}" /></a></p>
 		</div>
 		<div class="info-box">
 			<!-- p><a href="{{ presslink.url }}">{{ presslink.name }}</a></p> -->
