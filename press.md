@@ -4,6 +4,9 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 presslinks: 
+  -  name: Dezeen, Little Catch, May 2015
+     image: /assets/images/press/elle-decor-factory-five-5-may-2015.jpg
+     url: http://www.dezeen.com/2015/05/03/little-catch-fishmonger-in-shanghai-is-lined-with-a-metal-frame-net/
   -  name: Elle Decor, Factory Five, May 2015
      image: /assets/images/press/elle-decor-factory-five-5-may-2015.jpg
      url: http://www.elledecor.it/interior-decoration/Linehouse-bike-shop-multifunzione-stile-industriale-shanghai
