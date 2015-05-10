@@ -1,5 +1,6 @@
 ---
 layout: post
+featured:  yes
 title:  "Deli, Shangri-La Futian"
 date:   2014-10-04 14:34:25
 categories: corporate hospitality

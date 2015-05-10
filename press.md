@@ -4,6 +4,9 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 presslinks: 
+  -  name: Design Boom, Little Catch, May 2015
+     image: /assets/images/press/design-boom-little-catch.jpg
+     url: http://www.designboom.com/architecture/linehouse-little-catch-shanghai-05-05-2015/
   -  name: Dezeen, Little Catch, May 2015
      image: /assets/images/press/dezeen_little_catch.jpg
      url: http://www.dezeen.com/2015/05/03/little-catch-fishmonger-in-shanghai-is-lined-with-a-metal-frame-net/

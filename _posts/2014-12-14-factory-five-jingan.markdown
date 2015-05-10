@@ -1,5 +1,6 @@
 ---
 layout: post
+featured:  yes
 title:  "Factory Five Jingan"
 date:   2014-12-04 14:34:25
 categories: retail landscape

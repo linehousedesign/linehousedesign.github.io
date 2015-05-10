@@ -1,8 +1,10 @@
 ---
 layout: post
+featured:  yes
 title:  "Little Catch"
 date:   2015-04-30 20:06:25
 categories: design conceptual
+featured: yes
 tags: featured
 details:
   -  Year of Completion: January 2015
