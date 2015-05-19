@@ -4,6 +4,13 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 presslinks: 
+  -  name: INDESIGNLIVE, May 2015
+     image: /assets/images/press/indesign_live_hk.jpg
+     url: http://www.indesignlive.hk/articles/people/linehouse-design-poetry-and-pragmatism
+  -  name: AD Germany, Shenzhen Deli, May 2015
+     image: /assets/images/press/ad_germany_may_2015_002.jpg
+  -  name: AD Germany, Shenzhen Deli, May 2015
+     image: /assets/images/press/ad_germany_may_2015_001.jpg
   -  name: Design Boom, Little Catch, May 2015
      image: /assets/images/press/design-boom-little-catch.jpg
      url: http://www.designboom.com/architecture/linehouse-little-catch-shanghai-05-05-2015/
