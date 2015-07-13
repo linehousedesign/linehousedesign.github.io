@@ -1,17 +1,27 @@
 ---
 layout: post
 title:  "ALL SH"
-date:   2015-04-19 14:34:25
+date:   2015-07-10 14:34:25
 categories: design conceptual
 tags: featured
+featured: yes
 details:
-  -  Year of Completion: Ongoing, 2015
+  -  Year of Completion: 2015
   -  Architect: Linehouse
   -  Location: Shanghai, China
   -  Address: Wuxing Road, Shanghai, China
   -  Area: 20sqm
-header-image: /assets/images/projects/all-sh/linehouse-all-sh-001.jpg
-square-image: /assets/images/projects/all-sh/linehouse-all-sh-square.jpg
+header-image: /assets/images/projects/all-sh/all_shanghai_linehouse_001.jpg
+square-image: /assets/images/projects/all-sh/all_shanghai_linehouse_square.jpg
 image-gallery:
-  -  /assets/images/projects/all-sh/linehouse-all-sh-001.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_001.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_002.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_003.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_004.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_005.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_006.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_007.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_008.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_009.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_010.jpg
 ---

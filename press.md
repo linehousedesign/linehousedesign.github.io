@@ -3,7 +3,25 @@ layout: page
 title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
-presslinks: 
+presslinks:
+  -  name: Interiors, Shenzhen Deli, May 2015
+     image: /assets/images/press/interiors-deli-shenzhen-001.jpg
+  -  name: Interiors, Shenzhen Deli, May 2015
+     image: /assets/images/press/interiors-deli-shenzhen-002.jpg
+  -  name: Interiors, Shenzhen Deli, May 2015
+     image: /assets/images/press/interiors-deli-shenzhen-003.jpg
+  -  name: Interiors, Shenzhen Deli, May 2015
+     image: /assets/images/press/interiors-deli-shenzhen-004.jpg
+  -  name: Interiors, Shenzhen Deli, May 2015
+     image: /assets/images/press/interiors-deli-shenzhen-005.jpg
+  -  name: CityWeekend, Factory Five, Summer 2015
+     image: /assets/images/press/cityweekend-factory-five.jpg
+  -  name: NYARUM, Lone Ranger, Summer 2015
+     image: /assets/images/press/nya-rum-lone-ranger-001.jpg
+  -  name: NYARUM, Lone Ranger, Summer 2015
+     image: /assets/images/press/nya-rum-lone-ranger-002.jpg
+  -  name: NYARUM, Lone Ranger, Summer 2015
+     image: /assets/images/press/nya-rum-lone-ranger-003.jpg
   -  name: INDESIGNLIVE, May 2015
      image: /assets/images/press/indesign_live_hk.jpg
      url: http://www.indesignlive.hk/articles/people/linehouse-design-poetry-and-pragmatism
