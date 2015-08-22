@@ -11,7 +11,7 @@ details:
   -  Location: Shanghai, China
   -  Address: Wuxing Road, Shanghai, China
   -  Area: 20sqm
-header-image: /assets/images/projects/all-sh/all_shanghai_linehouse_001.jpg
+header-image: /assets/images/projects/all-sh/all_shanghai_linehouse_011.jpg
 square-image: /assets/images/projects/all-sh/all_shanghai_linehouse_square.jpg
 image-gallery:
   -  /assets/images/projects/all-sh/all_shanghai_linehouse_001.jpg
