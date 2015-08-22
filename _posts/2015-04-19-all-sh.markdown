@@ -24,4 +24,6 @@ image-gallery:
   -  /assets/images/projects/all-sh/all_shanghai_linehouse_008.jpg
   -  /assets/images/projects/all-sh/all_shanghai_linehouse_009.jpg
   -  /assets/images/projects/all-sh/all_shanghai_linehouse_010.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_011.jpg
+  -  /assets/images/projects/all-sh/all_shanghai_linehouse_012.jpg
 ---
