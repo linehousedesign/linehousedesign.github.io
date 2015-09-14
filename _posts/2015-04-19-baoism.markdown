@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Baoism"
+featured:  yes
 date:   2015-04-19 14:34:25
 categories: design conceptual
 tags: featured
