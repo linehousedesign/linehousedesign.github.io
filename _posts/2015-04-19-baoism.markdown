@@ -10,12 +10,12 @@ details:
   -  Location: Shanghai, China
   -  Address: Xintiandi, Shanghai, China
   -  Area: 52sqm
-header-image: /assets/images/projects/baoism-xintiandi/linehouse-baoism-001.jpg
+header-image: /assets/images/projects/baoism-xintiandi/linehouse-baoism-003.jpg
 square-image: /assets/images/projects/baoism-xintiandi/linehouse-baoism-square.jpg
 image-gallery:
-  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-001.jpg
-  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-002.jpg
   -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-003.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-002.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-001.jpg
   -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-004.jpg
   -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-005.jpg
 ---
