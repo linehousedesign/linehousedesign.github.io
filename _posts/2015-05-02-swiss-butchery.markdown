@@ -12,10 +12,9 @@ details:
   -  Location: Shanghai, China
   -  Address: Hong Mei Road, Shanghai, China
   -  Area: 160sqm
-header-image: /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-004.jpg
+header-image: /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-001.jpg
 square-image: /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-square.jpg
 image-gallery:
-  -  /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-001.jpg
   -  /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-002.jpg
   -  /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-003.jpg
   -  /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-004.jpg
@@ -26,5 +25,7 @@ image-gallery:
   -  /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-009.jpg
   -  /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-010.jpg
   -  /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-011.jpg
+  -  /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-001.jpg
+
 ---
 Swiss Butchery is a butchery opening soon.
