@@ -9,8 +9,9 @@ details:
   -  Year of Completion: 2015
   -  Architect: Linehouse
   -  Location: Shanghai, China
-  -  Address: Wuxing Road, Shanghai, China
+  -  Address: 94 Wuxing Road, Shanghai, China
   -  Area: 20sqm
+  -  Photographer: Benoit Florencon
 header-image: /assets/images/projects/all-sh/all_shanghai_linehouse_011.jpg
 square-image: /assets/images/projects/all-sh/all_shanghai_linehouse_square.jpg
 image-gallery:
@@ -27,3 +28,12 @@ image-gallery:
   -  /assets/images/projects/all-sh/all_shanghai_linehouse_011.jpg
   -  /assets/images/projects/all-sh/all_shanghai_linehouse_012.jpg
 ---
+Located in the former French concession, Shanghai, on a tree lined street, ALL SH is a street wear shop selling clothing and shoes. The existing shell was stripped back to its raw state, exposing the patina of the concrete walls. The new insertion is a series of white thin vertical planes, installed at an angle through the space.
+
+The angle of these planes continues as stainless steel strips on the floor and ceiling, extending to the wall beyond, becoming mechanisms of display.
+
+Linehouse wanted to make the best use of the 20sqm space in order for the display of the product to be visible from the street, and draw consumers into the interior.
+
+The strong angled insertions is further reinforced with the angled concrete bench located on the exterior and the mirror counter which reflects the surrounding street scape. In working with a minimal palette of mirror, white metal and stainless steel, there is a strong contrast between the existing and the new. 
+
+The space in-between the planes is filled with mirror, reflecting the rough existing shell and emphasising the thinness of the inserted walls. These mirror panels operate as storage units behind, the biggest being a changing room.
