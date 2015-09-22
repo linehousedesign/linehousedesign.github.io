@@ -4,7 +4,6 @@ title:  "ALL SH"
 date:   2015-07-10 14:34:25
 categories: design conceptual
 tags: featured
-featured: yes
 details:
   -  Year of Completion: 2015
   -  Architect: Linehouse
