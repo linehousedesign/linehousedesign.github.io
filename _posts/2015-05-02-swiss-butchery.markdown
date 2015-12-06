@@ -30,8 +30,8 @@ image-gallery:
 ---
 Charged with the task of designing a contemporary space for a new premium butchery in Shanghai, Linehouse were concerned with balancing clean lines with a warm atmosphere; remembering the craft of butchery while upholding a high standard meat handling environment.
  
-A horizontal datum encircles the total space, distinguishing the warm wooden paneled walls below, from a bright white ceiling above. Hanging metal racks, aligning with the custom refrigeration display units, display butchery utensils, cookery equipment and merchandise. The flooring is speckled grey terrazzo. 
+A horizontal datum encircles the total space, distinguishing the warm wooden paneled walls below from a bright white ceiling above. Hanging metal racks, aligning with the custom refrigeration display units, display butchery utensils, cookery equipment and merchandise. The flooring is speckled grey terrazzo.
  
-Custom-built adjustable shelving house a range of imported grocery items and wines, and acrylic paneling allow the option of closing specific shelves for storage. Touches of red and white are incorporated within the space to link with the Swiss origins of the butchery owners and their reputation for quality and precision.
+Custom-built adjustable shelving house a range of imported grocery items and wines. Acrylic paneling allow the option of closing specific shelves for storage. Touches of red and white are incorporated within the space to link with the Swiss origins of the butchery owners and their reputation for quality and precision.
  
-The back of house area is split level, with defined spaces including meat preparation areas, a cold room, storage and an office. 
+The back of house area is split level, with defined spaces including meat preparation areas, a cold room, storage and office. 
