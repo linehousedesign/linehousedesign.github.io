@@ -5,8 +5,8 @@ permalink: /contact/
 banner: /assets/images/main-site-images/footer-contact.jpg
 ---
 LINEHOUSE    
-667 Changhua Lu  
-Unit S1
+665 Changhua Lu  
+Unit B2
 Jing'an District
 Shanghai, China
 
