@@ -11,8 +11,8 @@ details:
   -  Location: 45 Tung Street, Sheung Wan, Hong Kong
   -  Area: 61sqm
   -  Photographer: Olivier Hero Dressen
-header-image: /assets/images/projects/cote-ciel-hong-kong/linehouse-ganqishi-baozi-001.jpg
-square-image: /assets/images/projects/cote-ciel-hong-kong/linehouse-ganqishi-baozi-square.jpg
+header-image: /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_001.jpg
+square-image: /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_square.jpg
 image-gallery:
   -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_002.jpg
   -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_003.jpg
