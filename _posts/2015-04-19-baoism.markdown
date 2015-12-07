@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Baoism"
-featured:  yes
-date:   2015-04-19 14:34:25
+title: "Baoism"
+featured: yes
+date: 2015-04-19 14:34:25
 categories: design conceptual
 tags: featured
 details:
@@ -20,16 +20,16 @@ image-gallery:
   -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-004.jpg
   -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-005.jpg
 ---
-Baoism is a new food concept originated in Shanghai, a modern / hip version of the traditional street food Baozi; served in a clam-shell like bun.
+Baoism is a new food concept originated in Shanghai, a modern, hip version of the traditional street food Baozi; served in a clam-shell like bun.
 
 Although the ingredients are modern interpretation, the age old process of cooking in a traditional woven bamboo steamer is a prime focus of display in the kitchen. Linehouse took this traditional handicraft notion of weaving and applied it in a spatial way, but rather with a non-traditional material. Perforated raw metal panels are woven between the structure that frame the dining area and the service area.
 
-The logo & branding for Baoism stemmed from the concept of I-Ching, an ancient divination text and the oldest of the Chinese classics.  The text of I-Ching is called Zhou Yi. The basic unit of this is the hexagram, a figure composed of six horizontal lines. Each line is either broken or unbroken.
+The logo & branding for Baoism stemmed from the concept of I-Ching, an ancient divination text and the oldest of the Chinese classics. The text of I-Ching is called Zhou Yi. The basic unit of this is the hexagram, a figure composed of six horizontal lines. Each line is either broken or unbroken.
 
-Linehouse used this concept of stacked and directional lines to create two structure’s that frame the dining and the kitchen / service area.  Custom lights float in-between the structure at high level, creating a broken rhythm above.
+Linehouse used this concept of stacked and directional lines to create two structure’s that frame the dining and kitchen/service areas. Custom lights float in-between the structure at high level, creating a broken rhythm above.
 
 A datum line of bronze poles define the lower half of structure, with raw steel above. These two materials make a playful composition of rough vs refined. Wood leaners extend out from the structure for guests to dine upon.
 
 The bar counter is composed of ‘dead’ wood. With 450mm x 450mm wood sections stacked upon each other. A burnt logo is branded into the front elevation of the wood. Canvas menu boards and graphics hang from the structure at high level, operating as blinds, which can be closed or opened depending on the time of operations.
 
-The Custom bar stool took reference from the petite wooden stools, commonly seen on the street corners of Shanghai.  A wooden handle extends out operating as a mechanism to move the stool and to hang one's bag. 
+The Custom bar stool took reference from the petite wooden stools, commonly seen on the street corners of Shanghai. A wooden handle extends out operating as a mechanism to move the stool and to hang one's bag. 

@@ -1,0 +1,26 @@
+---
+layout: post
+featured: no
+title: "Cote & Ciel"
+date: 2015-12-07 10:55:25
+categories: design retail
+tags: featured
+details:
+  -  Year of Completion: 2015
+  -  Architect: Linehouse
+  -  Location: 45 Tung Street, Sheung Wan, Hong Kong
+  -  Area: 61sqm
+  -  Photographer: Olivier Hero Dressen
+header-image: /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-001.jpg
+square-image: /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-square.jpg
+image-gallery:
+  -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-001.jpg
+  -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-002.jpg
+  -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-003.jpg
+  -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-004.jpg
+---
+Cote & Ciel is inspired by the complementary clash between coast and sky. Linehouse’s interpretation visualises what the collision of different elements would look like; nature vs urban, inside vs outside, and reflective vs matt. The site on Sheung Wan’s Tung Street was designed to have two double height spaces, one at the entrance, and one at the back where a garden was inserted.
+
+These two spaces were filled with a vertical field of metal poles which serves as the vertical connection between the elements. The poles has a horizontal and vertical gradient from rough to polished finish. The polished finish on some of the poles and walls reflect the urban and natural environments. The poles also serve as an apparatus for display; suspended display boxes, mirrors and hooks are used for bag display.
+
+The intermediary retail space between the elemental installations was clad in grey bush hammered basalt stone. The bag display fixtures were designed out of a black lava stone, stainless steel and black metal and a stainless steel mesh. Custom lighting was made out of stainless steel and tube lighting. Finally the cashier desk was clad in a grey Balmes stone complimented with stainless steel inserts. 
