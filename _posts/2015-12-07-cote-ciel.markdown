@@ -10,7 +10,7 @@ details:
   -  Architect: Linehouse
   -  Location: 45 Tung Street, Sheung Wan, Hong Kong
   -  Area: 61sqm
-  -  Photographer: Olivier Hero Dressen
+  -  Photographer: Hoshing Mok
 header-image: /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_001.jpg
 square-image: /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_square.jpg
 image-gallery:
