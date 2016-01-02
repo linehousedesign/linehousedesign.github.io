@@ -11,16 +11,27 @@ details:
   -  Location: 45 Tung Street, Sheung Wan, Hong Kong
   -  Area: 61sqm
   -  Photographer: Hoshing Mok
-header-image: /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_001.jpg
+header-image: /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_007.jpg
 square-image: /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_square.jpg
 image-gallery:
   -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_002.jpg
   -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_003.jpg
   -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_004.jpg
-  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_001.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_005.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_006.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_007.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_008.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_009.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_010.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_011.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_012.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_013.jpg
+  -  /assets/images/projects/cote-ciel-hong-kong/linehouse_cote_ciel_014.jpg
 ---
-Cote & Ciel is inspired by the complementary clash between coast and sky. Linehouse’s interpretation visualises what the collision of different elements would look like; nature vs urban, inside vs outside, and reflective vs matt. The site on Sheung Wan’s Tung Street was designed to have two double height spaces, one at the entrance, and one at the back where a garden was inserted.
+Côte&Ciel is inspired by the complementary clash between coast (côte) and sky (ciel). Linehouse’s interpretation visualises the collision of these two elements in various ways; nature versus urbanity, inside versus outside, and reflective versus matt. The site in Hong Kong, on Tung Street in Sheung Wan was designed to contain two double height spaces; one at the entrance and one at the back where a garden was inserted. 
 
-These two spaces were filled with a vertical field of metal poles which serves as the vertical connection between the elements. The poles has a horizontal and vertical gradient from rough to polished finish. The polished finish on some of the poles and walls reflect the urban and natural environments. The poles also serve as an apparatus for display; suspended display boxes, mirrors and hooks are used for bag display.
+These two spaces were filled with a vertical field of metal poles, which serve as a perpendicular connection between the elements. The poles have a horizontal and vertical gradient from rough to polished finish. Vertically, a datum of polished stainless steel defines the high level of the poles and rough finish at lower level. The façade features a horizontal gradient, composed of different finishes of metal; polished stainless steel, brushed steel, raw steel and black metal. 
 
-The intermediary retail space between the elemental installations was clad in grey bush hammered basalt stone. The bag display fixtures were designed out of a black lava stone, stainless steel and black metal and a stainless steel mesh. Custom lighting was made out of stainless steel and tube lighting. Finally the cashier desk was clad in a grey Balmes stone complimented with stainless steel inserts. 
+The poles operate as an apparatus for display with suspended exhibition boxes contained within, and mirrors and hooks are used for bag display. 
+
+The intermediary retail space between the elemental installations is clad in grey bush hammered basalt stone. The bag display fixtures are designed with black lava stone, black metal and perforated stainless steel. Custom lighting is made of polished stainless steel and tube lighting. Finally, the cashier desk is clad in a grey Balmes stone complimented with stainless steel inserts. 
