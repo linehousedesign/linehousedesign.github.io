@@ -5,20 +5,14 @@
   {% include head.html %}
   <body itemscope itemtype="http://schema.org/Article">
     {% include header.html %}
+		<header="blog-header">
+			<div class="blog-header">
+		      <div class="blog-title"><img src="/assets/images/main-site-images/linehouse-logo.png"></div>
+		  </div>
+		</header>
+		{% include menu-strip.html %}
     <main class="content" role="main">
       <article class="post">
-        <div class="noarticleimage">
-          <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ page.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
-            </div>
-          </div>
-        </div>
-        <br>
-        <br>
-        <br>
 		<section>
 		  <a name="topofpage"></a>
 		  <div class="post-response">
@@ -28,7 +22,6 @@
         </div>
       </article>
     </main>
-	{% include menu-strip.html %}
 	{% include footer.html %}
   </body>
 </html>

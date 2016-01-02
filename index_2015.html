@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="teaserimage">
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+        Teaser Image
+    </div>
+</div>
+
+{% include menu-strip.html %}
+
+<header="blog-header">
+	<div class="blog-header">
+      <h1 class="blog-title"></h1>
+      <center><img src="/assets/images/main-site-images/linehouse-logo.png"></center>
+  </div>
+</header>
+
+<div class="sub-header" style="padding: 0 32px 0 32px;">
+</div>
+
+{% include projects-teaser-grid.html %}
+
+<script>
+    (function ($) {
+        "use strict";
+
+        $(document).ready(function(){
+
+            var $window = $(window),
+                $image = $('.teaserimage-image');
+            $window.on('scroll', function() {
+                var top = $window.scrollTop();
+
+                if (top < 0 || top > 1500) { return; }
+                $image
+                    .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+                    .css('opacity', 1-Math.max(top/700, 0));
+            });
+            $window.trigger('scroll');
+
+        });
+
+    }(jQuery));
+
+</script>
+
+
+<main class="content" role="main">
+
+
+    <!-- {{!! After all the posts, we have the previous/next pagination links }}
+    {{pagination}} -->
+
+</main>

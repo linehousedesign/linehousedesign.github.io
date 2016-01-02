@@ -1,56 +1,77 @@
 ---
 layout: default
+image-gallery:
+  -  assets/images/main-site-images/slider/LINEHOUSE_ALLSH_11_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_ALLSH_1_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_BAO_1_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_BAO_3_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_BUTCHERS_1_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_BUTCHERS_2_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_Baoism_1_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_CC_4_HONGKONG.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_CC_5_HONGKONG.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_CC_7_HONGKONG.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_DRESSED_1_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_DRESSED_2_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_F5Jingan_2_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_LITTLECATCH_1_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_LITTLECATCH_3_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_LONERANGER_10_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_LONERANGER_1_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_LONERANGER_2_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_LONERANGER_7_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_SHZ_1_SHENZHEN.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_SHZ_2+SHENZHEN.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_TRIBECA_1_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_TRIBECA_2_SHANGHAI.jpg
+  -  assets/images/main-site-images/slider/LINEHOUSE_TRIBECA_3_SHANGHAI.jpg	
 ---
-
-<div class="teaserimage">
-    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
-        Teaser Image
-    </div>
-</div>
-
-{% include menu-strip.html %}
 
 <header="blog-header">
 	<div class="blog-header">
-      <h1 class="blog-title"></h1>
-      <center><img src="/assets/images/main-site-images/linehouse-logo.png"></center>
+      <div class="blog-title"><img src="/assets/images/main-site-images/linehouse-logo.png"></div>
   </div>
 </header>
 
 <div class="sub-header" style="padding: 0 32px 0 32px;">
 </div>
 
-{% include projects-teaser-grid.html %}
+{% include menu-strip.html %}
 
-<script>
-    (function ($) {
-        "use strict";
-
-        $(document).ready(function(){
-
-            var $window = $(window),
-                $image = $('.teaserimage-image');
-            $window.on('scroll', function() {
-                var top = $window.scrollTop();
-
-                if (top < 0 || top > 1500) { return; }
-                $image
-                    .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
-                    .css('opacity', 1-Math.max(top/700, 0));
-            });
-            $window.trigger('scroll');
-
-        });
-
-    }(jQuery));
-
-</script>
+<div id="image-strip" class="media">
+  {% if page.image-gallery %} 
+    <div class="flexslider">
+      <ul class="slides">
+        {% for image in page.image-gallery %}
+          <li>
+            <a href="{{image}}" data-lightbox="lightbox-gallery" data-title="{{page.title}}">
+              <img src="{{image}}" />
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+</div>
 
 
-<main class="content" role="main">
-
-
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
-
-</main>
+  <script>
+    $(window).load(function() {
+      $('.flexslider').flexslider({
+        animation: "fade"
+      });
+	  imageStripFade();
+    });
+	$(window).resize(function() {
+      //imageStripFade();
+    });
+	{% if page.image-gallery %} 
+      function imageStripFade() {
+        var targetHeight = $("#content").height();
+        var currentHeight = $("#image-strip").height();
+        var toChopOff = currentHeight - targetHeight;
+        document.getElementById('image-strip').setAttribute("style","height: "+targetHeight+"px");
+        document.getElementById('fadeout').setAttribute("style","bottom: "+toChopOff+"px");
+      }
+    {% endif %}
+  </script>

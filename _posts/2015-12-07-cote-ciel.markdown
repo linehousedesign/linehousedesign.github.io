@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: no
-title: "Cote & Ciel"
+title: "Côte&Ciel"
 date: 2015-12-07 10:55:25
 categories: design retail
 tags: featured
