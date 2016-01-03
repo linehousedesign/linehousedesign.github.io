@@ -33,7 +33,7 @@ $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
     background-image: url("../img/open.png")
 
 .media
-  width: 80%
+  width: 60%
   margin: 0 auto
 
 body
@@ -91,24 +91,31 @@ body
   max-width: $stdwidth
 	
 .menu-wrapper
+  font-size: 15px
   text-align: center
+  padding-bottom: 40px
   .menu-strip
     margin: 0 auto
     height: 50px
     position: relative
-    padding: 0
     background-color: #FFF
     @include box-sizing(border-box)
     @include respond-to($mobilethreshold)
       padding: 0 0
       font-size: 14px
     .menu-links
+      .underlined
+        border-bottom: 2px solid #000
       margin: 0 auto
       padding-top: 12px
+      padding-bottom: 3px
       text-align: center
       color: #ccc
+      span
+        margin: 0 7px 
+        padding-bottom: 5px
       a
-        padding-right: 20px
+        padding: 0px
         text-decoration: none
         color: #222
         &:hover

@@ -5,7 +5,7 @@ title: "甘其食BAOBAO Tongji"
 date: 2015-12-11 10:55:25
 categories: design f&b
 details:
-  -  Year of Completion: 2015
+  -  Year of Completion: 2016
   -  Architect: Linehouse
   -  Location: Tongji University, Shanghai, China
   -  Area: 78sqm

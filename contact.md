@@ -10,6 +10,8 @@ Unit B2
 Jing'an District
 Shanghai, China
 
-<a href="mailto:info@linehousedesign.com">info@linehousedesign.com</a>
+For project enquiries:
+<br /><a href="mailto:info@linehousedesign.com">info@linehousedesign.com</a>
 
-For career opportunies contact <a href="mailto:jobs@linehousedesign.com">jobs@linehousedesign.com</a>
+For career opportunies:
+<br /><a href="mailto:jobs@linehousedesign.com">jobs@linehousedesign.com</a>

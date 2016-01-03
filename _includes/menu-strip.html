@@ -1,11 +1,11 @@
 <div class="menu-wrapper">
 	<header class="menu-strip">
 		<div class="menu-links">
-			<a href="/">Home</a>
-			<a href="/profile/"{% if page.title == 'Profile' %} style="font-weight: 800"{% endif %}>Profile</a>
-			<a href="/projects/" {% if page.title == 'Projects' %} style="font-weight: 800"{% endif %}>Projects</a>
-			<a href="/press/"{% if page.title == 'Press' %} style="font-weight: 800"{% endif %}>Press</a>
-			<a href="/contact/"{% if page.title == 'Contact' %} style="font-weight: 800"{% endif %}>Contact</a>
+			<span><a href="/">Home</a></span>
+			<span {% if page.title == 'Profile' %}class="underlined"{% endif %}><a href="/profile/">Profile</a></span>
+			<span {% if page.title == 'Projects' %}class="underlined"{% endif %}><a href="/projects/">Projects</a></span>
+			<span {% if page.title == 'Press' %}class="underlined"{% endif %}><a href="/press/">Press</a></span>
+			<span {% if page.title == 'Contact' %}class="underlined"{% endif %}><a href="/contact/">Contact</a></span>
 		</div>
 	</header>
 </div>
