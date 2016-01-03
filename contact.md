@@ -13,5 +13,5 @@ Shanghai, China
 For project enquiries:
 <br /><a href="mailto:info@linehousedesign.com">info@linehousedesign.com</a>
 
-For career opportunies:
+For career opportunities:
 <br /><a href="mailto:jobs@linehousedesign.com">jobs@linehousedesign.com</a>
