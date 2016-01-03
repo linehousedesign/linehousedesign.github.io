@@ -35,6 +35,10 @@ $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 .media
   width: 60%
   margin: 0 auto
+  @include respond-to($bigthreshold)
+    width: 80%
+  @include respond-to($mobilethreshold)
+    width: 80%
 
 body
   font-family: $font-sans
