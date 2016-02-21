@@ -2,8 +2,8 @@
 layout: post
 featured: no
 title: "N3ON"
-date: 2016-02-21 11:10:25
-categories: design f&b
+date: 2016-02-20 11:10:25
+categories: design retail
 details:
   -  Year of Completion: 2016
   -  Architect: Linehouse
