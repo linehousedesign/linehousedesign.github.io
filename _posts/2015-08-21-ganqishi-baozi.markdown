@@ -11,7 +11,7 @@ details:
   -  Location: 65 Chifeng Rd, Shanghai, China
   -  Area: 61sqm
   -  Photographer: Olivier Hero Dressen
-header-image: /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-003.jpg
+header-image: /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-008.jpg
 square-image: /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-square.jpg
 image-gallery:
   -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-001.jpg
@@ -21,6 +21,7 @@ image-gallery:
   -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-005.jpg
   -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-006.jpg
   -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-007.jpg
+  -  /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-008.jpg
 
 ---
 Linehouse was commissioned to create a new branded architectural language for 甘其食BAOBAO, the first of many stores to line the streets of China and the US, selling the traditional Chinese street food baozi - steamed bread buns filled with meat, vegetable or sweet stuffings. 
