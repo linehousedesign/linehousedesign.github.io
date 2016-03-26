@@ -11,14 +11,20 @@ details:
   -  Location: Shanghai, China
   -  Address: Xintiandi, Shanghai, China
   -  Area: 52sqm
-header-image: /assets/images/projects/baoism-xintiandi/linehouse-baoism-003.jpg
+header-image: /assets/images/projects/baoism-xintiandi/linehouse-baoism-011.jpg
 square-image: /assets/images/projects/baoism-xintiandi/linehouse-baoism-square.jpg
 image-gallery:
-  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-003.jpg
-  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-002.jpg
   -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-001.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-002.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-002.jpg
   -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-004.jpg
   -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-005.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-006.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-007.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-008.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-009.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-010.jpg
+  -  /assets/images/projects/baoism-xintiandi/linehouse-baoism-011.jpg
 ---
 Baoism is a new food concept originated in Shanghai, a modern, hip version of the traditional street food Baozi; served in a clam-shell like bun.
 
