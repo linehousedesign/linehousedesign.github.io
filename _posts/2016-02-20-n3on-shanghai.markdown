@@ -14,15 +14,11 @@ details:
 header-image: /assets/images/projects/n3on-shanghai/n3on_shanghai_001.jpg
 square-image: /assets/images/projects/n3on-shanghai/n3on_shanghai_square.jpg
 image-gallery:
+  -  /assets/images/projects/n3on-shanghai/n3on_shanghai_001.jpg
   -  /assets/images/projects/n3on-shanghai/n3on_shanghai_002.jpg
   -  /assets/images/projects/n3on-shanghai/n3on_shanghai_003.jpg
   -  /assets/images/projects/n3on-shanghai/n3on_shanghai_004.jpg
-  -  /assets/images/projects/n3on-shanghai/n3on_shanghai_005.jpg
-  -  /assets/images/projects/n3on-shanghai/n3on_shanghai_006.jpg
-  -  /assets/images/projects/n3on-shanghai/n3on_shanghai_007.jpg
-  -  /assets/images/projects/n3on-shanghai/n3on_shanghai_008.jpg
   -  /assets/images/projects/n3on-shanghai/n3on_shanghai_009.jpg
-  -  /assets/images/projects/n3on-shanghai/n3on_shanghai_010.jpg
   -  /assets/images/projects/n3on-shanghai/n3on_shanghai_011.jpg
   -  /assets/images/projects/n3on-shanghai/n3on_shanghai_012.jpg
 ---
