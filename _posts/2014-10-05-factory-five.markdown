@@ -10,7 +10,6 @@ details:
   -  Location: Shanghai, China
   -  Address: 876 Jiangsu Road
   -  Area: 95sqm 
-  -  Photographer: Tyler Bowa
 header-image: /assets/images/projects/factory-five/factory_five_003.jpg
 square-image: /assets/images/projects/factory-five/factory_five_square.jpg
 image-gallery:

@@ -10,7 +10,7 @@ details:
   -  Architect: Linehouse
   -  Location: 65 Chifeng Rd, Shanghai, China
   -  Area: 61sqm
-  -  Photographer: Olivier Hero Dressen
+  -  Photographer: Olivier Hero Dressen & Dirk Weiblen
 header-image: /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-008.jpg
 square-image: /assets/images/projects/ganqishi-baozi/linehouse-ganqishi-baozi-square.jpg
 image-gallery:
