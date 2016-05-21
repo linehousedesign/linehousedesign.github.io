@@ -10,14 +10,10 @@ details:
   -  Architect: Linehouse
   -  Location: Shanghai, China
   -  Area: 5,000sqm
-header-image: /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-004.jpg
+header-image: /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-001.jpg
 square-image: /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-square.jpg
 image-gallery:
   -  /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-001.jpg
-  -  /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-002.jpg
-  -  /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-003.jpg
-  -  /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-004.jpg
-  -  /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-005.jpg
 ---
 Our concept starts with the creation of a public park as an extension of the project. This gives a place for the community to make the market a destination for all to enjoy in many ways. To maximise the best part of the site we propose to locate the park adjacent to the river.
 
