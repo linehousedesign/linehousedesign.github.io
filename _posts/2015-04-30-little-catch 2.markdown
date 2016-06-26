@@ -3,7 +3,7 @@ layout: post
 featured:  yes
 title:  "Little Catch"
 date:   2015-04-30 20:06:25
-categories: design conceptual
+categories: 'Architecture & Interior'
 featured: no
 tags: featured
 details:

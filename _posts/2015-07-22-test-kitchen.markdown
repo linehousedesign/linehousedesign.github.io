@@ -3,7 +3,7 @@ layout: post
 featured:  no
 title:  "Test Kitchen & Office"
 date:   2015-07-20 10:29:25
-categories: design conceptual
+categories: 'Architecture & Interior'
 tags: featured
 details:
   -  Year of Completion: Unfinished

@@ -2,7 +2,7 @@
 layout: post
 title:  "Wieden + Kennedy"
 date:   2014-10-01 14:34:25
-categories: design conceptual
+categories: 'Architecture & Interior'
 tags: featured
 details:
   -  Year of Completion: Unbuilt

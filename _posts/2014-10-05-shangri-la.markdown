@@ -3,7 +3,7 @@ layout: post
 featured:  no
 title:  "Deli, Shangri-La Futian"
 date:   2014-10-04 14:34:25
-categories: corporate hospitality
+categories: 'Architecture & Interior'
 tags: featured
 details:
   -  Year of Completion: 2014

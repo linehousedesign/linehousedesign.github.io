@@ -2,7 +2,7 @@
 layout: post
 title:  "Lone Ranger"
 date:   2014-10-03 14:34:25
-categories: retail landscape
+categories: 'Graphics Design'
 tags: featured
 details:
   -  Year of Completion: 2014

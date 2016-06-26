@@ -3,7 +3,7 @@ layout: post
 featured: no
 title: "甘其食BAOBAO Tongji"
 date: 2015-12-11 10:55:25
-categories: design f&b
+categories: 'Architecture & Interior'
 details:
   -  Year of Completion: 2016
   -  Architect: Linehouse

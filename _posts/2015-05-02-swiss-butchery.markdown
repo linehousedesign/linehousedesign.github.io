@@ -3,7 +3,7 @@ layout: post
 featured:  no
 title:  "Swiss Butchery"
 date:   2015-05-02 14:30:25
-categories: design conceptual
+categories: 'Architecture & Interior'
 tags: featured
 featured: yes
 details:

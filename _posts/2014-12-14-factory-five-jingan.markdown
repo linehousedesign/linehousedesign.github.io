@@ -2,7 +2,7 @@
 layout: post
 title:  "Factory Five Jingan"
 date:   2014-12-04 14:34:25
-categories: retail landscape
+categories: 'Architecture & Interior'
 tags: featured
 details:
   -  Year of Completion: 2014

@@ -3,7 +3,7 @@ layout: post
 featured:  no
 title:  "甘其食BAOBAO"
 date:   2015-08-21 10:29:25
-categories: design conceptual
+categories: 'Architecture & Interior'
 tags: featured
 details:
   -  Year of Completion: 2015

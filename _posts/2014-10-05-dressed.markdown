@@ -2,7 +2,7 @@
 layout: post
 title:  "Dressed Salads"
 date:   2014-10-02 14:34:25
-categories: design landscape
+categories: 'Graphics Design'
 tags: featured
 location: Shanghai
 details:

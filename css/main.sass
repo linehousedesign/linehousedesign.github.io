@@ -99,8 +99,9 @@ body
   text-align: center
   padding-bottom: 40px
   .menu-strip
+    display: table
     margin: 0 auto
-    height: 50px
+    height: 150px
     position: relative
     background-color: #FFF
     @include box-sizing(border-box)
@@ -108,6 +109,26 @@ body
       padding: 0 0
       font-size: 14px
     .menu-links
+      ul
+        -webkit-padding-start: 0px
+        list-style: none
+        li
+          min-width: 75px
+          float: left
+          list-style: none
+          &:hover ul
+            display: inherit
+          span
+            color: #222
+          ul
+            display: none
+            -webkit-padding-start: 0px
+            list-style: none
+            li
+              float: none
+              list-style: none
+              display: block
+              margin-top: 5px
       .underlined
         border-bottom: 2px solid #000
       margin: 0 auto
@@ -116,14 +137,15 @@ body
       text-align: center
       color: #ccc
       span
-        margin: 0 7px 
-        padding-bottom: 5px
+        margin: 3px 7px 
+        padding-bottom: 2px
       a
         padding: 0px
         text-decoration: none
         color: #222
         &:hover
           color: #aaa
+
 
 .news-grid-page
   .news-container

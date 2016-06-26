@@ -3,7 +3,7 @@ layout: post
 featured: no
 title: "Côte&Ciel"
 date: 2015-12-07 10:55:25
-categories: design retail
+categories: 'Architecture & Interior'
 tags: featured
 details:
   -  Year of Completion: 2015

@@ -1,3 +1,14 @@
+<div>
+	{% for post in site.posts %}
+	
+		{% for category in post.categories %}
+			{{ category }} <br/>
+		{% endfor %}
+			
+	{% endfor %}
+	
+</div>	
+	
 <div class="project-grid-page">
   {% for post in site.posts %}
 	<div class="project-container">
