@@ -1,13 +1,16 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2015/04/19/baoism.html
 title: "Baoism"
 featured: yes
 date: 2015-04-19 14:34:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: 2015
   -  Architect: Linehouse
+  -  Product Designer: Jean Philippe Bonzon
   -  Location: Shanghai, China
   -  Address: Xintiandi, Shanghai, China
   -  Area: 52sqm

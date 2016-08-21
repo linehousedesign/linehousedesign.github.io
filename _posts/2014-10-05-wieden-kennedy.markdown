@@ -1,8 +1,10 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2014/10/01/wieden-kennedy.html
 title:  "Wieden + Kennedy"
 date:   2014-10-01 14:34:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: Unbuilt

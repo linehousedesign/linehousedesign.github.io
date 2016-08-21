@@ -1,9 +1,11 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2015/04/30/little-catch-2.html
 featured:  yes
 title:  "Little Catch"
 date:   2015-04-30 20:06:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 featured: no
 tags: featured
 details:

@@ -1,8 +1,10 @@
 ---
 layout: post
+permalink: /graphics/design/2014/10/03/lone-ranger.html
 title:  "Lone Ranger"
 date:   2014-10-03 14:34:25
-categories: 'Graphics Design'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: 2014

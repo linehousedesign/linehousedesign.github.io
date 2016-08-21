@@ -1,8 +1,10 @@
 ---
 layout: post
+permalink: /product/design/2014/09/05/factory-five.html
 title: "Factory Five, Shanghai"
 date: 2014-09-05 14:34:25
-categories: 'Product Design'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: 2012

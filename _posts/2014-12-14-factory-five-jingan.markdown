@@ -1,8 +1,10 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2014/12/04/factory-five-jingan.html
 title:  "Factory Five Jingan"
 date:   2014-12-04 14:34:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: 2014

@@ -1,6 +1,6 @@
 <div class="project-grid-page">
-  {% for post in site.posts %}
-	<div class="project-container">
+	{% for post in site.posts %}
+	<div class="project-container all{% for category in post.categories %} {{ category | slugify }}{% endfor %}">
 		<div class="image-box">
 			<a href="{{ post.url }}"><img width="100%" src="{{ post.square-image }}"></a>
 		</div>
@@ -12,3 +12,22 @@
 	</div>
   {% endfor %}
 </div>
+
+<script type="text/javascript">
+	function showcategory(id) {
+		$('.project-container').fadeOut(200, function(){
+				$('.'+id).fadeIn(200);
+		});
+		
+		var c = document.getElementById('all');
+		c.className = "";
+		
+		{% for category in site.categories %}
+			var c = document.getElementById('{{ category | first | slugify }}');
+			c.className = "";
+		{% endfor %}
+		
+		var d = document.getElementById(id);
+		d.className += " underlined";
+	}
+</script>

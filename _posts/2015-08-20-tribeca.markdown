@@ -1,9 +1,11 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2015/08/20/tribeca.html
 featured:  yes
 title:  "Tribeca"
 date:   2015-08-20 10:29:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: 2015

@@ -1,9 +1,11 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2015/08/21/ganqishi-baozi.html
 featured:  no
 title:  "甘其食BAOBAO"
 date:   2015-08-21 10:29:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: 2015

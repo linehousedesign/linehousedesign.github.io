@@ -4,14 +4,43 @@ title: Contact
 permalink: /contact/
 banner: /assets/images/main-site-images/footer-contact.jpg
 ---
-LINEHOUSE    
-665 Changhua Lu  
-Unit B2
-Jing'an District
-Shanghai, China
+Studio B2, 655 Changhua Road<br />
+Jing’an District, Shanghai, China, 200041<br/>
+上海市静安区昌化路655号B2室<br/>
+<br/>
+Wechat: @Linehouse联图
+
+<a href="https://www.instagram.com/line___house/" target="_new">
+<img src="/assets/images/main-site-images/instagram_icon.png" height="30">
+</a>&nbsp;
+<a href="http://www.linkedin.com/companies/linehouse" target="_new">
+<img src="/assets/images/main-site-images/linkedin_icon.png" height="30">
+</a>
 
 For project enquiries:
 <br /><a href="mailto:info@linehousedesign.com">info@linehousedesign.com</a>
 
 For career opportunities:
+<br />Our current <a href="/careers">open positions</a>
 <br /><a href="mailto:jobs@linehousedesign.com">jobs@linehousedesign.com</a>
+
+<!--
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//linehousedesign.us9.list-manage.com/subscribe/post?u=e54dbf60e749e65ac08384487&amp;id=cc7a16d58e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Signup for news and project updates from Linehouse</label><br/>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e54dbf60e749e65ac08384487_cc7a16d58e" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+-->
+
+

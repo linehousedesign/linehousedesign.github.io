@@ -25,28 +25,29 @@ image-gallery:
      url: /architecture/&/interior/2015/07/20/wetmarket.html
 ---
 
-<header="blog-header">
-	<div class="blog-header">
-      <div class="blog-title"><img src="/assets/images/main-site-images/linehouse-logo.png"></div>
-  </div>
-</header>
-
-{% include menu-strip.html %}
-
-<div id="image-strip" class="media">
-  {% if page.image-gallery %} 
-    <div class="flexslider">
-      <ul class="slides">
-        {% for silder in page.image-gallery %}
-          <li>
-              <a href="{{ silder.url }}">
-                <img src="{{ silder.image }}" />
-              </a>
-          </li>
-        {% endfor %}
-      </ul>
+<div class="content">
+  <header="blog-header">
+    <div class="blog-header">
+      <div class="blog-title"><a href="/"><img src="/assets/images/main-site-images/linehouse-logo.png"></a></div>
     </div>
-  {% endif %}
+  </header>
+  {% include menu-strip.html %}
+
+  <div id="image-strip" class="media">
+    {% if page.image-gallery %} 
+      <div class="flexslider">
+        <ul class="slides">
+          {% for silder in page.image-gallery %}
+            <li>
+                <a href="{{ silder.url }}">
+                  <img src="{{ silder.image }}" />
+                </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  </div>
 </div>
 
 

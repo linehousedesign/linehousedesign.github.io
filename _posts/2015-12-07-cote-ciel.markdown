@@ -1,9 +1,11 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2015/12/07/cote-ciel.html
 featured: no
 title: "Côte&Ciel"
 date: 2015-12-07 10:55:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: 2015

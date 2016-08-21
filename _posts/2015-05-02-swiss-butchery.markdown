@@ -1,9 +1,11 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2015/05/02/swiss-butchery.html
 featured:  no
 title:  "Swiss Butchery"
 date:   2015-05-02 14:30:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 tags: featured
 featured: yes
 details:

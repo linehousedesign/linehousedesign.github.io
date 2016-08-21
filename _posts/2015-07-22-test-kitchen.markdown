@@ -1,9 +1,11 @@
 ---
 layout: post
+permalink: /architecture/&/interior/2015/07/20/test-kitchen.html
 featured:  no
 title:  "Test Kitchen & Office"
 date:   2015-07-20 10:29:25
-categories: 'Architecture & Interior'
+categories:
+  -  Architecture & Interior
 tags: featured
 details:
   -  Year of Completion: Unfinished

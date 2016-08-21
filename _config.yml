@@ -18,6 +18,7 @@ author: 'Linehouse'
 author_image: "/assets/images/main-site-images/author.jpg"
 
 paginate:	10
+permalink: /work/:title
 
 url: "http://linehousedesign.com" # the base hostname & protocol for the site
 baseurl: ""

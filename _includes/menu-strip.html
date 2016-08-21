@@ -1,11 +1,48 @@
 <div class="menu-wrapper">
-	<header class="menu-strip">
-		<div class="menu-links">
-			<span><a href="/">Home</a></span>
-			<span {% if page.title == 'Profile' %}class="underlined"{% endif %}><a href="/profile/">Profile</a></span>
-			<span {% if page.title == 'Projects' %}class="underlined"{% endif %}><a href="/projects/">Projects</a></span>
-			<span {% if page.title == 'Press' %}class="underlined"{% endif %}><a href="/press/">Press</a></span>
-			<span {% if page.title == 'Contact' %}class="underlined"{% endif %}><a href="/contact/">Contact</a></span>
+	<div class="menu-strip">
+		<div class="menu-links firstrow">
+			<ul id="menu">
+					<li><span {% if (page.title == 'Profile' or page.title == 'News' or page.title == 'Press' or page.title == 'Awards')%}class="underlined"{% endif %} onclick="togglesubmenu();"><a href="javascript:;">STUDIO</a></span></li>
+				<li><span {% if page.title == 'Projects' %}class="underlined"{% endif %}><a href="/projects/">WORK</a></span></li>
+				<li><span {% if page.title == 'Contact' %}class="underlined"{% endif %}><a href="/contact/">CONTACT</a></span></li>
+			</ul>
 		</div>
-	</header>
+	</div>
+	<div id="submenu" class="menu-strip" {% if (page.title != 'Profile' and page.title != 'News' and page.title != 'Press' and page.title != 'Awards') %} style="display: none;" {% endif %}>
+		<div class="menu-links secondrow">
+			<ul>
+				<li><span {% if page.title == 'Profile' %}class="underlined"{% endif %}><a href="/profile">PROFILE</a></li></span>
+				<li><span {% if page.title == 'News' %}class="underlined"{% endif %}><a href="/news">NEWS</a></li></span>
+				<li><span {% if page.title == 'Press' %}class="underlined"{% endif %}><a href="/press">PRESS</a></li></span>
+				<li><span {% if page.title == 'Awards' %}class="underlined"{% endif %}><a href="/awards">AWARDS</a></li></span>
+			</ul>
+		</div>
+	</div>
+	<div id="projectsmenu" class="menu-strip" {% if page.title != 'Projects' %} style="display: none;" {% endif %}>
+			<div class="menu-links">
+				<ul>
+					{% for category in site.categories %}
+					<li><span id="{{ category | first | slugify }}">
+							<a href="javascript:;" onclick="showcategory('{{ category | first | slugify }}'); ">
+								{{ category | first | upcase }}
+							</a>
+					</span></li>
+					{% endfor %}
+				</ul>
+			</div>
+	</div>
 </div>
+
+<script type="text/javascript">
+	function togglesubmenu() {
+		$('#projectsmenu').fadeOut(200, function() {
+			$('#submenu').fadeToggle(200, function() {
+				if ($(document).find("title").text() == "Projects") {
+					if($('#submenu').css('display') == 'none'){ 
+						$('#projectsmenu').fadeIn(200);
+					}
+				}	
+			});
+		});
+	}	
+</script>
