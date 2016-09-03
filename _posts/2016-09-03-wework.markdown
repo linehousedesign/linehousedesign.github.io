@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "WeWork"
+date:   2016-09-03 14:34:25
+categories:
+  -  Architecture & Interior
+details:
+  -  Year of Completion: 2016
+  -  Architect: Linehouse
+  -  Collaborating designer: Evelyn Chiu
+  -  Location: Shanghai, China
+  -  Address: 135 Yanping Road, Jing’An, Shanghai
+  -  Area: 2200sqm
+header-image: /assets/images/projects/wework-yanping/wework_shanghai_linehouse_005.jpg
+square-image: /assets/images/projects/wework-yanping/wework_shanghai_linehouse_square.jpg
+image-gallery:
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_001.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_002.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_003.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_004.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_005.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_006.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_007.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_008.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_009.jpg
+  -  /assets/images/projects/wework-yanping/wework_shanghai_linehouse_010.jpg
+---
+WeWork Yanping Lu, is located in the Jing’An district of Shanghai. Nestled in what was once the British settlement, the area was occupied by a neighbourhood of longtangs. These houses and laneways are scattered throughout the area, and many now exist as remnants of their previous lives. These longtangs are sectionally cut, revealing the buildings’ structures, interiors and the way residents once occupied these laneway houses. Linehouse used this as their conceptual approach in developing the co-working space for WeWork. 
+
+Upon entering, a house framework envelops the reception, composed of white metal channels with the interior of the channel painted teal blue. Polycarbonate is layered upon the structure filtering the lighting; in moments this is peeled back to reveal the structure beyond. The reception desk is composed of salvaged TVs and radios; objects commonly seen in the laneways of Shanghai. 
+
+This play of sectionally cut structures continues in framing the pantry and seating nooks.  Materials are layered, fixings exposed, revealing tectonically how the wall has been composed together. 
+
+A gridded rebar structure is inserted into the pantry area, moments of the volume are cut away allowing for guests to occupy the voids; leaners and shelving are integrated into the framework.
+
+An oak wood structure, lined with backlit polycarbonate, leads you to the meeting rooms and phone booths. Seating nooks and phone booths are nested within the framework, allowing users to experience both sides of the ‘wall’. 
+
+Mosaic tiles line the bathroom interiors; their colours are placed to create ‘shadows’ on the floors and wall of the objects occupying the space. 
+
+Custom graphics were developed for all the wallpapers and murals. Inspired by Shanghai’s White Rabbit candy, a motif of rabbit wallpapers and artwork was developed. Meeting room wallpapers take reference from common Chinese games played in the laneways; Chinese chess and tangram. Motifs often seen in the streets of Shanghai are stamped throughout the public seating areas, playing on Chinese and English words encapsulating the community spirit of WeWork. 
