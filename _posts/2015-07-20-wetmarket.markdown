@@ -1,8 +1,8 @@
 ---
 layout: post
-permalink: /architecture/&/interior/2015/07/20/wetmarket.html
+permalink: /architecture/&/interior/2015/07/20/fishmarket.html
 featured:  no
-title:  "Wetmarket"
+title:  "Fish Market"
 date:   2015-07-20 10:29:25
 categories:
   -  Architecture & Interior
@@ -10,8 +10,9 @@ tags: featured
 details:
   -  Year of Completion: 2015
   -  Architect: Linehouse
-  -  Location: Shanghai, China
+  -  Location: Shanghai, China	
   -  Area: 5,000sqm
+  -  Photographer: Dirk Weiblen
 header-image: /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-009.jpg
 square-image: /assets/images/projects/wetmarket/linehouse-shanghai-wetmarket-square.jpg
 image-gallery:

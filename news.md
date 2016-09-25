@@ -4,6 +4,14 @@ title: News
 permalink: /news/
 banner: /assets/images/main-site-images/footer-news.jpg
 newsitems:
+  -  date: September 2016
+     image: /assets/images/news/news_linehouse_blueprintawards.jpg
+     title: Cote&Ciel shortlist in the 2016 Blueprint Awards
+     content: Linehouse project <a href="http://linehousedesign.com/architecture/&/interior/2015/12/07/cote-ciel.html">Côte&Ciel</a> has been shortlisted in the Best Small Project Category of the <a href="http://www.blueprintawards.co.uk/#shortlist">2016 Blueprint Awards</a>.
+  -  date: September 2016
+     image: /assets/images/news/news_linehouse_fishmarket.jpg
+     title: New Photographs Now Online
+     content: New photographs of our Fish Market project in Shanghai are now live on our website. See the <a href="http://linehousedesign.com/architecture/&/interior/2015/07/20/fishmarket.html">full selection</a> here.
   -  date: July 2016
      image: /assets/images/news/n3on_linehouse.jpg
      title: Second N3ON by Coterie Opens in Shanghai Disneyland
