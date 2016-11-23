@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "NIO Brand Creative Studio Shanghai"
+date:   2016-11-23 21:20:25
+categories:
+  -  Architecture & Interior
+details:
+  -  Year of Completion: 2016
+  -  Architect: Linehouse
+  -  Photographer: Dirk Weiblen
+  -  Location: Shanghai, China
+  -  Area: 250sqm
+header-image: /assets/images/projects/nio-shanghai/nio_shanghai_001.jpg
+square-image: /assets/images/projects/nio-shanghai/nio_shanghai_square.jpg
+image-gallery:
+  -  /assets/images/projects/nio-shanghai/nio_shanghai_002.jpg
+  -  /assets/images/projects/nio-shanghai/nio_shanghai_003.jpg
+  -  /assets/images/projects/nio-shanghai/nio_shanghai_004.jpg
+  -  /assets/images/projects/nio-shanghai/nio_shanghai_005.jpg
+  -  /assets/images/projects/nio-shanghai/nio_shanghai_006.jpg
+  -  /assets/images/projects/nio-shanghai/nio_shanghai_007.jpg
+  -  /assets/images/projects/nio-shanghai/nio_shanghai_008.jpg
+  -  /assets/images/projects/nio-shanghai/nio_shanghai_009.jpg
+---
+Linehouse was commissioned to create the NIO Brand Creative Studio Shanghai for Chinese electric car company NextEV in Xintiandi. NextEV sought a design to reflect its ethos of high quality and performance, with a space allowing for creative development.
+ 
+Linehouse inserted an inhabitable wall into the centre of the space. This oak wood structure fluidly shifts to create different pockets that can be occupied. The central enclosure forms the studio’s primary working area. The surrounding negative space can be inhabited as meeting rooms and for social engagement. This wood apparatus operates as desks, shelving, and a screening mechanism, offering privacy and transparency between the private and public areas of the studio.
+ 
+A glass skin is layered on the timber shell, the location of the skin shifts from the interior to the exterior of the structure, allowing the occupiable side of the wall also to alternate. The glass is etched with a white vertical gradient from opaque to translucent, offering privacy for users, occupying the lower half at desk level, and clear sight lines at higher level. The glass screen provides an ephemeral quality to the office allowing light to filter through, and diffused perspectives throughout.
