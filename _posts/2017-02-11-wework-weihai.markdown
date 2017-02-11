@@ -10,7 +10,7 @@ details:
   -  Photographers:  Jason Leijonhufvud (1-4, 6-11, 14-18), Dirk Weiblen (5, 12, 13)
   -  Project Address: 696 Weihai Lu, Jing’An District, Shanghai 
   -  Area: 5,500sqm
-header-image: /assets/images/projects/wework-weihai/wework_shanghai_linehouse_001.jpg
+header-image: /assets/images/projects/wework-weihai/wework_shanghai_linehouse_002.jpg
 square-image: /assets/images/projects/wework-weihai/wework_shanghai_linehouse_square.jpg
 image-gallery:
   -  /assets/images/projects/wework-weihai/wework_shanghai_linehouse_001.jpg
