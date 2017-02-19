@@ -196,6 +196,12 @@ pressitems:
        -  /assets/images/press/bob_linehouse_tribeca_01.jpg
        -  /assets/images/press/bob_linehouse_tribeca_02.jpg
        -  /assets/images/press/bob_linehouse_tribeca_03.jpg
+  -  name: Bob, Tribeca, Oct 2015
+     publication: Bob
+     images: 
+       -  /assets/images/press/bob_linehouse_tribeca_01.jpg
+       -  /assets/images/press/bob_linehouse_tribeca_02.jpg
+       -  /assets/images/press/bob_linehouse_tribeca_03.jpg
   -  name: Wallpaper, Lone Ranger, Oct 2015
      publication: Wallpaper 
      images: 
