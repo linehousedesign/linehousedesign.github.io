@@ -99,14 +99,14 @@ pressitems:
        -  /assets/images/press/superfuture_linehouse_n3on_01.jpg 
   -  name: The Shopkeepers, Little Catch & Factory Five, Feb 2016
      publication: The Shopkeepers
-     images: 
-			 -	/assets/images/press/theshopkeepers_linehouse_littlecatch-factoryfive_00.jpg
-		 url: /assets/images/press/theshopkeepers_linehouse_littlecatch-factoryfive.pdf
+     url: /assets/images/press/theshopkeepers_linehouse_littlecatch-factoryfive.pdf
+     images:
+       -  /assets/images/press/theshopkeepers_linehouse_littlecatch-factoryfive_00.jpg
   -  name: Archdaily,  Côte&Ciel , Jan 2016
      publication: Archdaily
      url: http://www.archdaily.com/779753/cote-and-ciel-linehouse
      pdf: 
-     images: 
+     images:
        -  /assets/images/press/archdaily_linehouse_cote-ciel_01.jpg 
   -  name: Shanghai Daily, Linehouse, Jan 2016
      publication: Shanghai Daily
@@ -146,7 +146,7 @@ pressitems:
   -  name: IHome, ALL SH + Little Catch, Nov 2015
      publication: IHome
      images: 
-		 	 -  /assets/images/press/ihome_linehouse_allsh-littlecatch_00.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_00.jpg
        -  /assets/images/press/ihome_linehouse_allsh-littlecatch_01.jpg
        -  /assets/images/press/ihome_linehouse_allsh-littlecatch_02.jpg
        -  /assets/images/press/ihome_linehouse_allsh-littlecatch_03.jpg
@@ -160,7 +160,7 @@ pressitems:
   -  name: id+c, Tribeca, Oct 2015
      publication: id+c
      images: 
-		   -  /assets/images/press/idc_linehouse_tribeca_00.jpg
+       -  /assets/images/press/idc_linehouse_tribeca_00.jpg
        -  /assets/images/press/idc_linehouse_tribeca_01.jpg
        -  /assets/images/press/idc_linehouse_tribeca_02.jpg
        -  /assets/images/press/idc_linehouse_tribeca_03.jpg
