@@ -4,6 +4,31 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
+  -  name: di, BAOBAO, December 2016
+     publication: di
+     url: di-dec2016_linehouse.pdf
+     images: 
+       -  /assets/images/press/di_dec2016_linehouse_01.jpg
+  -  name: Tiny Space, Lone Ranger, August 2015
+     publication: Tiny Space
+     url: tinyspace_linehouse.pdf
+     images: 
+       -  /assets/images/press/tinyspace_linehouse_01.jpg
+  -  name: Trends, Swiss Butchery, August 2016
+     publication: Trends
+     url: trends_aug2016_linehouse.pdf
+     images: 
+       -  /assets/images/press/trends_aug2016_linehouse_01.jpg
+  -  name: Trends, Linehouse, October 2016
+     publication: Trends
+     url: trends_oct2016_linehouse.pdf
+     images: 
+       -  /assets/images/press/trends_oct2016_linehouse_01.jpg
+  -  name: Urbis, Linehouse, October 2016
+     publication: Urbis
+     url: Urbis_linehouse
+     images: 
+       -  /assets/images/press/Urbis_linehouse_01.jpg
   -  name: Archdaily, ALL SH, July 2016
      publication: Archdaily
      url: http://www.archdaily.com/770624/all-sh-linehouse
@@ -339,11 +364,11 @@ pressitems:
      url: /assets/images/press/ehousing-lone-ranger.pdf
      images:
        -  /assets/images/press/ehousing-lone-ranger-001.jpg
-  -  name: BOB Magazine, Lone Ranger, February 2015
+  -  name: BOB Magazine, Factory Five, February 2015
      publication: BOB
-     url: /assets/images/press/2015_2_bob-magazine.pdf
+     url: /assets/images/press/bob_129_linehouse.pdf
      images:
-       -  /assets/images/press/bob-magazine-cover.jpg
+       -  /assets/images/press/bob_129_linehouse_01.jpg
   -  name: Elle Decor, Lone Ranger
      publication: Elle Decor
      url: http://www.elledecor.it/interior-decoration/lone-ranger-ristorante-hot-dog-shanghai-interni-design
