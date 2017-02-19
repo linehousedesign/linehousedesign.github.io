@@ -55,6 +55,7 @@ pressitems:
   -  name: Storelab, Baobao&Linehouse, May 2016
      publication: Storelab
      images: 
+       -  /assets/images/press/storelab_linehouse_baobao_00.jpg
        -  /assets/images/press/storelab_linehouse_baobao_01.jpg
        -  /assets/images/press/storelab_linehouse_baobao_02.jpg
        -  /assets/images/press/storelab_linehouse_baobao_03.jpg
@@ -140,11 +141,8 @@ pressitems:
   -  name: The Shopkeepers, Little Catch & Factory Five, Feb 2016
      publication: The Shopkeepers
      images: 
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_01.jpg
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_02.jpg
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_03.jpg
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_04.jpg
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_05.jpg
+			 -	/assets/images/press/theshopkeepers_linehouse_littlecatch-factoryfive_00.jpg
+		 url: /assets/images/press/theshopkeepers_linehouse_littlecatch-factoryfive.pdf
   -  name: Smart Shanghai, Baobao, Feb 2016
      publication: Smart Shanghai
      url: http://www.smartshanghai.com/articles/dining/new-eats-baobaos-higher-end-baozi
@@ -224,16 +222,17 @@ pressitems:
   -  name: IHome, ALL SH + Little Catch, Nov 2015
      publication: IHome
      images: 
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_01.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_02.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_03.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_04.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_05.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_06.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_07.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_08.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_09.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_10.jpg
+			 -  /assets/images/press/ihome_linehouse_allsh-littlecatch_00.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_01.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_02.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_03.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_04.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_05.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_06.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_07.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_08.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_09.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_10.jpg
   -  name: The Spaces, Factory Five, Oct 2015
      publication: The Spaces
      url: http://thespaces.com/2015/10/22/the-shopkeepers-6-concept-stores-keeping-traditional-retail-alive/10/
@@ -469,6 +468,7 @@ pressitems:
   -  name: id+c, Tribeca, October 2015
      publication: id+c
      images:
+			 -  /assets/images/press/idc_linehouse_tribeca_00.jpg
        -  /assets/images/press/idc-linehouse-tribeca-01.jpg
        -  /assets/images/press/idc-linehouse-tribeca-02.jpg
        -  /assets/images/press/idc-linehouse-tribeca-03.jpg
