@@ -54,7 +54,7 @@ pressitems:
      publication: Frame Magazine
      url: http://www.frameweb.com/news/linehouse-grounds-cote-ciel-store-with-a-collision-of-earth-s-forces
      images: 
-       -  /assets/images/press/frame_linehouse_cote&ciel_01.jpg
+       -  /assets/images/press/frame_linehouse_cote-ciel_01.jpg
   -  name: Frame Magazine, N3ON, April 2016
      publication: Frame Magazine
      url: http://www.frameweb.com/news/linehouse-shapes-eyewear-brand-s-store-concept-with-optical-motif
@@ -109,7 +109,7 @@ pressitems:
      url: http://www.archdaily.com/779753/cote-and-ciel-linehouse
      pdf: 
      images: 
-       -  /assets/images/press/archdaily_linehouse_cote&ciel_01.jpg 
+       -  /assets/images/press/archdaily_linehouse_cote-ciel_01.jpg 
   -  name: Shanghai Daily, Linehouse, Jan 2016
      publication: Shanghai Daily
      url: http://www.shanghaidaily.com/sunday/home-and-design/Wild-accumulation-a-miniature-museum/shdaily.shtml
@@ -119,12 +119,12 @@ pressitems:
      publication: Dezeen
      url: http://www.dezeen.com/2015/12/30/linehouse-cote-ciel-boutique-interior-hong-kong-bespoke-metal-shelving/ 
      images: 
-       -  /assets/images/press/dezeen_linehouse_cote&ciel_01.jpg
+       -  /assets/images/press/dezeen_linehouse_cote-ciel_01.jpg
   -  name: Media China,  Côte&Ciel , Dec 2015
      publication: Media China
      url: http://www.mediachina.tv/art/50206.html
      images: 
-       -  /assets/images/press/mediachina_linehouse_cote&ciel_01.jpg
+       -  /assets/images/press/mediachina_linehouse_cote-ciel_01.jpg
   -  name: Frame Magazine, Linehouse, Dec 2015
      publication: Frame Magazine
      images: 
@@ -218,7 +218,7 @@ pressitems:
      url: http://www.perspectiveglobal.com/architecture/linehouse-designs-retail-space-in-hong-kong-for-coteciel/
      pdf: 
      images: 
-       -  /assets/images/press/perspective_linehouse_cote&ciel_01.jpg 
+       -  /assets/images/press/perspective_linehouse_cote-ciel_01.jpg 
   -  name: Archdaily, Shenzhen Deli, Feb 2014
      publication: Archdaily
      url:  http://www.archdaily.com/479142/shenzhen-deli-linehouse
