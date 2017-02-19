@@ -5,7 +5,7 @@ permalink: /news/
 banner: /assets/images/main-site-images/footer-news.jpg
 newsitems:
   -  date: February 2016
-     image: /assets/images/news/.jpg
+     image: /assets/images/news/1_DEZEEN.jpg
      title: WeWork Weihai on Dezeen
      content: Dezeen published an <a href="https://www.dezeen.com/2017/02/09/co-working-office-wework-whimsical-china-flagship-former-opium-factory-interior/">article</a> on the whimsical co-working space WeWork.
   -  date: February 2017
@@ -19,23 +19,23 @@ newsitems:
   -  date: December 2016
      image: /assets/images/news/4_NAOSHIMA.jpg
      title: Linehouse does Naoshima! 
-     content: Linehouse team did a one week archi-tour of the Japanese islands Naoshima, Inujima and Teshima.  Experiencing some of our favourite artists and architects; Ando, Olafur Eliasson, Sanna and Turrell.  The highlight for all was certainly the master of light and space, James Turrell’s night viewing at Chi Chu museum. Nothing beats a Turrell experience in Japan!
+     content: Linehouse team did a one week archi-tour of the Japanese islands Naoshima, Inujima and Teshima.  Experiencing some of our favourite artists and architects; Ando, Olafur Eliasson, Sanna and Turrell. The highlight for all was certainly the master of light and space, James Turrell’s night viewing at Chi Chu museum. Nothing beats a Turrell experience in Japan!
   -  date: December 2016
      image: /assets/images/news/5_TEAHOUSE.jpg
      title: Teahouse coming soon 
-     content: Demolition for Linehouse’s new Tea House project complete. Located in an old industrial warehouse, a beautiful old brick ceiling was exposed, as the layers were revealed. 
+     content: Demolition for Linehouse’s new Tea House project is complete. Located in an old industrial warehouse, a beautiful old brick ceiling was exposed as the layers were revealed.
   -  date: November 2016
      image: /assets/images/news/6_WEWORK OPENING.jpg
      title: WeWork Weihai opening party
-     content: WeWork China flagship, located in a former Opium Factory artist residence now open. Amazing to see so many people enjoying the building, and an awesome party after a lot of hard work.   
+     content: WeWork China flagship, located in a former Opium Factory artist residence is now open. Amazing to see so many people enjoying the building and an awesome party after a lot of hard work.
   -  date: November 2016
      image: /assets/images/news/7_A-DAWARDS.jpg
      title: Linehouse receives 2 awards at the A&D Trophy Awards 2016 in Hong Kong 
-     content: Cote & Ciel won best retail certificate of excellence, and Bao Bao best retail certificate of excellence at the Architecture and Design Awards, Asia-Pacific. 
+     content: Cote & Ciel won Best Retail Certificate of Excellence and Bao Bao won Best Retail Certificate of Excellence at the Architecture and Design Awards, Asia-Pacific. 
   -  date: November 2016
      image: /assets/images/news/8_BAOISM.jpg
      title: Baoism turns one!
-     content: Beats, Baos and Bottles. Baoism designed by Linehouse turned 1 year old, and the birthday bash was celebrated with a collaborative custom menu featuring Nat Alexander. Delicious Bao’s!
+     content: Beats, Baos and Bottles. Baoism designed by Linehouse turned 1 year old and the birthday bash was celebrated with a collaborative custom menu featuring Nat Alexander. Delicious Baos!
   -  date: November 2016
      image: /assets/images/news/9_NIO.jpg
      title: NextEv Nio Brand Creative Studio now finished
