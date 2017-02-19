@@ -75,7 +75,7 @@ pressitems:
      publication: Frame Magazine
      url: http://www.frameweb.com/news/linehouse-grounds-cote-ciel-store-with-a-collision-of-earth-s-forces
      images: 
-       -  /assets/images/press/frame_linehouse_côte&ciel_01.jpg
+       -  /assets/images/press/frame_linehouse_cote-ciel_01.jpg
   -  name: Frame Magazine, N3ON, April 2016
      publication: Frame Magazine
      url: http://www.frameweb.com/news/linehouse-shapes-eyewear-brand-s-store-concept-with-optical-motif
@@ -94,8 +94,8 @@ pressitems:
   -  name: GQ, ALL SH & Little Catch, April 2016
      publication: GQ
      images: 
-       -  /assets/images/press/gq_linehouse_allsh&littlecatch_01.jpg
-       -  /assets/images/press/gq_linehouse_allsh&littlecatch_02.jpg
+       -  /assets/images/press/gq_linehouse_allsh-littlecatch_01.jpg
+       -  /assets/images/press/gq_linehouse_allsh-littlecatch_02.jpg
   -  name: Architizer, Wework, March 2016
      publication: Architizer
      url: http://architizer.com/blog/wework-q-a/
@@ -154,7 +154,7 @@ pressitems:
      url: http://www.archdaily.com/779753/cote-and-ciel-linehouse
      pdf: 
      images: 
-       -  /assets/images/press/archdaily_linehouse_côte&ciel_01.jpg 
+       -  /assets/images/press/archdaily_linehouse_cote-ciel_01.jpg 
   -  name: Shanghai Daily, Baoism, Jan 2016
      publication: Shanghai Daily
      url: http://www.shanghaidaily.com/feature/ideal/Delicious-Asian-burger-a-perfect-onthego-nosh/shdaily.shtml

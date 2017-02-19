@@ -40,6 +40,7 @@ pressitems:
   -  name: Storelab, Baobao&Linehouse, May 2016
      publication: Storelab
      images: 
+       -  /assets/images/press/storelab_linehouse_baobao_00.jpg
        -  /assets/images/press/storelab_linehouse_baobao_01.jpg
        -  /assets/images/press/storelab_linehouse_baobao_02.jpg
        -  /assets/images/press/storelab_linehouse_baobao_03.jpg
@@ -73,8 +74,8 @@ pressitems:
   -  name: GQ, ALL SH & Little Catch, April 2016
      publication: GQ
      images: 
-       -  /assets/images/press/gq_linehouse_allsh&littlecatch_01.jpg
-       -  /assets/images/press/gq_linehouse_allsh&littlecatch_02.jpg
+       -  /assets/images/press/gq_linehouse_allsh-littlecatch_01.jpg
+       -  /assets/images/press/gq_linehouse_allsh-littlecatch_02.jpg
   -  name: Architizer, Wework, March 2016
      publication: Architizer
      url: http://architizer.com/blog/wework-q-a/
@@ -99,11 +100,8 @@ pressitems:
   -  name: The Shopkeepers, Little Catch & Factory Five, Feb 2016
      publication: The Shopkeepers
      images: 
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_01.jpg
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_02.jpg
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_03.jpg
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_04.jpg
-       -  /assets/images/press/theshopkeepers_linehouse_littlecatch&factoryfive_05.jpg
+			 -	/assets/images/press/theshopkeepers_linehouse_littlecatch-factoryfive_00.jpg
+		 url: /assets/images/press/theshopkeepers_linehouse_littlecatch-factoryfive.pdf
   -  name: Archdaily,  Côte&Ciel , Jan 2016
      publication: Archdaily
      url: http://www.archdaily.com/779753/cote-and-ciel-linehouse
@@ -148,23 +146,25 @@ pressitems:
   -  name: IHome, ALL SH + Little Catch, Nov 2015
      publication: IHome
      images: 
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_01.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_02.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_03.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_04.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_05.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_06.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_07.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_08.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_09.jpg
-       -  /assets/images/press/ihome_linehouse_allsh&littlecatch_10.jpg
+		 	 -  /assets/images/press/ihome_linehouse_allsh-littlecatch_00.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_01.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_02.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_03.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_04.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_05.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_06.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_07.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_08.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_09.jpg
+       -  /assets/images/press/ihome_linehouse_allsh-littlecatch_10.jpg
   -  name: id+c, Tribeca, Oct 2015
      publication: id+c
      images: 
-       -  /assets/images/press/id+c_linehouse_tribeca_01.jpg
-       -  /assets/images/press/id+c_linehouse_tribeca_02.jpg
-       -  /assets/images/press/id+c_linehouse_tribeca_03.jpg
-       -  /assets/images/press/id+c_linehouse_tribeca_04.jpg
+		   -  /assets/images/press/idc_linehouse_tribeca_00.jpg
+       -  /assets/images/press/idc_linehouse_tribeca_01.jpg
+       -  /assets/images/press/idc_linehouse_tribeca_02.jpg
+       -  /assets/images/press/idc_linehouse_tribeca_03.jpg
+       -  /assets/images/press/idc_linehouse_tribeca_04.jpg
   -  name: Bob, Tribeca, Oct 2015
      publication: Bob
      images: 
