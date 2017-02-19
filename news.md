@@ -11,23 +11,23 @@ newsitems:
   -  date: February 2017
      image: /assets/images/news/2_URBIS.jpg
      title: Urbis Magazine Profile
-     content: Briar Hickling, Linehouse co-founder talks to New Zealand magazine Urbis about the competitive world of interior design in China.  A two-page article titled ‘Designing the Dragon, Briar Hickling; whose commercial work is turning heads in Shanghai’
+     content: Briar Hickling, Linehouse co-founder talks to New Zealand magazine Urbis about the competitive world of interior design in China.  Check out the two-page article titled ‘Designing the Dragon, Briar Hickling; whose commercial work is turning heads in Shanghai’.
   -  date: January 2017
      image: /assets/images/news/3_ALLSH2.jpg
-     title: ALLSH 2 now open 
-     content: The second store for ALLSH designed by Linehouse has now opened it’s doors. Final photograph’s coming soon. 
+     title: ALLSH 2 now open
+     content: The second store for ALLSH designed by Linehouse has now opened its doors. Final photographs coming soon. 
   -  date: December 2016
      image: /assets/images/news/4_NAOSHIMA.jpg
      title: Linehouse does Naoshima! 
-     content: Linehouse team did a one week archi-tour of the Japanese islands Naoshima, Inujima and Teshima.  Experiencing some of our favourite artists and architects; Ando, Olafur Eliasson, Sanna and Turrell. The highlight for all was certainly the master of light and space, James Turrell’s night viewing at Chi Chu museum. Nothing beats a Turrell experience in Japan!
+     content: Linehouse team did a one week archi-tour of the Japanese islands of Naoshima, Inujima and Teshima.  We Experienced some of our favourite artists and architects including Tado Ando, Olafur Eliasson, Sanna and James Turrell. The highlight for all of us was the night viewing at the Chi Chi museum by James Turrrell. Nothing beats experiencing the master of light and space in Japan!
   -  date: December 2016
      image: /assets/images/news/5_TEAHOUSE.jpg
      title: Teahouse coming soon 
-     content: Demolition for Linehouse’s new Tea House project is complete. Located in an old industrial warehouse, a beautiful old brick ceiling was exposed as the layers were revealed.
+     content: Demolition for Linehouse’s new Tea House project is complete. Located in an old industrial warehouse a beautiful old brick ceiling was exposed as the layers were revealed.
   -  date: November 2016
      image: /assets/images/news/6_WEWORK OPENING.jpg
      title: WeWork Weihai opening party
-     content: WeWork China flagship, located in a former Opium Factory artist residence is now open. Amazing to see so many people enjoying the building and an awesome party after a lot of hard work.
+     content: The WeWork China flagship, located in a former Opium Factory and artist residence, is now open. Amazing to see so many people enjoying the building and an awesome party after a lot of hard work.
   -  date: November 2016
      image: /assets/images/news/7_A-DAWARDS.jpg
      title: Linehouse receives 2 awards at the A&D Trophy Awards 2016 in Hong Kong 
@@ -35,11 +35,11 @@ newsitems:
   -  date: November 2016
      image: /assets/images/news/8_BAOISM.jpg
      title: Baoism turns one!
-     content: Beats, Baos and Bottles. Baoism designed by Linehouse turned 1 year old and the birthday bash was celebrated with a collaborative custom menu featuring Nat Alexander. Delicious Baos!
+     content: Beats, Baos and Bottles. Baoism, designed by Linehouse, turned 1 year old and the birthday bash was celebrated with a collaborative custom menu featuring Nat Alexander. Delicious Baos!
   -  date: November 2016
      image: /assets/images/news/9_NIO.jpg
      title: NextEv Nio Brand Creative Studio now finished
-     content: Linehouse office design for Electric car company NextEv Nio Brand Creative Studio is now finished. An inhabitable oak structure occupies the space, layered with an etched glass skin, creating an ephemeral work space.  
+     content: Designed by Linehouse, the office for Electric car company NextEv Nio Brand Creative Studio is now finished. An inhabitable oak structure occupies the space layered with an etched glass skin which creates an ephemeral working environment. 
   -  date: September 2016
      image: /assets/images/news/10-NEON.jpg
      title: N3on featured on DETAIL
