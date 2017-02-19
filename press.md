@@ -6,27 +6,27 @@ banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
   -  name: di, BAOBAO, December 2016
      publication: di
-     url: di-dec2016_linehouse.pdf
+     url: /assets/images/press/di-dec2016_linehouse.pdf
      images: 
        -  /assets/images/press/di_dec2016_linehouse_01.jpg
   -  name: Tiny Space, Lone Ranger, August 2015
      publication: Tiny Space
-     url: tinyspace_linehouse.pdf
+     url: /assets/images/press/tinyspace_linehouse.pdf
      images: 
        -  /assets/images/press/tinyspace_linehouse_01.jpg
   -  name: Trends, Swiss Butchery, August 2016
      publication: Trends
-     url: trends_aug2016_linehouse.pdf
+     url: /assets/images/press/trends_aug2016_linehouse.pdf
      images: 
        -  /assets/images/press/trends_aug2016_linehouse_01.jpg
   -  name: Trends, Linehouse, October 2016
      publication: Trends
-     url: trends_oct2016_linehouse.pdf
+     url: /assets/images/press/trends_oct2016_linehouse.pdf
      images: 
        -  /assets/images/press/trends_oct2016_linehouse_01.jpg
   -  name: Urbis, Linehouse, October 2016
      publication: Urbis
-     url: Urbis_linehouse
+     url: /assets/images/press/Urbis_linehouse.pdf
      images: 
        -  /assets/images/press/Urbis_linehouse_01.jpg
   -  name: Archdaily, ALL SH, July 2016
@@ -354,11 +354,6 @@ pressitems:
      images:
        -  /assets/images/press/ad_germany_may_2015_002.jpg
        -  /assets/images/press/ad_germany_may_2015_001.jpg
-  -  name: Dezeen, Little Catch, May 2015
-     publication: Dezeen
-     url: http://www.dezeen.com/2015/05/03/little-catch-fishmonger-in-shanghai-is-lined-with-a-metal-frame-net/
-     images: 
-       -  /assets/images/press/dezeen_little_catch.jpg
   -  name: Ehousing Magazine, Lone Ranger, March 2015
      publication: Ehousing Magazine
      url: /assets/images/press/ehousing-lone-ranger.pdf
