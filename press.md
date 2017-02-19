@@ -4,6 +4,31 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
+  -  name: Elle Decoration, Wework Weihai, January 2017
+     publication: Elle Decoration
+     url:  /assets/images/press/Elle_Deco_China_weworkweihai_linehouse.pdf
+     images: 
+       -  /assets/images/press/Elle_Deco_China_weworkweihai_linehouse_01.jpg
+  -  name: GQ, Wework Yanping, September 2016
+     publication: GQ
+     url: /assets/images/press/GQ_sep2016_LINEHOUSE.pdf
+     images: 
+       -  /assets/images/press/GQ_sep2016_linehouse_01.jpg
+  -  name: id+c, N3ON & CoteCiel, September 2016
+     publication: id+c
+     url: /assets/images/press/idc_linehouse.pdf
+     images: 
+       -  /assets/images/press/idc_linehouse_01.jpg
+  -  name: Interior Design China, Tribeca, August 2016
+     publication: Interior Design China
+     url: /assets/images/press/Interiordesignchina_aug2016_linehouse.pdf
+     images: 
+       -  /assets/images/press/interiordesignchina_linehouse_01.jpg
+  -  name: Interiors, Baoism, July 2016
+     publication: Interiors
+     url: /assets/images/press/interiorskorea_july2016_linehouse.pdf
+     images: 
+       -  /assets/images/press/interiorskorea_july2016_linehouse_01.jpg
   -  name: di, BAOBAO, December 2016
      publication: di
      url: /assets/images/press/di-dec2016_linehouse.pdf
