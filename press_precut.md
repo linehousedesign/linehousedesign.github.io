@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Press
-permalink: /press/
+permalink: /press_precut/
 banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
   -  name: Archdaily, ALL SH, July 2016
