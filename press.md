@@ -4,77 +4,22 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
-  -  name: Designboom, Baobao, July 2016
-     publication: Designboom
-     url: http://www.designboom.com/design/linehouse-baobao-baozi-eatery-interior-shanghai-china-07-03-2016/    
-     images:
-       -  /assets/images/press/designboom_linehouse_baobao_01.jpg
-  -  name: Archdaily, Baobao, July 2016
-     publication: Archdaily
-     url: http://www.archdaily.com/790710/baobao-linehouse    
-     images:
-       -  /assets/images/press/archdaily_linehouse_baobao_01.jpg
-  -  name: Archdaily, Wework Yanping, September 2016 
-     publication: Archdaily   
-     url: http://http://www.archdaily.com/795613/wework-yanping-lu-linehouse  
-     images:
-       -  /assets/images/press/ARCHDAILY_WEWORKYANPING_LINEHOUSE.jpg
-  -  name: Elle Decor Italia, WeWork, November 2016
-     publication: Elle Decor  
-     url: http://www.elledecor.it/interior-decoration/coworking-shanghai-mobili-vintage-carta-da-parati-design
-     images:
-       -  /assets/images/press/ELLEDECOR_WEWORK_LINEHOUSE.jpg
   -  name: Proyectocontract, Linehouse profile, 2017   
      publication: Proyectocontract   
      url: /assets/images/press/PROYECTOCONTRACT_LINEHOUSE_ARTICLE.pdf
      images:
        -  /assets/images/press/PROYECTOCONTRACT_LINEHOUSE_COVER.jpg
-  -  name: Luxelife, Linehouse profile, August 2016
-     publication: LuxeLife    
-     url: /assets/images/press/LUXELIFE_LINEHOUSE_ARTICLE.pdf
-     images:
-       -  /assets/images/press/LUXELIFE_LINEHOUSE_COVER.jpg
+  -  name: Elle Decoration, Wework Weihai, January 2017
+     publication: Elle Decoration
+     url:  /assets/images/press/Elle_Deco_China_weworkweihai_linehouse.pdf
+     images: 
+       -  /assets/images/press/Elle_Deco_China_weworkweihai_linehouse_01.jpg
   -  name: IDC, Wework Yanping, December 2016
      publication: ID+C
      images:
        -  /assets/images/press/IDC_LINEHOUSE_DEC2016_COVER.jpg
        -  /assets/images/press/IDC_LINEHOUSE_DEC2016_01.jpg
        -  /assets/images/press/IDC_LINEHOUSE_DEC2016_02.jpg
-  -  name: Iplus, Factory 5, May 2016
-     publication: Iplus     
-     images: 
-       -  /assets/images/press/IPLUS_LINEHOUSE_MAY2016_COVER.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_01.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_02.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_03.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_04.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_05.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_06.jpg
-  -  name: I-plus, Little Catch, April 2016
-     publication: I-plus
-     images:
-       -  /assets/images/press/IPLUS_LINEHOUSE_COVER_APRIL2016.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_01.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_02.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_03.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_04.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_05.jpg
-       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_06.jpg
-  -  name: Maru, N3ON, April 2016
-     publication: Maru
-     images:
-       -  /assets/images/press/MARU_LINEHOUSE_COVER.jpg
-       -  /assets/images/press/MARU_LINEHOUSE_01.jpg
-       -  /assets/images/press/MARU_LINEHOUSE_02.jpg
-       -  /assets/images/press/MARU_LINEHOUSE_03.jpg
-       -  /assets/images/press/MARU_LINEHOUSE_04.jpg
-       -  /assets/images/press/MARU_LINEHOUSE_05.jpg
-       -  /assets/images/press/MARU_LINEHOUSE_06.jpg
-  -  name: Elle Decoration, Wework Weihai, January 2017
-     publication: Elle Decoration
-     url:  /assets/images/press/Elle_Deco_China_weworkweihai_linehouse.pdf
-     images: 
-       -  /assets/images/press/Elle_Deco_China_weworkweihai_linehouse_01.jpg
   -  name: GQ, Wework Yanping, September 2016
      publication: GQ
      url: /assets/images/press/GQ_sep2016_LINEHOUSE.pdf
@@ -100,11 +45,16 @@ pressitems:
      url: /assets/images/press/di-dec2016_linehouse.pdf
      images: 
        -  /assets/images/press/di_dec2016_linehouse_01.jpg
-  -  name: Tiny Space, Lone Ranger, August 2015
-     publication: Tiny Space
-     url: /assets/images/press/tinyspace_linehouse.pdf
+  -  name: Elle Decor Italia, WeWork, November 2016
+     publication: Elle Decor  
+     url: http://www.elledecor.it/interior-decoration/coworking-shanghai-mobili-vintage-carta-da-parati-design
      images:
-       -  /assets/images/press/tinyspace_linehouse_01.jpg
+       -  /assets/images/press/ELLEDECOR_WEWORK_LINEHOUSE.jpg
+  -  name: Archdaily, Wework Yanping, September 2016 
+     publication: Archdaily   
+     url: http://http://www.archdaily.com/795613/wework-yanping-lu-linehouse  
+     images:
+       -  /assets/images/press/ARCHDAILY_WEWORKYANPING_LINEHOUSE.jpg
   -  name: Trends, Swiss Butchery, August 2016
      publication: Trends
      url: /assets/images/press/trends_aug2016_linehouse.pdf
@@ -120,11 +70,26 @@ pressitems:
      url: /assets/images/press/Urbis_linehouse.pdf
      images: 
        -  /assets/images/press/Urbis_linehouse_01.jpg
+  -  name: Luxelife, Linehouse profile, August 2016
+     publication: LuxeLife    
+     url: /assets/images/press/LUXELIFE_LINEHOUSE_ARTICLE.pdf
+     images:
+       -  /assets/images/press/LUXELIFE_LINEHOUSE_COVER.jpg
   -  name: Archdaily, ALL SH, July 2016
      publication: Archdaily
      url: http://www.archdaily.com/770624/all-sh-linehouse
      images:
        -  /assets/images/press/archdaily_linehouse_allsh_01.jpg
+  -  name: Designboom, Baobao, July 2016
+     publication: Designboom
+     url: http://www.designboom.com/design/linehouse-baobao-baozi-eatery-interior-shanghai-china-07-03-2016/    
+     images:
+       -  /assets/images/press/designboom_linehouse_baobao_01.jpg
+  -  name: Archdaily, Baobao, July 2016
+     publication: Archdaily
+     url: http://www.archdaily.com/790710/baobao-linehouse    
+     images:
+       -  /assets/images/press/archdaily_linehouse_baobao_01.jpg
   -  name: Designboom, Baoism, May 2016
      publication: Designboom
      url: http://www.designboom.com/architecture/linehouse-baoism-resturant-interior-shanghai-05-04-2016/
@@ -172,6 +137,16 @@ pressitems:
      url: http://www.frameweb.com/news/linehouse-grounds-cote-ciel-store-with-a-collision-of-earth-s-forces
      images: 
        -  /assets/images/press/frame_linehouse_cote-ciel_01.jpg
+  -  name: Maru, N3ON, April 2016
+     publication: Maru
+     images:
+       -  /assets/images/press/MARU_LINEHOUSE_COVER.jpg
+       -  /assets/images/press/MARU_LINEHOUSE_01.jpg
+       -  /assets/images/press/MARU_LINEHOUSE_02.jpg
+       -  /assets/images/press/MARU_LINEHOUSE_03.jpg
+       -  /assets/images/press/MARU_LINEHOUSE_04.jpg
+       -  /assets/images/press/MARU_LINEHOUSE_05.jpg
+       -  /assets/images/press/MARU_LINEHOUSE_06.jpg
   -  name: Frame Magazine, N3ON, April 2016
      publication: Frame Magazine
      url: http://www.frameweb.com/news/linehouse-shapes-eyewear-brand-s-store-concept-with-optical-motif
@@ -187,6 +162,26 @@ pressitems:
      url: http://www.wallpaper.com/travel/china/shanghai/restaurants/baobao
      images: 
        -  /assets/images/press/wallpaper_linehouse_baobao_01.jpg
+  -  name: Iplus, Factory 5, May 2016
+     publication: Iplus     
+     images: 
+       -  /assets/images/press/IPLUS_LINEHOUSE_MAY2016_COVER.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_01.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_02.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_03.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_04.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_05.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_06.jpg
+  -  name: I-plus, Little Catch, April 2016
+     publication: I-plus
+     images:
+       -  /assets/images/press/IPLUS_LINEHOUSE_COVER_APRIL2016.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_01.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_02.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_03.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_04.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_05.jpg
+       -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_06.jpg
   -  name: GQ, ALL SH & Little Catch, April 2016
      publication: GQ
      images: 
@@ -304,6 +299,11 @@ pressitems:
      url: http://www.designboom.com/architecture/linehouse-tribeca-gastro-pub-shanghai-china-08-24-2015/
      images: 
        -  /assets/images/press/designboom_linehouse_tribeca_01.jpg
+  -  name: Tiny Space, Lone Ranger, August 2015
+     publication: Tiny Space
+     url: /assets/images/press/tinyspace_linehouse.pdf
+     images:
+       -  /assets/images/press/tinyspace_linehouse_01.jpg
   -  name: Interior Designer, Tribeca, Aug 2015
      publication: Interior Designer
      images: 
