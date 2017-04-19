@@ -5,44 +5,44 @@ permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
   -  name: Designboom, Baobao, July 2016
-	   publication: Designboo
+     publication: Designboom
      url: http://www.designboom.com/design/linehouse-baobao-baozi-eatery-interior-shanghai-china-07-03-2016/    
      images:
-		   -  /assets/images/press/designboom_linehouse_baobao_01.jpg
+       -  /assets/images/press/designboom_linehouse_baobao_01.jpg
   -  name: Archdaily, Baobao, July 2016
-     publication: Archdaily   
-		 url: http://www.archdaily.com/790710/baobao-linehouse    
-		 images:
-		   -  /assets/images/press/archdaily_linehouse_baobao_01.jpg
+     publication: Archdaily
+     url: http://www.archdaily.com/790710/baobao-linehouse    
+     images:
+       -  /assets/images/press/archdaily_linehouse_baobao_01.jpg
   -  name: Archdaily, Wework Yanping, September 2016 
      publication: Archdaily   
-		 url: http://http://www.archdaily.com/795613/wework-yanping-lu-linehouse  
-		 images:
-		   -  /assets/images/press/ARCHDAILY_WEWORKYANPING_LINEHOUSE.jpg
-  -  name: Elle Decor Italia, WeWork, November 2016
-		 publication: Elle Decor  
-		 url: http://www.elledecor.it/interior-decoration/coworking-shanghai-mobili-vintage-carta-da-parati-design
+     url: http://http://www.archdaily.com/795613/wework-yanping-lu-linehouse  
      images:
-			 -  /assets/images/press/ELLEDECOR_WEWORK_LINEHOUSE.jpg
-	-  name: Proyectocontract, Linehouse profile, 2017   
-	   publication: Proyectocontract   
-		 url: /assets/images/press/PROYECTOCONTRACT_LINEHOUSE_ARTICLE.pdf
-		 images:
+       -  /assets/images/press/ARCHDAILY_WEWORKYANPING_LINEHOUSE.jpg
+  -  name: Elle Decor Italia, WeWork, November 2016
+     publication: Elle Decor  
+     url: http://www.elledecor.it/interior-decoration/coworking-shanghai-mobili-vintage-carta-da-parati-design
+     images:
+       -  /assets/images/press/ELLEDECOR_WEWORK_LINEHOUSE.jpg
+  -  name: Proyectocontract, Linehouse profile, 2017   
+     publication: Proyectocontract   
+     url: /assets/images/press/PROYECTOCONTRACT_LINEHOUSE_ARTICLE.pdf
+     images:
        -  /assets/images/press/PROYECTOCONTRACT_LINEHOUSE_COVER.jpg
   -  name: Luxelife, Linehouse profile, August 2016
-	   publication: LuxeLife    
-		 url: /assets/images/press/LUXELIFE_LINEHOUSE_ARTICLE.pdf
-		 images:
+     publication: LuxeLife    
+     url: /assets/images/press/LUXELIFE_LINEHOUSE_ARTICLE.pdf
+     images:
        -  /assets/images/press/LUXELIFE_LINEHOUSE_COVER.jpg
   -  name: IDC, Wework Yanping, December 2016
-	   publication: ID+C       
-		 images:
-		   -  /assets/images/press/IDC_LINEHOUSE_DEC2016_COVER.jpg
-		   -  /assets/images/press/IDC_LINEHOUSE_DEC2016_01.jpg
-		   -  /assets/images/press/IDC_LINEHOUSE_DEC2016_02.jpg
+     publication: ID+C
+     images:
+       -  /assets/images/press/IDC_LINEHOUSE_DEC2016_COVER.jpg
+       -  /assets/images/press/IDC_LINEHOUSE_DEC2016_01.jpg
+       -  /assets/images/press/IDC_LINEHOUSE_DEC2016_02.jpg
   -  name: Iplus, Factory 5, May 2016
-	   publication: Iplus     
-		 images: 
+     publication: Iplus     
+     images: 
        -  /assets/images/press/IPLUS_LINEHOUSE_MAY2016_COVER.jpg
        -  /assets/images/press/IPLUS_LINEHOUSE_01.jpg
        -  /assets/images/press/IPLUS_LINEHOUSE_02.jpg
@@ -51,8 +51,8 @@ pressitems:
        -  /assets/images/press/IPLUS_LINEHOUSE_05.jpg
        -  /assets/images/press/IPLUS_LINEHOUSE_06.jpg
   -  name: I-plus, Little Catch, April 2016
-	   publication: I-plus
-		 images:
+     publication: I-plus
+     images:
        -  /assets/images/press/IPLUS_LINEHOUSE_COVER_APRIL2016.jpg
        -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_01.jpg
        -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_02.jpg
@@ -61,7 +61,7 @@ pressitems:
        -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_05.jpg
        -  /assets/images/press/IPLUS_LINEHOUSE_APRIL_06.jpg
   -  name: Maru, N3ON, April 2016
-	   publication: Maru
+     publication: Maru
      images:
        -  /assets/images/press/MARU_LINEHOUSE_COVER.jpg
        -  /assets/images/press/MARU_LINEHOUSE_01.jpg
