@@ -241,12 +241,9 @@ pressitems:
        -  /assets/images/press/mediachina_linehouse_cote-ciel_01.jpg
   -  name: Frame Magazine, Linehouse, Dec 2015
      publication: Frame Magazine
+     url: /assets/images/press/Frame_linehouse_article.pdf
      images: 
        -  /assets/images/press/frame_linehouse_linehouse_01.jpg
-       -  /assets/images/press/frame_linehouse_linehouse_02.jpg
-       -  /assets/images/press/frame_linehouse_linehouse_03.jpg
-       -  /assets/images/press/frame_linehouse_linehouse_04.jpg
-       -  /assets/images/press/frame_linehouse_linehouse_05.jpg
   -  name: That’s Shanghai, Linehouse, Nov 2015
      publication: That’s Shanghai
      url: http://www.thatsmags.com/shanghai/post/12465/interiors-linehouse-s-sleek-architectural-projects
@@ -295,6 +292,7 @@ pressitems:
   -  name: iLook, Linehouse, Oct 2015
      publication: iLook
      images: 
+       -  /assets/images/press/ilook_linehouse_linehouse_00.jpg
        -  /assets/images/press/ilook_linehouse_linehouse_01.jpg
        -  /assets/images/press/ilook_linehouse_linehouse_02.jpg
        -  /assets/images/press/ilook_linehouse_linehouse_03.jpg
@@ -408,14 +406,6 @@ pressitems:
        -  /assets/images/press/ihome-linehouse-all-sh-08.jpg
        -  /assets/images/press/ihome-linehouse-all-sh-09.jpg
        -  /assets/images/press/ihome-linehouse-all-sh-10.jpg
-  -  name: iLook, Linehouse, October 2015
-     publication: iLook
-     images:
-       -  /assets/images/press/ilook-linehouse-01.jpg
-       -  /assets/images/press/ilook-linehouse-02.jpg
-       -  /assets/images/press/ilook-linehouse-03.jpg
-       -  /assets/images/press/ilook-linehouse-04.jpg
-       -  /assets/images/press/ilook-linehouse-05.jpg
   -  name: Elle Decor Italia, Tribeca, September 2015
      publication: Elle Decor
      url: http://www.elledecor.it/interior-decoration/bar-di-design-a-shanghai-un-nuovo-bistrot-firmato-linehouse
