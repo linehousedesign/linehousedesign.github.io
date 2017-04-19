@@ -6,16 +6,16 @@ banner: /assets/images/main-site-images/footer-profile.jpg
 ---
 <img width="100%" src="/assets/images/main-site-images/linehouse-profile.jpg">
 
-Linehouse is an architecture practice established in 2013. Alex Mok (Chinese-Swedish) and Briar Hickling (from New Zealand) have experience working in China, Asia and abroad, a rich cultural heritage and an understanding of cultural values from the West, the Pacific and Asia. 
+Linehouse is an architecture and interior design practice established in 2013 by Alex Mok (Chinese-Swedish) and Briar Hickling (from New Zealand).  Both have completed extensive work in Asia, Pacific and abroad.
 
-Shanghai provides a rich historic and cultural context, and operates as a platform for Linehouse to investigate the rituals of inhabitation and how these daily moments can be celebrated through design, transforming the mundane into performative acts. 
+Linehouse operates as a platform to investigate the rituals of inhabitation and how these daily moments can be celebrated through design, transforming the mundane into performative acts.
 
-Linehouse is a collaboration of like-minded individuals from various backgrounds and cultures including China, Australia, Italy, Switzerland, Taipei and America. The practice has international experience in design and construction, from the small scale and the intricate, to the grand and public. 
+Linehouse is a collaboration of like-minded individuals from various backgrounds and cultures. The practice has international experience in design and construction, from the small scale and the intricate, to the grand and public.
 
-The studio works on projects of varying scales and typologies that allow explorations of both the poetic idea and pragmatic solution. Projects are approached in a holistic manner combining different disciplines: architecture, interiors, product design and graphic design; and drawing on our experience to create new ideas and outputs emphasising qualities of construction, detail, materials and light. 
+The studio works on projects of varying scales and typologies that allow explorations of both the poetic idea and pragmatic solution. Projects are approached in a holistic manner combining different disciplines: architecture, interiors, product design and graphic design; and drawing on our experience to create new ideas and outputs emphasising qualities of construction, detail, materials and light.
 
-Each brief is approached individually, creating a poetic concept for each client through research, site context, history and responding to the client’s brief. Through the process of design, each project has a strong narrative and an element of whimsy and voyeurism, creating a unique spatial experience. 
+Each brief is approached individually, creating a poetic concept for each client through research, site context, history and responding to the client’s brief. Through the process of design, each project has a strong narrative and an element of whimsy and voyeurism, creating a unique spatial experience.
 
-Linehouse has been featured widely by the press around the world, including Wallpaper*, FRAME, Perspective Magazine, AD Germany, ELLE Décor Italia, Dezeen.com, Archdaily.com, Designboom.com and countless more print and online media.
+Linehouse has been featured widely by the press around the world, including Wallpaper*, FRAME, AD, ELLE Décor, Dezeen, Detail, Archdaily, Designboom, Perspective Magazine and countless print and online media.
 
-In 2015, Linehouse was awarded Emerging Interior Practice of the Year by World Interior News. Other awards include Design for Asia Awards 2014 & 2015, Restaurant and Bar Design Awards, and A&D Trophy Awards.
+In 2016, Linehouse was awarded twice at the A&D Trophy Awards in the retail and F&B categories, and named Judges’ Choice and winner in the shopping space category at the Asia Pacific Interior Design Awards (APIDA). Named Emerging Interior Practice of the Year by World Interior News in 2015, Linehouse has also been awarded at Restaurant and Bar Design Awards and Design for Asia (DFA) Awards.  
