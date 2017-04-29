@@ -4,6 +4,51 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
+  -  name: Archdaily, NIO, December 2016
+     publication: Archdaily
+     url: http://www.archdaily.com/800818/nio-brand-creative-studio-shanghai-linehouse
+     images:
+     -  /assets/images/press/archdaily_nio_linehouse.jpg
+  -  name: Archdaily, WeWork Weihai, February 2017
+     publication: Archdaily
+     url: http://www.archdaily.com/805112/wework-weihai-lu-linehouse
+     images:
+       -  /assets/images/press/archdaily_weihai_linehouse.jpg
+  -  name: Designboom, WeWork Weihai, February 2017
+     publication: Designboom
+     url: http://www.designboom.com/architecture/linehouse-wework-weihai-lu-coworking-space-china-02-11-2017/
+     images:
+       -  /assets/images/press/designboom_weihai_linehouse.jpg
+  -  name: Detail, Neon, September 2016
+     publication: Detail
+     url: http://www.detail.de/artikel/anderer-blickwinkel-n3on-sonnenbrillen-store-28318/
+     images:
+       -  /assets/images/press/detail_neon_linehouse.jpg
+  -  name: Dezeen, WeWork Weihai, February 2017
+     publication: Dezeen
+     url: https://www.dezeen.com/2017/02/10/10-best-interiors-terrazzo-dezeens-pinterest-boards-roundup-hotel-restaurant-home/
+     images:
+       -  /assets/images/press/dezeen_terrazzo_linehouse.jpg
+  -  name: Dezeen, WeWork Weihai, February 2017
+     publication: Dezeen
+     url: https://www.dezeen.com/2017/02/09/co-working-office-wework-whimsical-china-flagship-former-opium-factory-interior/
+     images:
+       -  /assets/images/press/dezeen_weihai_linehouse.jpg
+  -  name: Domus, WeWork Weihai, February 2017
+     publication: Domus
+     url: http://www.domusweb.it/it/notizie/2017/02/14/wework_linehouse.html
+     images:
+       -  /assets/images/press/domus_weihai_linehouse.jpg
+  -  name: Frame, NIO, December 2016
+     publication: frame
+     url: http://www.frameweb.com/news/workers-inhabit-the-walls-in-linehouse-s-design-for-nextev
+     images:
+       -  /assets/images/press/frame_nio_linehouse.jpg
+  -  name: Perspective, NIO, December 2016
+     publication: Perspective
+     url: http://www.perspectiveglobal.com/architecture/linehouse-unveils-nio-brand-creative-studio-shanghai/
+     images:
+       -  /assets/images/press/perspective_nio_linehouse.jpg
   -  name: Proyectocontract, Linehouse profile, 2017   
      publication: Proyectocontract   
      url: /assets/images/press/PROYECTOCONTRACT_LINEHOUSE_ARTICLE.pdf
