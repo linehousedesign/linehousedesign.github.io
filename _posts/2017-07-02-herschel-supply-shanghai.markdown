@@ -11,7 +11,7 @@ details:
   -  Project Address: Changde Road, Jing’An District, Shanghai 
   -  Area: 134sqm
 header-image: /assets/images/projects/herschel-shanghai/Linehouse_Herschel_007_lo.jpg
-square-image: /assets/images/projects/herschel-shanghai/wework_shanghai_linehouse_square.jpg
+square-image: /assets/images/projects/herschel-shanghai/Linehouse_Herschel_square.jpg
 image-gallery:
   -  /assets/images/projects/herschel-shanghai/Linehouse_Herschel_001_lo.jpg
   -  /assets/images/projects/herschel-shanghai/Linehouse_Herschel_002_lo.jpg
