@@ -4,14 +4,34 @@ title: News
 permalink: /news/
 banner: /assets/images/main-site-images/footer-news.jpg
 newsitems:
-  -  date: February 2016
+  -  date: July 2017
+     image: /assets/images/news/news_linehouse_worldinterioroftheyear.jpg
+     title: Linehouse Shortlisted for World Interior of the Year 2017!  
+     content: Linehouse project WeWork Weihai Lu has been shortlisted in the Office category for <a href="https://www.insidefestival.com/offices-finalists-2017">World Interior of the Year 2017</a>. Finalists of each category will be announced at the INSIDE festival in Berlin in 2017. We’re in great company, with more than a third of the 78 finalists coming from <a href="http://www.cnn.com/2017/07/19/design/world-interior-2017/index.html">Greater China</a>. The INSIDE Festival is a three day festival that shines a spotlight on the people, projects and developments that are changing the face of global interiors. It is the sister festival of World Architecture Festival that takes place at the same time. 
+  -  date: June 2017
+     image: /assets/images/news/news_linehouse_ad100.png
+     title: Linehouse Joins AD100 List: The 100 Most Influential Architects and Designers in China 2017
+     content: Linehouse are excited to join the ranks of the <a href="ttp://www.adstyle.com.cn/ad100/2017/20170330/designer_10gg93d537daf72c.html">2017 AD100</a>. We were additionally honoured with <a href="http://www.adstyle.com.cn/ad100/2017/7Best">Office Interior</a> for our project WeWork Weihai Road. AD100 is a biennial list created by Architectural Digest celebrating the top 100 architects and designers across the country. The “Best of” are awarded from a shortlist of well-designed office projects in various categories. The results were announced at an event held at the new Fosun Bund Financial Centre, coinciding with AD China’s 6th anniversary celebrations. 
+  -  date: June 2017
+     image: /assets/images/news/news_linehouse_indeawards.jpg
+     title: Linehouse shortlisted at INDE. Awards
+     content: Linehouse were shortlisted in two categories: The Design Studio and The Work Space. The Design Studio honours the practice that thinks forward, creates voraciously and changes perceptions. Our projects Nio Brand Creative Studio and WeWork Weihai Lu were part of the shortlist of eight. <a href="http://www.indeawards.com">The INDE. Awards</a> are a new awards program in the Asia Pacific region.
+  -  date: May 2017
+     image: /assets/images/news/news_linehouse_herschelsupply.png
+     title: Welcome to Shanghai, Herschel Supply! 
+     content: <a href="http://www.herschelsupply.com">Herschel Supply</a> threw a welcome get-to-know-you for media and friends over at Design Republic’s event space. It’s great to see these awesome bags reaching the cool kids in China. Meanwhile, Herschel’s new workspace – designed by Linehouse –is currently under construction. Stay tuned for a look inside their new laneway space.
+  -  date: March 2017
+     image: /assets/images/news/news_linehouse_roam.jpg
+     title: Roam Away from Home... In Bali. 
+     content: We’re out of the office for a week, working remotely at Roam in beautiful Bali. <a href="https://www.roam.co/">Roam</a>  is an experimental coliving and coworking community with five locations across the world. The Ubud outpost is a former apartment building replete with pool, reshaped by locally based architect Alexis Dornier. The Roam life is suiting us well: working in an open air workspace, sampling outstanding F&B offerings and continuing our architour of the world; we’re happy to continue roaming a little longer.
+  -  date: February 2017
      image: /assets/images/news/1_DEZEEN.jpg
      title: WeWork Weihai on Dezeen
      content: Dezeen published an <a href="https://www.dezeen.com/2017/02/09/co-working-office-wework-whimsical-china-flagship-former-opium-factory-interior/">article</a> on the whimsical co-working space WeWork.
   -  date: February 2017
      image: /assets/images/news/2_URBIS.jpg
      title: Urbis Magazine Profile
-     content: Briar Hickling, Linehouse co-founder talks to New Zealand magazine Urbis about the competitive world of interior design in China.  Check out the two-page article titled ‘Designing the Dragon, Briar Hickling; whose commercial work is turning heads in Shanghai’.
+     content: Briar Hickling, Linehouse co-founder talks to New Zealand magazine Urbis about the competitive world of interior design in China.  Check out the <a href="http://linehousedesign.com/assets/images/press/Urbis_linehouse.pdftwo-page"> article</a> titled ‘Designing the Dragon, Briar Hickling; whose commercial work is turning heads in Shanghai’.
   -  date: January 2017
      image: /assets/images/news/3_ALLSH2.jpg
      title: ALLSH 2 now open
@@ -27,10 +47,10 @@ newsitems:
   -  date: November 2016
      image: /assets/images/news/6_WEWORK OPENING.jpg
      title: WeWork Weihai opening party
-     content: The WeWork China flagship, located in a former Opium Factory and artist residence, is now open. Amazing to see so many people enjoying the building and an awesome party after a lot of hard work.
+     content: <a href="http://linehousedesign.com/work/wework-weihai">The WeWork China flagship</a>, located in a former Opium Factory and artist residence, is now open. Amazing to see so many people enjoying the building and an awesome party after a lot of hard work.
   -  date: November 2016
      image: /assets/images/news/7_A-DAWARDS.jpg
-     title: Linehouse receives 2 awards at the A&D Trophy Awards 2016 in Hong Kong 
+     title: Linehouse receives 2 awards at the <a href="http://www.perspectiveglobal.com/awards/adt-awards-2016-winners/">A&D Trophy Awards 2016</a> in Hong Kong 
      content: Cote & Ciel won Best Retail Certificate of Excellence and Bao Bao won Best Retail Certificate of Excellence at the Architecture and Design Awards, Asia-Pacific. 
   -  date: November 2016
      image: /assets/images/news/8_BAOISM.jpg
@@ -39,7 +59,7 @@ newsitems:
   -  date: November 2016
      image: /assets/images/news/9_NIO.jpg
      title: NextEv Nio Brand Creative Studio now finished
-     content: Designed by Linehouse, the office for Electric car company NextEv Nio Brand Creative Studio is now finished. An inhabitable oak structure occupies the space layered with an etched glass skin which creates an ephemeral working environment. 
+     content: Designed by Linehouse, the office for Electric car company <a href="http://linehousedesign.com/work/nioNextEv"> Nio Brand Creative Studio</a> is now finished. An inhabitable oak structure occupies the space layered with an etched glass skin which creates an ephemeral working environment. 
   -  date: September 2016
      image: /assets/images/news/10-NEON.jpg
      title: N3on featured on DETAIL

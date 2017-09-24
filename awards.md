@@ -11,14 +11,17 @@ AD100: The 100 Most Influential Architects and Designers in China <br/>
 
 AD100: Best Office Interior<br/>
 
-Perspective’s 40 Under 40 Awards: Alex Mok & Briar Hickling<br/> 
+Perspective’s 40 Under 40 Awards: Alex Mok & Briar Hickling<br/>
 
-WIN Awards Retail Interiors<br/> 
-Longlist: N3ON & Cote&Ciel WIN Awards Cafes 2017<br/> 
-Longlist: BAOBAO & Baoism WIN Workspace Interiors Less Than 10,000SQM<br/> 
-Longlist: WeWork Weihai Road, China Flagship<br/> 
+WIN Awards<br/>
+Cafes<br/>
+Shortlist: BAOBAO & Baoism
+Workspace Interiors Less Than 10,000SQM<br/>
+Shortlist: WeWork Weihai Road, China Flagship<br/>
+Retail Interiors<br/>
+Longlist: N3ON & Cote&Ciel
 
-INDE.Awards: The Design Studio, Official Shortlist<br/ 
+INDE.Awards: The Design Studio, Official Shortlist<br/>
 INDE.Awards: The Workspace, Official Shortlist: WeWork Weihai Road<br/>
 
 INSIDE World Festival of Interiors: Offices, Official Shortlist: WeWork Weihai Road<br/>
