@@ -7,7 +7,7 @@ categories:
 details:
   -  Year of Completion: 2016
   -  Architect: Linehouse
-  -  Photographers:  Jonathan Leijonhufvud (images: 001-0011, Dirk Weiblen (images: 0012, 0013)
+  -  Photographers:  Jonathan Leijonhufvud and Dirk Weiblen
   -  Project Address: Xingfu Li, Shanghai 
   -  Area: 20sqm
 header-image: /assets/images/projects/ALL-SH-2/Linehouse_ALL2_001_LQ.jpg
