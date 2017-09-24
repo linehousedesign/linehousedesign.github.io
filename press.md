@@ -6,7 +6,7 @@ banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
   -  name: d'architectures, WeWork Weihai Lu, June 2017
   -  publication: d'architectures
-  -  url:/assets/images/press/daarchitectures_linehouse_weworkweihailu.pdf
+  -  url: /assets/images/press/daarchitectures_linehouse_weworkweihailu.pdf
   -  images:
       -  /assets/images/press/daarchitectures_linehouse_weworkweihailu_cover.jpg
   -  name: AZURE, Herschel Supply, June 2017
@@ -54,7 +54,7 @@ pressitems:
   -  url: /assets/images/press/frame_linehouse_weworkweihailu.pdf
   -  images:
      -  /assets/images/press/frame_linehouse_weworkweihailu_cover.jpg
--  name: inc., WeWork Weihai Lu, May 2017
+  -  name: inc., WeWork Weihai Lu, May 2017
   -  publication: inc.
   -  url: https://www.inc.com/kevin-ryan-anna-hensel/ss/worlds-10-coolest-offices-2017.html
   -  images:
@@ -74,7 +74,7 @@ pressitems:
   -  url: https://www.forbes.com/sites/eustaciahuen/2017/03/31/5-most-beautiful-coworking-spaces-in-the-world/#74f4ad745524
   -  images:
       -  /assets/images/press/forbes_linehouse_wewworkweihailu.jpg
--  name: GQ, Linehouse, March 2017
+  -  name: GQ, Linehouse, March 2017
   -  publication: GQ
   -  url: /assets/images/press/gq_linehouse_studio_01.pdf
   -  images:
