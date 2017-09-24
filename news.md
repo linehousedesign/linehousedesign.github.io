@@ -10,7 +10,7 @@ newsitems:
      content: Linehouse project WeWork Weihai Lu has been shortlisted in the Office category for <a href="https://www.insidefestival.com/offices-finalists-2017">World Interior of the Year 2017</a>. Finalists of each category will be announced at the INSIDE festival in Berlin in 2017. We’re in great company, with more than a third of the 78 finalists coming from <a href="http://www.cnn.com/2017/07/19/design/world-interior-2017/index.html">Greater China</a>. The INSIDE Festival is a three day festival that shines a spotlight on the people, projects and developments that are changing the face of global interiors. It is the sister festival of World Architecture Festival that takes place at the same time. 
   -  date: June 2017
      image: /assets/images/news/news_linehouse_ad100.png
-     title: Linehouse Joins AD100 List: The 100 Most Influential Architects and Designers in China 2017
+     title: Linehouse Joins AD100 List - The 100 Most Influential Architects and Designers in China 2017
      content: Linehouse are excited to join the ranks of the <a href="ttp://www.adstyle.com.cn/ad100/2017/20170330/designer_10gg93d537daf72c.html">2017 AD100</a>. We were additionally honoured with <a href="http://www.adstyle.com.cn/ad100/2017/7Best">Office Interior</a> for our project WeWork Weihai Road. AD100 is a biennial list created by Architectural Digest celebrating the top 100 architects and designers across the country. The “Best of” are awarded from a shortlist of well-designed office projects in various categories. The results were announced at an event held at the new Fosun Bund Financial Centre, coinciding with AD China’s 6th anniversary celebrations. 
   -  date: June 2017
      image: /assets/images/news/news_linehouse_indeawards.jpg
