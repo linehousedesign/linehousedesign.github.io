@@ -4,6 +4,96 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
+  -  name: d'architectures, WeWork Weihai Lu, June 2017
+  -  publication: d'architectures
+  -  url:/assets/images/press/daarchitectures_linehouse_weworkweihailu.pdf
+  -  images:
+      -  /assets/images/press/daarchitectures_linehouse_weworkweihailu_cover.jpg
+  -  name: AZURE, Herschel Supply, June 2017
+  -  publication: AZURE
+  -  url: http://www.azuremagazine.com/article/herschel-supply-co-linehouse-shanghai/
+  -  images:
+     -  /assets/images/press/azure_linehouse_herschel.jpg
+	-  name: d+a, WeWork Weihai Lu, June 2017
+  -  publication: d+a
+  -  url: /assets/images/press/da_linehouse_weworkweihailu.pdf
+  -  images:
+     -  /assets/images/press/da_linehouse_weworkweihailu_cover.jpg
+  -  name: Design Milk, Herschel Supply, June 2017
+  -  publication: Designboom
+  -  url: http://design-milk.com/herschel-supply-gets-new-industrial-digs-in-shanghai/
+  -  images:
+     -  /assets/images/press/designmilk_linehouse_herschelsupply.jpg
+  -  name: Qdaily, Herschel Supply, June 2017
+  -  publication: Qdaily
+  -  url: https://www.qdaily.com/articles/41692.html
+  -  images:
+      -  /assets/images/press/qdaily_linehouse_herschelsupply.jpg
+  -  name: Interior Designer, WeWork Weihai Lu, June 2017
+  -  publication: Interior Designer
+  -  url: /assets/images/press/interiordesigner_linehouse_weworkweihailu.pdf
+  -  images:
+     -  /assets/images/press/interiordesigner_linehouse_weworkweihailu_cover.jpg
+  -  name: Designboom, Herschel Supply, May 2017
+  -  publication: Designboom
+  -  url: http://www.designboom.com/design/linehouse-herschel-supply-co-office-shanghai-05-30-2017/
+  -  images:
+      -  /assets/images/press/designboom_linehouse_herschelsupply.jpg
+  -  name: Detail, NIO Brand Creative Studio, May 2017
+  -  publication: Detail
+  -  url: http://www.detail.de/artikel/mobiliar-bildet-raum-buerogestaltung-in-shanghai-29642/
+  -  images:
+       -  /assets/images/press/detail_niobrandcreativestudio.jpg
+  -  name: Interior News, WeWork Weihai Lu, May 2017
+  -  publication: Interior News
+  -  url: /assets/images/press/interiornews_linehouse_weworkweihailu.pdf
+  -  images:
+     -  /assets/images/press/interiornews_linehouse_weworkweihailu_cover.jpg
+  -  name: FRAME, WeWork Weihai Lu, May 2017
+  -  publication: FRAME
+  -  url: /assets/images/press/frame_linehouse_weworkweihailu.pdf
+  -  images:
+     -  /assets/images/press/frame_linehouse_weworkweihailu_cover.jpg
+-  name: inc., WeWork Weihai Lu, May 2017
+  -  publication: inc.
+  -  url: https://www.inc.com/kevin-ryan-anna-hensel/ss/worlds-10-coolest-offices-2017.html
+  -  images:
+      -  /assets/images/press/forbes_linehouse_wewworkweihailu_01.jpg
+  -  name: Design 360, Baoism, Baobao, May 2017
+  -  publication: Design 360
+  -  url: /assets/images/press/design360_linehouse_baoismbaobaobao.pdf
+  -  images:
+       -  /assets/images/press/design360_linehouse_baoismbaobao_cover.jpg
+  -  name: Indesign Live, WeWork Weihai Lu, March 2017
+  -  publication: Indesign Live
+  -  url: http://www.indesignlive.sg/articles/projects/co-working-beautiful-collisions-old-new
+  -  images:
+       -  /assets/images/press/indesignlive_linehouse_wewworkweihailu_01.jpg
+  -  name: Forbes, WeWork Weihai Lu, March 2017
+  -  publication: Forbes
+  -  url: https://www.forbes.com/sites/eustaciahuen/2017/03/31/5-most-beautiful-coworking-spaces-in-the-world/#74f4ad745524
+  -  images:
+      -  /assets/images/press/forbes_linehouse_wewworkweihailu.jpg
+-  name: GQ, Linehouse, March 2017
+  -  publication: GQ
+  -  url: /assets/images/press/gq_linehouse_studio_01.pdf
+  -  images:
+       -  /assets/images/press/gq_linehouse_studio_cover.jpg
+  -  name: id+c, WeWork Weihai Lu, March 2017
+  -  publication: id+c
+  -  url: /assets/images/press/idc_linehouse_weworkweihailu.pdf
+  -  images:
+       -  /assets/images/press/idc_linehouse_weworkweihailu_cover.jpg
+  -  name: bob, WeWork Weihai Lu, March 2017
+  -  publication: bob
+  -  url: /assets/images/press/bob_linehouse_weiworkweihailu.pdf
+  -  images:
+       -  /assets/images/press/bob_linehouse_weiworkweihailu_cover.jpg
+  -  name: Hinge, Baoism, May 2016
+  -  publication: GQ
+  -  url: /assets/images/press/hinge_linehouse_baoism.pdf
+  -  images:
+       -  /assets/images/press/hinge_linehouse_baoism_cover.jpg
   -  name: Archdaily, NIO, December 2016
      publication: Archdaily
      url: http://www.archdaily.com/800818/nio-brand-creative-studio-shanghai-linehouse
