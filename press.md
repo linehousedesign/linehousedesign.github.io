@@ -13,14 +13,14 @@ pressitems:
      publication: AZURE
      url: http://www.azuremagazine.com/article/herschel-supply-co-linehouse-shanghai/
      images:
-      -  /assets/images/press/azure_linehouse_herschel.jpg
+      -  /assets/images/press/azure_linehouse_herschelsupply.jpg
   -  name: d+a, WeWork Weihai Lu, June 2017
      publication: d+a
      url: /assets/images/press/da_linehouse_weworkweihailu.pdf
      images:
      -  /assets/images/press/da_linehouse_weworkweihailu_cover.jpg
   -  name: Design Milk, Herschel Supply, June 2017
-     publication: Designboom
+     publication: Designmilk
      url: http://design-milk.com/herschel-supply-gets-new-industrial-digs-in-shanghai/
      images:
      -  /assets/images/press/designmilk_linehouse_herschelsupply.jpg
@@ -43,10 +43,10 @@ pressitems:
      publication: Detail
      url: http://www.detail.de/artikel/mobiliar-bildet-raum-buerogestaltung-in-shanghai-29642/
      images:
-       -  /assets/images/press/detail_niobrandcreativestudio.jpg
+       -  /assets/images/press/detail_linehouse_niobrandcreativestudio.jpg
   -  name: Interior News, WeWork Weihai Lu, May 2017
      publication: Interior News
-     url: /assets/images/press/interiornews_linehouse_weworkweihailu.pdf
+     url: /assets/images/press/interiornews_linehouse_weworkweihailu_cover_.pdf
      images:
      -  /assets/images/press/interiornews_linehouse_weworkweihailu_cover.jpg
   -  name: FRAME, WeWork Weihai Lu, May 2017
@@ -58,7 +58,7 @@ pressitems:
      publication: inc.
      url: https://www.inc.com/kevin-ryan-anna-hensel/ss/worlds-10-coolest-offices-2017.html
      images:
-      -  /assets/images/press/forbes_linehouse_wewworkweihailu_01.jpg
+      -  /assets/images/press/inc_linehouse_weworkweihailu.jpg
   -  name: Design 360, Baoism, Baobao, May 2017
      publication: Design 360
      url: /assets/images/press/design360_linehouse_baoismbaobaobao.pdf
@@ -68,29 +68,29 @@ pressitems:
      publication: Indesign Live
      url: http://www.indesignlive.sg/articles/projects/co-working-beautiful-collisions-old-new
      images:
-       -  /assets/images/press/indesignlive_linehouse_wewworkweihailu_01.jpg
+       -  /assets/images/press/indesignlive_linehouse_weworkweihailu_01.jpg
   -  name: Forbes, WeWork Weihai Lu, March 2017
      publication: Forbes
      url: https://www.forbes.com/sites/eustaciahuen/2017/03/31/5-most-beautiful-coworking-spaces-in-the-world/#74f4ad745524
      images:
-      -  /assets/images/press/forbes_linehouse_wewworkweihailu.jpg
+      -  /assets/images/press/forbes_linehouse_weworkweihailu.jpg
   -  name: GQ, Linehouse, March 2017
      publication: GQ
-     url: /assets/images/press/gq_linehouse_studio_01.pdf
+     url: /assets/images/press/gq_linehouse_studio.pdf
      images:
        -  /assets/images/press/gq_linehouse_studio_cover.jpg
   -  name: id+c, WeWork Weihai Lu, March 2017
      publication: id+c
-     url: /assets/images/press/idc_linehouse_weworkweihailu.pdf
+     url: /assets/images/press/idc_weworkweihailu.pdf
      images:
-       -  /assets/images/press/idc_linehouse_weworkweihailu_cover.jpg
+       -  /assets/images/press/idc_weworkweihailu_cover.jpg
   -  name: bob, WeWork Weihai Lu, March 2017
      publication: bob
-     url: /assets/images/press/bob_linehouse_weiworkweihailu.pdf
+     url: /assets/images/press/bob_linehouse_weworkweihailu.pdf
      images:
-       -  /assets/images/press/bob_linehouse_weiworkweihailu_cover.jpg
+       -  /assets/images/press/bob_linehouse_weworkweihailu_cover.jpg
   -  name: Hinge, Baoism, May 2016
-     publication: GQ
+     publication: Hinge
      url: /assets/images/press/hinge_linehouse_baoism.pdf
      images:
        -  /assets/images/press/hinge_linehouse_baoism_cover.jpg

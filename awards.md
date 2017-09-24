@@ -14,12 +14,9 @@ AD100: Best Office Interior<br/>
 Perspective’s 40 Under 40 Awards: Alex Mok & Briar Hickling<br/>
 
 WIN Awards<br/>
-Cafes<br/>
-Shortlist: BAOBAO & Baoism
-Workspace Interiors Less Than 10,000SQM<br/>
-Shortlist: WeWork Weihai Road, China Flagship<br/>
-Retail Interiors<br/>
-Longlist: N3ON & Cote&Ciel
+Cafes. Shortlist: BAOBAO & Baoism<br/>
+Workspace Interiors Less Than 10,000SQM. Shortlist: WeWork Weihai Road, China Flagship<br/>
+Retail Interiors. Longlist: N3ON & Cote&Ciel<br/>
 
 INDE.Awards: The Design Studio, Official Shortlist<br/>
 INDE.Awards: The Workspace, Official Shortlist: WeWork Weihai Road<br/>
