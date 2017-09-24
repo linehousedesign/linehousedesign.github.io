@@ -15,7 +15,7 @@ newsitems:
   -  date: June 2017
      image: /assets/images/news/news_linehouse_indeawards.jpg
      title: Linehouse shortlisted at INDE. Awards
-     content: Linehouse were shortlisted in two categories: The Design Studio and The Work Space. The Design Studio honours the practice that thinks forward, creates voraciously and changes perceptions. Our projects Nio Brand Creative Studio and WeWork Weihai Lu were part of the shortlist of eight. <a href="http://www.indeawards.com">The INDE. Awards</a> are a new awards program in the Asia Pacific region.
+     content: Linehouse were shortlisted in two categories - The Design Studio and The Work Space. The Design Studio honours the practice that thinks forward, creates voraciously and changes perceptions. Our projects Nio Brand Creative Studio and WeWork Weihai Lu were part of the shortlist of eight. <a href="http://www.indeawards.com">The INDE. Awards</a> are a new awards program in the Asia Pacific region.
   -  date: May 2017
      image: /assets/images/news/news_linehouse_herschelsupply.png
      title: Welcome to Shanghai, Herschel Supply! 
@@ -23,7 +23,7 @@ newsitems:
   -  date: March 2017
      image: /assets/images/news/news_linehouse_roam.jpg
      title: Roam Away from Home... In Bali. 
-     content: We’re out of the office for a week, working remotely at Roam in beautiful Bali. <a href="https://www.roam.co/">Roam</a>  is an experimental coliving and coworking community with five locations across the world. The Ubud outpost is a former apartment building replete with pool, reshaped by locally based architect Alexis Dornier. The Roam life is suiting us well: working in an open air workspace, sampling outstanding F&B offerings and continuing our architour of the world; we’re happy to continue roaming a little longer.
+     content: We’re out of the office for a week, working remotely at Roam in beautiful Bali. <a href="https://www.roam.co/">Roam</a>  is an experimental coliving and coworking community with five locations across the world. The Ubud outpost is a former apartment building replete with pool, reshaped by locally based architect Alexis Dornier. The Roam life is suiting us well - working in an open air workspace, sampling outstanding F&B offerings and continuing our architour of the world; we’re happy to continue roaming a little longer.
   -  date: February 2017
      image: /assets/images/news/1_DEZEEN.jpg
      title: WeWork Weihai on Dezeen

@@ -13,8 +13,8 @@ pressitems:
   -  publication: AZURE
   -  url: http://www.azuremagazine.com/article/herschel-supply-co-linehouse-shanghai/
   -  images:
-     -  /assets/images/press/azure_linehouse_herschel.jpg
-	-  name: d+a, WeWork Weihai Lu, June 2017
+      -  /assets/images/press/azure_linehouse_herschel.jpg
+  -  name: d+a, WeWork Weihai Lu, June 2017
   -  publication: d+a
   -  url: /assets/images/press/da_linehouse_weworkweihailu.pdf
   -  images:
