@@ -4,6 +4,31 @@ title: Press
 permalink: /press/
 banner: /assets/images/main-site-images/footer-news.jpg
 pressitems:
+  -  name: d'architectures, WeWork Weihai Lu, June 2017
+     publication: d'architectures 
+     url: /assets/images/press/daarchitectures_linehouse_weworkweihailu.pdf
+     images:
+      -  /assets/images/press/daarchitectures_linehouse_weworkweihailu_cover.jpg
+  -  name: AZURE, Herschel Supply, June 2017
+     publication: AZURE
+     url: http://www.azuremagazine.com/article/herschel-supply-co-linehouse-shanghai/
+     images:
+      -  /assets/images/press/azure_linehouse_herschelsupply.jpg
+  -  name: d+a, WeWork Weihai Lu, June 2017
+     publication: d+a
+     url: /assets/images/press/da_linehouse_weworkweihailu.pdf
+     images:
+     -  /assets/images/press/da_linehouse_weworkweihailu_cover.jpg
+  -  name: Design Milk, Herschel Supply, June 2017
+     publication: Designmilk
+     url: http://design-milk.com/herschel-supply-gets-new-industrial-digs-in-shanghai/
+     images:
+     -  /assets/images/press/designmilk_linehouse_herschelsupply.jpg
+  -  name: Qdaily, Herschel Supply, June 2017
+     publication: Qdaily
+     url: https://www.qdaily.com/articles/41692.html
+     images:
+      -  /assets/images/press/qdaily_linehouse_herschelsupply.jpg
   -  name: Interior Designer, WeWork Weihai Lu, June 2017
      publication: Interior Designer
      url: /assets/images/press/interiordesigner_linehouse_weworkweihailu.pdf
