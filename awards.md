@@ -7,7 +7,11 @@ banner:
 
 <h4>2017</h4>
 
-AD100: The 100 Most Influential Architects and Designers in China <br/> 
+Blueprint Awards 2017 Commended: Best Interior, Work: WeWork Weihai Road<br/>
+
+INSIDE World Interior of the Year Awards, Office Category, Shortlist: WeWork Weihai Road<br />
+
+AD100: The 100 Most Influential Architects and Designers in China<br/>
 
 AD100: Best Office Interior<br/>
 
