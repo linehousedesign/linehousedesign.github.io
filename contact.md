@@ -4,18 +4,21 @@ title: Contact
 permalink: /contact/
 banner: /assets/images/main-site-images/footer-contact.jpg
 ---
+SHANGHAI<br />
 Studio B2, 655 Changhua Road<br />
 Jing’an District, Shanghai, China, 200041<br/>
 上海市静安区昌化路655号B2室<br/>
-<br/>
-Wechat: @Linehouse联图
+<br />
+<br />
+HONG KONG<br />
+22A Gee Chang Hong Centre<br />
+65 Wong Chuk Hang Road<br />
+Wong Chuk Hang<br />
+Hong Kong<br />
 
-<a href="https://www.instagram.com/line___house/" target="_new">
-<img src="/assets/images/main-site-images/instagram_icon.png" height="30">
-</a>&nbsp;
-<a href="http://www.linkedin.com/companies/linehouse" target="_new">
-<img src="/assets/images/main-site-images/linkedin_icon.png" height="30">
-</a>
+WeChat: @Linehouse联图<br />
+Instagram: <a href="https://www.instagram.com/line___house/" target="_new">line__house</a><br /> 
+Linkedin: <a href="ttp://www.linkedin.com/companies/linehouse" target="_new">Line House</a><br /> 
 
 For project enquiries:
 <br /><a href="mailto:info@linehousedesign.com">info@linehousedesign.com</a>
