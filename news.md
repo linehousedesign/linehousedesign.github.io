@@ -4,14 +4,14 @@ title: News
 permalink: /news/
 banner: /assets/images/main-site-images/footer-news.jpg
 newsitems:
-  -  date: September 2017
-     image: /assets/images/news/Dec_2017_WIN_Awards.jpg
-     title: WIN Awards 2017 judges’ comments released 
-     content: Three Linehouse projects are shortlisted in the World Interior News Awards 2017. Both Baoism and Baobao are shortlisted in the Restaurants & Cafes category. Of Baoism, Katy Marks of Citizens Design Bureau says “Linehouse are brilliant at creating a really striking concept without ever descending into the realm of the ‘theme café’. In this case the traditional woven steamer basket is interpreted in perforated sheet metal to create a simple, no-frills café, that despite the pared back palette has really strong character.” Of WeWork Weihai Lu, shortlisted in the <a href="http://www.wantoday.com/WIN/2017/18/WI.html">Workspace Interiors</a> category, jury member Lee Penson, of Penson says, “This is a cultural game-changer – outstanding. Linehouse has combined eastern and western cultures together through really clever design.” We’re excited for the winning projects to be announced in London in February!
   -  date: November 2017
      image: /assets/images/news/Nov_2017_Inside.jpg
      title: Linehouse presents on the INSIDE stage at World Architecture Festival in Berlin
      content: At Day One of the WAF we participated in a live crit of WeWork Weihai Lu. Our design was well received, and it was a great experience to take part in this huge international architecture and design fest. Congrats to all other finalists in the Office category ... <a href="https://www.insidefestival.com/offices-finalists-2017">read more</a>
+  -  date: September 2017
+     image: /assets/images/news/Dec_2017_WIN_Awards.jpg
+     title: WIN Awards 2017 judges’ comments released 
+     content: Three Linehouse projects are shortlisted in the World Interior News Awards 2017. Both Baoism and Baobao are shortlisted in the Restaurants & Cafes category. Of Baoism, Katy Marks of Citizens Design Bureau says “Linehouse are brilliant at creating a really striking concept without ever descending into the realm of the ‘theme café’. In this case the traditional woven steamer basket is interpreted in perforated sheet metal to create a simple, no-frills café, that despite the pared back palette has really strong character.” Of WeWork Weihai Lu, shortlisted in the <a href="http://www.wantoday.com/WIN/2017/18/WI.html">Workspace Interiors</a> category, jury member Lee Penson, of Penson says, “This is a cultural game-changer – outstanding. Linehouse has combined eastern and western cultures together through really clever design.” We’re excited for the winning projects to be announced in London in February!
   -  date: September 2017
      image: /assets/images/news/Sep_2017_SCMP.jpg
      title: Linehouse featured in SCMP – Where gender is off the agenda
