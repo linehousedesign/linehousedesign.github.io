@@ -4,6 +4,30 @@ title: News
 permalink: /news/
 banner: /assets/images/main-site-images/footer-news.jpg
 newsitems:
+  -  date: May 2018
+     image: /assets/images/news/linehouse-news-herschelshibuya-may18.jpg
+     title: Herschel Supply Shibuya – Now Open
+     content: Another great collaboration with <a href="www.herschel.com" target="_new">Herschel Supply</a> sees the new Shibuya store open grandly on the 25th May. Stay tuned for images of the two level store in downtown Tokyo. 
+  -  date: April 2018
+     image: /assets/images/news/linehouse-news-prodigy-april18.jpg
+     title: The INDE.Awards Shortlist 2018 – The Prodigy of the Year
+     content: The INDE.Awards shortlist is out and Linehouse have been selected by the jury for The Prodigy of the Year. The <a href="https://www.indeawards.com/category/the-prodigy-2018/" target="_new">Prodigy</a> honours those that “sparks trends, thinks differently and whose work pushes the boundaries of design”. We are in good company, along with Nick Harding of <a href="ttp://www.h-a.com.au" target="_new">Ha</a>, <a href="https://www.olivia-lee.com/" target="_new">Olivia Lee</a> and David Neustein and Grace Mortlock of <a href="http://otherarchitects.com/" target="_new">Other Architects</a>.
+  -  date: March 2018
+     image: /assets/images/news/linehouse-news-birdbitter-march18.jpg
+     title: Bird and Bitter Opens in Shanghai
+     content: <a href="https://www.instagram.com/birdinshanghai_/" target="_new">Bird</a> & <a href="https://www.instagram.com/bitterinshanghai/" target="_new">Bitter</a> are neighbouring venues on the leafy Wuyuan Road in Shanghai. Opened and designed by Linehouse, together with partners Camden Hauge, Warren Pang and Lobin Tjia, <a href="http://www.smartshanghai.com/venue/15180/bird_wuyuan_lu" target="_new">Bird</a> is the place to go for interesting wines and small plates, and <a href="http://www.smartshanghai.com/venue/15181/bitter_wuyuan_lu" target="_new">Bitter</a> for coffee and cocktails. 
+  -  date: March 2018
+     image: /assets/images/news/linehouse-news-architecturebrisbane-march18.jpg
+     title: The Architecture Symposium, Brisbane
+     content: On 16 March, Linehouse were invited to speak at <a href="http://designspeaks.com.au/events/2018/03/16/the-architecture-symposium" target="_new">The Architecture Symposium</a> – a forum about architecture, design and urbanism from the Asia Pacific – in Brisbane, Australia organized by <a href="http://designspeaks.com.au/" target="_new">Design Speaks</a>. Co-founders Alex Mok and Briar Hickling joined 13 practitioners from Asia Pacific to explore the innovative thinking and transformative projects that are creating new world cities for the emerging Asian Century. 
+  -  date: February 2018
+     image: /assets/images/news/linehouse-news-win-feb18.jpg
+     title: Linehouse Wins at WIN Awards 2017
+     content: At a ceremony held at Somerset House in London, Linehouse was named winner in the Workspace Interiors category (less than 10,000 square metres) for project WeWork Weihai Lu. <a target="_new" href="https://www.worldinteriorsnewsawards.com">World Interiors News (WIN) Awards</a> is the annual awards recognizing interior designers, architects and product designers from around the works. The full Winners Brochure can be viewed <a target="_new" href="https://backstage.worldarchitecturenews.com/worldinteriorsnews/winners-brochure-2017/#page=1">here></a>.
+  -  date: December 2017
+     image: /assets/images/news/linehouse-news-boyawards-dec17.jpg
+     title: 2017 Best of Year Awards
+     content: At Interior Design’s12th annual Best of Year Awards, Linehouse was named Winner in the Co-Working category for WeWork Weihai Lu in Shanghai. Read Interior Design’s take on the project <a href="http://www.interiordesign.net/projects/14291-wework-by-linehouse-design-2017-best-of-year-winner-for-co-working-space/" target="_new">here</a>. ALL SH was named Honoree in the Budget category and Herschel Supply Shanghai Office in the Extra Small Office category.  
   -  date: November 2017
      image: /assets/images/news/Nov_2017_Inside.jpg
      title: Linehouse presents on the INSIDE stage at World Architecture Festival in Berlin
