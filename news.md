@@ -5,7 +5,7 @@ permalink: /news/
 banner: /assets/images/main-site-images/footer-news.jpg
 newsitems:
   -  date: May 2018
-     image: /assets/images/news/linehouse-news-herschelshibuya-may18.jpg
+     image: /assets/images/news/linehouse-news-herschelshibuya-may18.jpeg
      title: Herschel Supply Shibuya – Now Open
      content: Another great collaboration with <a href="www.herschel.com" target="_new">Herschel Supply</a> sees the new Shibuya store open grandly on the 25th May. Stay tuned for images of the two level store in downtown Tokyo. 
   -  date: April 2018
@@ -13,7 +13,7 @@ newsitems:
      title: The INDE.Awards Shortlist 2018 – The Prodigy of the Year
      content: The INDE.Awards shortlist is out and Linehouse have been selected by the jury for The Prodigy of the Year. The <a href="https://www.indeawards.com/category/the-prodigy-2018/" target="_new">Prodigy</a> honours those that “sparks trends, thinks differently and whose work pushes the boundaries of design”. We are in good company, along with Nick Harding of <a href="ttp://www.h-a.com.au" target="_new">Ha</a>, <a href="https://www.olivia-lee.com/" target="_new">Olivia Lee</a> and David Neustein and Grace Mortlock of <a href="http://otherarchitects.com/" target="_new">Other Architects</a>.
   -  date: March 2018
-     image: /assets/images/news/linehouse-news-birdbitter-march18.jpg
+     image: /assets/images/news/linehouse-news-birdbitter-march18.jpeg
      title: Bird and Bitter Opens in Shanghai
      content: <a href="https://www.instagram.com/birdinshanghai_/" target="_new">Bird</a> & <a href="https://www.instagram.com/bitterinshanghai/" target="_new">Bitter</a> are neighbouring venues on the leafy Wuyuan Road in Shanghai. Opened and designed by Linehouse, together with partners Camden Hauge, Warren Pang and Lobin Tjia, <a href="http://www.smartshanghai.com/venue/15180/bird_wuyuan_lu" target="_new">Bird</a> is the place to go for interesting wines and small plates, and <a href="http://www.smartshanghai.com/venue/15181/bitter_wuyuan_lu" target="_new">Bitter</a> for coffee and cocktails. 
   -  date: March 2018
