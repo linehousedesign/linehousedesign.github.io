@@ -6,7 +6,7 @@ banner: /assets/images/main-site-images/footer-profile.jpg
 ---
 <img width="100%" src="/assets/images/main-site-images/linehouse-profile.jpg">
 
-Linehouse is an architecture and interior design practice established in 2013 by Alex Mok (Chinese-Swedish) and Briar Hickling (from New Zealand).  Both have completed extensive work in Asia, Pacific and abroad.
+Linehouse is an architecture and interior design practice established in 2013 by Alex Mok (Chinese-Swedish) and Briar Hickling (from New Zealand). Both have completed extensive work in Asia and abroad. 
 
 Linehouse operates as a platform to investigate the rituals of inhabitation and how these daily moments can be celebrated through design, transforming the mundane into performative acts.
 
@@ -18,4 +18,4 @@ Each brief is approached individually, creating a poetic concept for each client
 
 Linehouse has been featured widely by the press around the world, including Wallpaper*, FRAME, AD, ELLE Décor, Dezeen, Detail, Archdaily, Designboom, Perspective Magazine and countless print and online media.
 
-In 2016, Linehouse was awarded twice at the A&D Trophy Awards in the retail and F&B categories, and named Judges’ Choice and winner in the shopping space category at the Asia Pacific Interior Design Awards (APIDA). Named Emerging Interior Practice of the Year by World Interior News in 2015, Linehouse has also been awarded at Restaurant and Bar Design Awards and Design for Asia (DFA) Awards.  
+In 2017, Linehouse were shortlisted at INSIDE World Interiors of the Year and were also honoured at Interior Design  Magazine’s Best of Year Awards, WIN Awards and INDE Awards. Linehouse joined the ranks of AD100: The Most Influential Architects and Interior Designers in China and Perspective’s 40 Under 40 Awards Linehouse were named Emerging Interior Practice of the Year by World Interior News in 2015.
