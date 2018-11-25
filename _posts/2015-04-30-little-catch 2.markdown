@@ -13,8 +13,7 @@ details:
   -  Architect: Linehouse
   -  Photographer: Drew Bates
   -  Graphics: Evelyn Chiu
-  -  Location: Shanghai, China
-  -  Address: Wulumuqi Road, Shanghai, China
+  -  Location: Wulumuqi Road, Shanghai, China
   -  Area: 18sqm
 header-image: /assets/images/projects/little-catch/linehouse-little-catch-003.jpg
 square-image: /assets/images/projects/little-catch/linehouse-little-catch-square.jpg

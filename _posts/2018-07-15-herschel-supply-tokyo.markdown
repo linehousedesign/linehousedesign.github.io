@@ -8,7 +8,7 @@ details:
   -  Completion: 2018
   -  Architect: Linehouse
   -  Area: 174sqm
-  -  Project Address: 6-18-11, Jingumae, Shibuya-ku Tokyo 150-0001
+  -  Location: 6-18-11, Jingumae, Shibuya-ku Tokyo 150-0001, Japan
   -  Photographer: Jonathan Leijonhufvud
 header-image: /assets/images/projects/herschel-supply-tokyo/Linehouse_Herschel_Tokyo_Store_0001_LO-RES.jpg
 square-image: /assets/images/projects/herschel-supply-tokyo/Linehouse_Herschel_Tokyo_Store_0001_LO-RES_square.jpg

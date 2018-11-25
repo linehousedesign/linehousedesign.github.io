@@ -11,8 +11,7 @@ featured: yes
 details:
   -  Year of Completion: 2015
   -  Architect: Linehouse
-  -  Location: Shanghai, China
-  -  Address: Hong Mei Road, Shanghai, China
+  -  Location: Hong Mei Road, Shanghai, China
   -  Area: 160sqm
 header-image: /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-001.jpg
 square-image: /assets/images/projects/swiss-butchery-hongmei/linehouse-swiss-butchery-square.jpg

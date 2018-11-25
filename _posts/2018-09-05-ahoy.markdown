@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Ahoy"
+date:   2018-09-17 17:55:35
+categories:
+  -  Architecture & Interior
+details:
+  -  Completion: Concept
+  -  Area: 86sqm
+  -  Location: Deep Cove, Vancouver, Canada
+header-image: /assets/images/projects/ahoy-vancouver/Linehouse_Ahoy_02.jpg
+square-image: /assets/images/projects/ahoy-vancouver/Thumbnail_Linehouse_Ahoy_01
+image-gallery:
+  -  /assets/images/projects/ahoy-vancouver/Linehouse_Ahoy_01.jpg
+  -  /assets/images/projects/ahoy-vancouver/Linehouse_Ahoy_02.jpg
+  -  /assets/images/projects/ahoy-vancouver/Linehouse_Ahoy_03.jpg
+  -  /assets/images/projects/ahoy-vancouver/Linehouse_Ahoy_04.jpg
+---
+AHOY is a retail concept located in Deep Cove, a community centered around a small bay and a marina. Linehouse designed a retail system that references the structure of a deconstructed ship. Ribbed elements form a skeleton, a perforated metal lining wraps the structure to create enclosure and the shelves are connected with industrial detailing. 

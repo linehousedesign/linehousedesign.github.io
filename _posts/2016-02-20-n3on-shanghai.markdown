@@ -10,7 +10,7 @@ details:
   -  Year of Completion: 2016
   -  Architect: Linehouse & Tony Schonhardt
   -  Graphic Design: Evelyn Chiu
-  -  Location: Grand Gateway, Shanghai
+  -  Location: Grand Gateway, Shanghai, China
   -  Area: 50sqm
   -  Photographer : Dirk Weiblen
 header-image: /assets/images/projects/n3on-shanghai/n3on_shanghai_001.jpg

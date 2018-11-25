@@ -6,13 +6,12 @@ date:   2014-10-02 14:34:25
 categories:
   -  Architecture & Interior
 tags: featured
-location: Shanghai
+location: Shanghai, China
 details:
   -  Year of Completion: 2014
   -  Architect: Linehouse
   -  Area: interior - 32sqm
-  -  Location: Shanghai, China
-  -  Address: B1, IFC Pudong, Shanghai 
+  -  Location: B1, IFC Pudong, Shanghai, China
   -  Photographer: Benoit Florencon
 header-image: /assets/images/projects/dressed-ifc/dressed-sh-001.jpg
 square-image: /assets/images/projects/dressed-ifc/dressed-sh-square.jpg

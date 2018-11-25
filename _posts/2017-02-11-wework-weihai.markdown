@@ -8,7 +8,7 @@ details:
   -  Year of Completion: 2016
   -  Architect: Linehouse
   -  Photographers:  Jonathan Leijonhufvud (1-4, 6-11, 14-18), Dirk Weiblen (5, 12, 13)
-  -  Project Address: 696 Weihai Lu, Jing’An District, Shanghai 
+  -  Location: 696 Weihai Lu, Jing’An District, Shanghai, China
   -  Area: 5,500sqm
 header-image: /assets/images/projects/wework-weihai/wework_shanghai_linehouse_002.jpg
 square-image: /assets/images/projects/wework-weihai/wework_shanghai_linehouse_square.jpg

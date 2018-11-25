@@ -10,8 +10,7 @@ tags: featured
 details:
   -  Year of Completion: 2015
   -  Architect: Linehouse
-  -  Location: Shanghai, China
-  -  Address: Wuding Road, Shanghai, China
+  -  Location: Wuding Road, Shanghai, China
   -  Area: 90sqm
 header-image: /assets/images/projects/tribeca-jingan/linehouse-tribeca-002.jpg
 square-image: /assets/images/projects/tribeca-jingan/linehouse-tribeca-square.jpg

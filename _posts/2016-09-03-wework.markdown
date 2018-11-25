@@ -8,8 +8,7 @@ details:
   -  Year of Completion: 2016
   -  Architect: Linehouse
   -  Collaborating designer: Evelyn Chiu
-  -  Location: Shanghai, China
-  -  Address: 135 Yanping Road, Jing’An, Shanghai
+  -  Location: 135 Yanping Road, Jing’An, Shanghai, China
   -  Area: 2200sqm
 header-image: /assets/images/projects/wework-yanping/wework_shanghai_linehouse_005.jpg
 square-image: /assets/images/projects/wework-yanping/wework_shanghai_linehouse_square.jpg

@@ -10,8 +10,7 @@ details:
   -  Year of Completion: 2014
   -  Architect: Linehouse
   -  Area: Interior - 19sqm
-  -  Location: Shanghai, China
-  -  Address: Wai Ma Road, Shanghai
+  -  Location: Wai Ma Road, Shanghai, China
   -  Main Contractor: 王金芳
   -  Photographer: Benoit Florencon
 header-image: /assets/images/projects/lone-ranger-bund/lone-ranger-000.jpg

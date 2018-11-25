@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "1000 Trees Food Hall"
+date:   2018-10-01 17:55:35
+categories:
+  -  Architecture & Interior
+details:
+  -  Completion: Expected 2019
+  -  Architect: <a href="http://www.heatherwick.com/project/moganshan/">Heatherwick</a>
+  -  Interior Architecture: Linehouse
+  -  Area: 3465sqm
+  -  Location: 120 Moganshan Road, Shanghai, China
+header-image: /assets/images/projects/1000-trees-shanghai/Thumbnail_Linehouse_1000TreesFoodHall_1.jpg
+square-image: /assets/images/projects/1000-trees-shanghai/Linehouse_1000TreesFoodHall_1.jpg
+image-gallery:
+  -  /assets/images/projects/1000-trees-shanghai/Linehouse_1000TreesFoodHall_1.jpg
+  -  /assets/images/projects/1000-trees-shanghai/Linehouse_1000TreesFoodHall_2.jpg
+---
+Linehouse’s concept for the Food Hall was to create a space that blurred the qualities of an exterior and interior market. The main space is enveloped under an undulating timber canopy. The canopy moves up and down throughout, allowing it to open up in places, recalling qualities of outdoor markets. The timber canopy is back lit with a layer of illuminated stretched membrane which creates the illusion of exterior natural light. Under the canopy a series of volumes are inserted which operate as a stand for each food vendor. The layout of the food stands creates a market street that is open and flexible. 

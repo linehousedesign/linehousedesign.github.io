@@ -11,8 +11,7 @@ details:
   -  Year of Completion: 2015
   -  Architect: Linehouse
   -  Product Designer: Jean Philippe Bonzon
-  -  Location: Shanghai, China
-  -  Address: Xintiandi, Shanghai, China
+  -  Location: Xintiandi, Shanghai, China
   -  Area: 52sqm
   -  Photographer : Dirk Weiblen & Olivier Hero Dressen
 header-image: /assets/images/projects/baoism-xintiandi/linehouse-baoism-011.jpg

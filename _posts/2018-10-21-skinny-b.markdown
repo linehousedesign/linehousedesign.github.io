@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "SKINNY B"
+date:   2018-10-21 17:55:35
+categories:
+  -  Architecture & Interior
+details:
+  -  Completion: Concept
+  -  Architect: Linehouse
+  -  Area: 272sqm
+header-image: /assets/images/projects/skinny-b-shanghai/Linehouse_Skinny B_01.jpg
+square-image: /assets/images/projects/skinny-b-shanghai/Thumbnail_Linehouse_Skinny B_02.jpg
+image-gallery:
+  -  /assets/images/projects/skinny-b-shanghai/Linehouse_Skinny B_01.jpg
+  -  /assets/images/projects/skinny-b-shanghai/Linehouse_Skinny B_02.jpg
+  -  /assets/images/projects/skinny-b-shanghai/Linehouse_Skinny B_03.jpg
+---
+Linehouse completed a concept for a restaurant and bar at the W Shanghai called Skinny B. Skinny B embodies the flamboyant, self-indulgent customer who works too hard and plays too hard. The design references the architecture and colours of Palm Springs. In the center of the space is a bar clad in terrazzo bricks. An arched dark green metal curtain wraps the perimeter to create den like spaces.

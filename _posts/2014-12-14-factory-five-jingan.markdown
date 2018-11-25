@@ -10,8 +10,7 @@ details:
   -  Year of Completion: 2014
   -  Architect: Linehouse
   -  Area: 150sqm
-  -  Location: Shanghai, China
-  -  Address: 667 Changhua Rd, Shanghai, China
+  -  Location: 667 Changhua Rd, Shanghai, China
   -  Photographer: Benoit Florencon
 header-image: /assets/images/projects/factory-five-jingan/factory-five-jingan-000.jpg
 square-image: /assets/images/projects/factory-five-jingan/factory-five-jingan-square.jpg

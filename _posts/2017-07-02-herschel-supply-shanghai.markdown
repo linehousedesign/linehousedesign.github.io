@@ -8,7 +8,7 @@ details:
   -  Year of Completion: 2017
   -  Architect: Linehouse
   -  Photographers:  Jonathan Leijonhufvud
-  -  Project Address: Changde Road, Jing’An District, Shanghai 
+  -  Location: Changde Road, Jing’An District, Shanghai, China
   -  Area: 134sqm
 header-image: /assets/images/projects/herschel-shanghai/Linehouse_Herschel_007_lo.jpg
 square-image: /assets/images/projects/herschel-shanghai/Linehouse_Herschel_square.jpg

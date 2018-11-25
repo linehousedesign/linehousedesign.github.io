@@ -9,8 +9,7 @@ tags: featured
 details:
   -  Year of Completion: 2015
   -  Architect: Linehouse
-  -  Location: Shanghai, China
-  -  Address: 94 Wuxing Road, Shanghai, China
+  -  Location: 94 Wuxing Road, Shanghai, China
   -  Area: 20sqm
   -  Photographer: Benoit Florencon
 header-image: /assets/images/projects/all-sh/all_shanghai_linehouse_011.jpg
