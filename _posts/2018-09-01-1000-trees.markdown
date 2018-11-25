@@ -10,8 +10,8 @@ details:
   -  Interior Architecture: Linehouse
   -  Area: 3465sqm
   -  Location: 120 Moganshan Road, Shanghai, China
-header-image: /assets/images/projects/1000-trees-shanghai/Thumbnail_Linehouse_1000TreesFoodHall_1.jpg
-square-image: /assets/images/projects/1000-trees-shanghai/Linehouse_1000TreesFoodHall_1.jpg
+header-image: /assets/images/projects/1000-trees-shanghai/Linehouse_1000TreesFoodHall_1.jpg
+square-image: /assets/images/projects/1000-trees-shanghai/Thumbnail_Linehouse_1000TreesFoodHall_1.jpg
 image-gallery:
   -  /assets/images/projects/1000-trees-shanghai/Linehouse_1000TreesFoodHall_1.jpg
   -  /assets/images/projects/1000-trees-shanghai/Linehouse_1000TreesFoodHall_2.jpg

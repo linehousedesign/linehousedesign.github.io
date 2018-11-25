@@ -9,7 +9,7 @@ details:
   -  Area: 86sqm
   -  Location: Deep Cove, Vancouver, Canada
 header-image: /assets/images/projects/ahoy-vancouver/Linehouse_Ahoy_02.jpg
-square-image: /assets/images/projects/ahoy-vancouver/Thumbnail_Linehouse_Ahoy_01
+square-image: /assets/images/projects/ahoy-vancouver/Thumbnail_Linehouse_Ahoy_01.jpg
 image-gallery:
   -  /assets/images/projects/ahoy-vancouver/Linehouse_Ahoy_01.jpg
   -  /assets/images/projects/ahoy-vancouver/Linehouse_Ahoy_02.jpg
