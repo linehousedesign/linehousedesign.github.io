@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HOUSE OF JOHN ANTHONY"
+title:  "House of John Anthony"
 date:   2018-11-10 17:55:35
 categories:
   -  Architecture & Interior

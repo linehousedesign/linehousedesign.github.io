@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VANKE LIBRARY"
+title:  "Vanke Library"
 date:   2018-09-01 17:55:35
 categories:
   -  Architecture & Interior

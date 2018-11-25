@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WATCH STORE"
+title:  "Watch Store"
 date:   2018-09-17 17:55:35
 categories:
   -  Architecture & Interior

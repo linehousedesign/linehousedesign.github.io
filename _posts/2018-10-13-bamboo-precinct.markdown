@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BAMBOO PRECINCT"
+title:  "Bamboo Precinct"
 date:   2018-10-13 17:55:35
 categories:
   -  Architecture & Interior
