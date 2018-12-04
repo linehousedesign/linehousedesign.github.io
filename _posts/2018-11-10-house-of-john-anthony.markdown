@@ -6,7 +6,8 @@ categories:
   -  Architecture & Interior
 details:
   -  Completion: 2018
-  -  Architect: <a href="http://www.johnanthony.hk">Maximal Concepts</a>
+  -  Architect: Linehouse
+  -  Client: <a href="http://www.johnanthony.hk">Maximal Concepts</a>
   -  Area: 700sqm
   -  Location: B01-10, Basement One, Lee Garden Three, 1 Sunning Rd, Causeway Bay, Hong Kong
   -  Photograher: Jonathon Leijonhufvud
