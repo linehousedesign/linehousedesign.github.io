@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Skinny B"
+title:  "W Hotel – Skinny B"
 date:   2018-10-21 17:55:35
 categories:
   -  Architecture & Interior
