@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 260
 title:  "Herschel Supply Shibuya"
 date:   2018-07-15 17:55:35
 categories:

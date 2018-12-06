@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 60
 permalink: /architecture/&/interior/2015/04/30/little-catch-2.html
 featured:  yes
 title:  "Little Catch"

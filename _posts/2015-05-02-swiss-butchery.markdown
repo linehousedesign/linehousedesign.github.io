@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 60
 permalink: /architecture/&/interior/2015/05/02/swiss-butchery.html
 featured:  no
 title:  "Swiss Butchery"

@@ -1,5 +1,7 @@
+{% assign sorted = (site.posts | sort: 'sequence') | reverse %}
+
 <div class="project-grid-page">
-	{% for post in site.posts %}
+	{% for post in sorted  %}
 	<div class="project-container all{% for category in post.categories %} {{ category | slugify }}{% endfor %}">
 		<div class="image-box">
 			<a href="{{ post.url }}"><img width="100%" src="{{ post.square-image }}"></a>

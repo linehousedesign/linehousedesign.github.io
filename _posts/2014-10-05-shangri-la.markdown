@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 30
 permalink: /architecture/&/interior/2014/10/04/shangri-la.html
 featured:  no
 title:  "Deli, Shangri-La Futian"

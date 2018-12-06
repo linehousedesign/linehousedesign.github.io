@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 110
 permalink: /architecture/&/interior/2015/12/11/baobao-shanghai-tongji.html
 featured: no
 title: "甘其食BAOBAO Tongji"

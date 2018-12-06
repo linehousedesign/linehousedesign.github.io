@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 70
 permalink: /architecture/&/interior/2015/07/20/fishmarket.html
 featured:  no
 title:  "Fish Market"

@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 40
 permalink: /architecture/&/interior/2014/12/04/factory-five-jingan.html
 title:  "Factory Five Jingan"
 date:   2014-12-04 14:34:25

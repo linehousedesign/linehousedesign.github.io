@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 20
 permalink: /graphics/design/2014/10/03/lone-ranger.html
 title:  "Lone Ranger"
 date:   2014-10-03 14:34:25

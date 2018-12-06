@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 170
 title:  "Bamboo Precinct"
 date:   2018-10-13 17:55:35
 categories:

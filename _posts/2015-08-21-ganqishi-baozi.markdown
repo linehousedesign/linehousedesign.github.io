@@ -1,5 +1,6 @@
 ---
 layout: post
+sequence: 90
 permalink: /architecture/&/interior/2015/08/21/ganqishi-baozi.html
 featured:  no
 title:  "甘其食BAOBAO"

@@ -1,5 +1,6 @@
 ---
 permalink: /architecture/&/interior/2016/02/20/n3on-shanghai.html
+sequence: 120
 layout: post
 featured: no
 title: "N3ON"
