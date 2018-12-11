@@ -5,6 +5,20 @@ permalink: /awards/
 banner:
 ---
 
+<h4>2018</h4>
+
+Dezeen Awards 2018: Nominee: Interior Designer of the Year<br/>
+
+Dezeen Awards 2018: Nominee: Workspace of the Year<br/>
+
+FRAME Awards 2018: Nominee: Emerging Interior Design<br/>
+
+FRAME Awards 2018: Nominee: Small Office of the Year<br/>
+
+FRAME Awards 2018: Nominee: Coworking Space of the Year<br/>
+
+INDE.Awards 2018: Nominee: Prodigy<br/>
+
 <h4>2017</h4>
 
 Blueprint Awards 2017 Commended: Best Interior, Work: WeWork Weihai Road<br/>
