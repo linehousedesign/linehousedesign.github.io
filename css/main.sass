@@ -174,7 +174,79 @@ body
 
 .news-grid-page
   .news-container
-    width: 30%
+    width: 47%
+    max-width: 320px
+    @include respond-to($bigthreshold)
+      width: 47%
+    @include respond-to($mobilethreshold)
+      width: 100%
+    display: inline-block
+    border: #000
+    border-width: 0px
+    vertical-align: top
+    position: relative
+  .overlay
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
+    right: 0
+    height: 100%
+    width: 100%
+    opacity: 0
+    transition: .5s ease
+    background-color: #000000
+  .text-in-overlay
+    color: white
+    font-size: 20px
+    position: absolute
+    top: 50%
+    left: 50%
+    -webkit-transform: translate(-50%, -50%)
+    -ms-transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%)
+    text-align: center
+  .news-container:hover .overlay
+    opacity: .7
+  .image-box
+    display: inline-block
+    img
+      width: 100%
+      height: 100%
+  .insta-icon
+    vertical-align: middle
+  .info-box
+    width: 100%
+    max-width: 330px
+    background-color: #FFF
+    margin: 10px
+  p
+    margin: 0 0 0 0
+    font-family: $font-sans
+    text-decoration: none
+    font-size: 14px
+    line-height: 1
+    color: #555
+  .news-button
+    text-align: center
+    border: 1px solid black
+    padding: 5px
+    &:hover
+      background-color: #aaa
+      a
+        color: #000
+  a
+    text-decoration: none
+    color: #333
+    &:hover
+      color: #aaa
+
+.insta-grid-page
+  .insta-container
+    display: inline-block
+    vertical-align: middle
+    height: 100%
+    width: 31%
     @include respond-to($bigthreshold)
       width: 47%
     @include respond-to($mobilethreshold)
@@ -188,15 +260,14 @@ body
     padding-bottom: 10px
   .image-box
     display: inline-block
-    border: solid 1px #DDD
-    min-height: 290px
-    min-width: 200px
-    background-image: url('/assets/images/system/image-box.jpg')
+    vertical-align: middle  
+    img
+      width: 100%
+      height: 100%
   .info-box
     width: 100%
     background-color: #FFF
     padding: 5px
-    padding-bottom: 20px
   p
     margin: 0 0 0 0
     font-family: $font-sans
