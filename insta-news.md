@@ -16,7 +16,7 @@ banner: /assets/images/main-site-images/footer-news.jpg
           return image.tags.indexOf('linehousenews') >= 0;
         },
         accessToken: '2090282915.03168fc.bf7e1a4cb9c7454ba95deddab0b555b0',
-        resolution: 'low_resolution',
+        resolution: 'standard_resolution',
         template: '<a href="{{link}}"><div class="news-container"><div class="image-box"><img src="{{image}}" /></div><div class="overlay"><div class="text-in-overlay"><img src="/assets/images/main-site-images/heart.png" class="insta-icon" width="19" /><span style="vertical-align: middle;">&nbsp;{{likes}}  &nbsp;&nbsp;</span><img src="/assets/images/main-site-images/comment.png" class="insta-icon" width="19" /> <span style="vertical-align: middle;"> {{comments}}</span></div></div></div></a><div class="news-container"><div class="info-box">{{caption}}</div></div><div style="clear: both;"><br /><hr><br /><br /></div></div>'
     });
     userFeed.run();
