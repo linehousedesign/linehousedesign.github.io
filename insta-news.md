@@ -13,7 +13,7 @@ banner: /assets/images/main-site-images/footer-news.jpg
         userId: 2090282915,
         limit: 100,
         filter: function(image) {
-          return image.tags.indexOf('linehouse') >= 0;
+          return image.tags.indexOf('linehousenews') >= 0;
         },
         accessToken: '2090282915.03168fc.bf7e1a4cb9c7454ba95deddab0b555b0',
         resolution: 'low_resolution',
