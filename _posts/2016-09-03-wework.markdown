@@ -1,6 +1,6 @@
 ---
 layout: post
-sequence: 130
+sequence: 235
 title:  "WeWork"
 date:   2016-09-03 14:34:25
 categories:

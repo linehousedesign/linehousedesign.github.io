@@ -15,7 +15,3 @@ Linehouse is a collaboration of like-minded individuals from various backgrounds
 The studio works on projects of varying scales and typologies that allow explorations of both the poetic idea and pragmatic solution. Projects are approached in a holistic manner combining different disciplines: architecture, interiors, product design and graphic design; and drawing on our experience to create new ideas and outputs emphasising qualities of construction, detail, materials and light.
 
 Each brief is approached individually, creating a poetic concept for each client through research, site context, history and responding to the client’s brief. Through the process of design, each project has a strong narrative and an element of whimsy and voyeurism, creating a unique spatial experience.
-
-Linehouse has been featured widely by the press around the world, including Wallpaper*, FRAME, AD, ELLE Décor, Dezeen, Detail, Archdaily, Designboom, Perspective Magazine and countless print and online media.
-
-In 2017, Linehouse were shortlisted at INSIDE World Interiors of the Year and were also honoured at Interior Design  Magazine’s Best of Year Awards, WIN Awards and INDE Awards. Linehouse joined the ranks of AD100: The Most Influential Architects and Interior Designers in China and Perspective’s 40 Under 40 Awards Linehouse were named Emerging Interior Practice of the Year by World Interior News in 2015.
