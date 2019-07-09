@@ -17,8 +17,8 @@ Wong Chuk Hang<br />
 Hong Kong<br />
 
 WeChat: @Linehouse联图<br />
-Instagram: <a href="https://www.instagram.com/line___house/" target="_new">line__house</a><br /> 
-Linkedin: <a href="ttp://www.linkedin.com/companies/linehouse" target="_new">Line House</a><br /> 
+Instagram: <a href="https://www.instagram.com/line___house/" target="_new">line___house</a><br /> 
+Linkedin: <a href="ttp://www.linkedin.com/companies/linehouse" target="_new">Linehouse</a><br /> 
 
 For project enquiries:
 <br /><a href="mailto:info@linehousedesign.com">info@linehousedesign.com</a>

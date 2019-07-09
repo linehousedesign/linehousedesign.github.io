@@ -4,20 +4,35 @@ title: Awards
 permalink: /awards/
 banner:
 ---
+<h4>2019</h4>
+
+AD100: The 100 Most Influential Architects and Designers in China 2019<br/>
+
+Restaurant and Bar Design Awards: Shortlist: Asia Restaurant of the Year: John Anthony<br/>
+
+Archmarathon Selection 2019: 1st Prize: Bar & Restaurant Category: John Anthony<br/>
+
+INDE.Awards 2019: Honourable Mention: The Social Space: Tingtai Teahouse<br/>
+
+INDE.Awards 2019: Finalist: The Social Space: John Anthony<br/>
+
+Hospitality Design Awards: Coffee Shop Finalist: Tingtai Teahouse<br/>
 
 <h4>2018</h4>
 
 Dezeen Awards 2018: Nominee: Interior Designer of the Year<br/>
 
-Dezeen Awards 2018: Nominee: Workspace of the Year<br/>
+Dezeen Awards 2018: Nominee: Workspace of the Year: WeWork Weihai Road<br/>
 
-FRAME Awards 2018: Nominee: Emerging Interior Design<br/>
+FRAME Awards 2018: Nominee: Emerging Designer of the Year<br/>
 
-FRAME Awards 2018: Nominee: Small Office of the Year<br/>
+FRAME Awards 2018: Nominee: Small Office of the Year: Herschel Supply Office<br/>
 
-FRAME Awards 2018: Nominee: Coworking Space of the Year<br/>
+FRAME Awards 2018: Nominee: Coworking Space of the Year: WeWork Weihai Road<br/>
 
 INDE.Awards 2018: Nominee: Prodigy<br/>
+
+AZ Awards: Awards of Merit: Commercial & Institutional Interiors: WeWork Weihai Lu<br/>
 
 <h4>2017</h4>
 
