@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 290
-title:  "Library and Reading Rooms, Shanghai, China"
+title:  "Library and Reading Rooms"
 date:   2019-07-09 15:35:15
 categories:
   -  Architecture & Interior
