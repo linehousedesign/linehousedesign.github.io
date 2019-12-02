@@ -8,31 +8,23 @@ banner:
 
 Dezeen Awards 2019: Winner: Emerging Interior Designer of the Year<br/>
 
-
 Dezeen Awards 2019: Longlist: Restaurant of the Year 2019: John Anthony<br/>
-
 
 FX Design Awards: Shortlist: Bar or Restaurant: Tingtai Teahouse (result
 pending)<br/>
 
-
 FX Design Awards: Shortlist: Bar or Restaurant: John Anthony (result pending)<br/>
 
-
 WIN Awards 2019: Gold Winner: Hospitality - Restaurants: John Anthony<br/>
-
 
 A&D Perspective Design Awards: Shortlist: Bar & Restaurant: John Anthony
 (result pending)<br/>
 
-
 A&D Perspective Design Awards: Shortlist: Green & Sustainable: John
 Anthony (result pending)<br/>
 
-
 INSIDE World Festival of Interiors: Finalist: Bars and Restaurants: John
 Anthony (final result pending)<br/>
-
 
 Blueprint Design Awards: Best Interior Project - Leisure: Tingtai Teahouse<br/>
 
