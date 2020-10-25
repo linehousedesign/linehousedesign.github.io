@@ -7,7 +7,7 @@ categories:
   -  Architecture & Interior
 details:
   -  Completion: 2020
-  -  Area 100sqm
+  -  Area: 100sqm
   -  Architects: Linehouse
   -  Design Lead: Alex Mok, Briar Hickling
   -  Design Team: Cherngyu Chen, Jingru Tong, Elspeth Lee, Celine Cheung
