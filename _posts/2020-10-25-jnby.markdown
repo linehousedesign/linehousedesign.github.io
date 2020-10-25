@@ -16,8 +16,8 @@ details:
   -  Photographer: Dirk Weiblen
   -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
   -  For more information, contact: info@linehousedesign.com
-header-image: /assets/images/projects/jnby-china/Header_Linehouse_Basehall_5_LO.jpg
-square-image: /assets/images/projects/jnby-china/JNBY_Linehouse_004_HQ_header.jpg
+header-image: /assets/images/projects/jnby-china/JNBY_Linehouse_004_HQ_header.jpg
+square-image: /assets/images/projects/jnby-china/JNBY_Linehouse_004_LQ_thumbnail.jpg
 image-gallery:
   -  /assets/images/projects/jnby-china/JNBY_Linehouse_001_LQ.jpg
   -  /assets/images/projects/jnby-china/JNBY_Linehouse_002_LQ.jpg
