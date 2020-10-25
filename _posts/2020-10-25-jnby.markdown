@@ -1,6 +1,6 @@
 ---
 layout: post
-sequence: 295
+sequence: 300
 title:  "JNBY Store"
 date:   2020-10-23 15:35:15
 categories:
