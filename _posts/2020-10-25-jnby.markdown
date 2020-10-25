@@ -1,0 +1,42 @@
+---
+layout: post
+sequence: 295
+title:  "JNBY Store"
+date:   2020-10-23 15:35:15
+categories:
+  -  Architecture & Interior
+details:
+  -  Completion: 2020
+  -  Area 100sqm
+  -  Architects: Linehouse
+  -  Design Lead: Alex Mok, Briar Hickling
+  -  Design Team: Cherngyu Chen, Jingru Tong, Elspeth Lee, Celine Cheung
+  -  Client: JNBY 江南布衣
+  -  Project Address: SM Lifestyle Center, Xiamen, Fujian
+  -  Photographer: Dirk Weiblen
+  -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
+  -  For more information, contact: info@linehousedesign.com
+header-image: /assets/images/projects/jnby-china/Header_Linehouse_Basehall_5_LO.jpg
+square-image: /assets/images/projects/jnby-china/JNBY_Linehouse_004_HQ_header.jpg
+image-gallery:
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_001_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_002_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_003_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_004_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_005_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_006_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_007_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_008_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_009_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_010_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_011_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_012_LQ.jpg
+  -  /assets/images/projects/jnby-china/JNBY_Linehouse_013_LQ.jpg
+---
+Linehouse was approached to design the new store interior for women’s wear brand, JNBY. The brand sought a modern approach to capture its core values, focusing on material exploration while guiding urban dwellers in appreciating the surprise and poetry of everyday life. The design concept draws on certain key elements: contradictions and balance in materiality and the urban. 
+
+Linehouse installed a ceiling of concrete coffers with inset lighting tubes to represent the urban. Below this a screen of textured glass wraps the space, delicately balancing on feet made out of recycled concrete pavement and connected to the ceiling with stainless steel poles. Retail fixtures in stainless steel including shelves, mirrors and clothing rails clip into the screen creating a fully flexible display system. 
+
+Linehouse explored the concept of crafted imperfection, celebrating the handmade and resulting imperfections for the materiality of the fixtures and cashier desk. Circular ceramic pieces with concaved ends and a cracked glaze lines fixed columns displaying clothes and shoes and also act as sculptural installations in the space. These same tiles are used on the cashier desk in a variety of white and a light terracotta shades to represent the earthy tones of clay.
+
+For the low display fixtures Linehouse created concrete patterns by casting with fabric to capture the textile heritage of JNBY. An array of patterned concrete was formed for the fixtures from quilted, to undulating to subtly textured. To contradict the rigidity of the concrete, pedestals of old timber were laminated together in sculptural shapes.
