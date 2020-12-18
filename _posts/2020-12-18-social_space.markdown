@@ -1,6 +1,6 @@
 ---
 layout: post
-sequence: 300
+sequence: 305
 title:  "Social Space"
 date:   2020-12-18 15:35:15
 categories:
@@ -16,27 +16,27 @@ details:
   -  Photographer: Dirk Weiblen
   -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
   -  For more information, contact: info@linehousedesign.com
-header-image: /assets/images/projects/social-space-shangha/Linehouse_Social-Space_Header.jpg 
-square-image: /assets/images/projects/social-space-shangha/Linehouse_Social-Space_Thumbnail.jpg 
+header-image: /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_Header.jpg 
+square-image: /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_Thumbnail.jpg 
 image-gallery:
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_001_lo.jpg 
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_002_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_003_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_004_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_005_lo.jpg  
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_006_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_007_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_008_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_009_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_010_lo.jpg  
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_011_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_012_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_013_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_014_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_015_lo.jpg  
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_016_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_017_lo.jpg
-  -  /assets/images/projects/social-space-shangha/Linehouse_Social-Space_018_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_001_lo.jpg 
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_002_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_003_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_004_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_005_lo.jpg  
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_006_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_007_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_008_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_009_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_010_lo.jpg  
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_011_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_012_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_013_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_014_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_015_lo.jpg  
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_016_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_017_lo.jpg
+  -  /assets/images/projects/social-space-shanghai/Linehouse_Social-Space_018_lo.jpg
 ---
 The Social Space is a conversion of a swimming pool into a shared multifunctional area for the office tenants at Jing’an Kerry Centre, Shanghai. It is designed as an extension of the traditional office to accommodate events, talks, town halls, meetings, and flexible work. The existing site was a functional swimming pool with a large oval skylight above. Linehouse conceived the space as a hearth located under the skylight, mimicking its elliptical form; the hearth being the central space in the home for gathering around a fireplace. It is both a symbol of domesticity and a creative centre. 
 
