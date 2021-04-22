@@ -5,9 +5,11 @@ permalink: /contact/
 banner: /assets/images/main-site-images/footer-contact.jpg
 ---
 SHANGHAI<br />
-Studio B2, 655 Changhua Road<br />
-Jing’an District, Shanghai, China, 200041<br/>
-上海市静安区昌化路655号B2室<br/>
+Studio 5FGH,<br />
+Anken Air, Building 1, No. 181<br/>
+Lane 465 Zhenning Road<br/>
+Changning District, Shanghai<br/>
+长宁区镇宁路465弄181号一幢5楼FGH室Linehouse<br/>
 <br />
 <br />
 HONG KONG<br />
