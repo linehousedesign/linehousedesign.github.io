@@ -2,7 +2,7 @@
 layout: post
 sequence: 315
 title:  "Bestseller Shanghai Office"
-date:   2021-10-05 15:35:55
+date:   2021-05-10 15:35:55
 categories:
   -  Architecture & Interior
 details:
@@ -11,8 +11,7 @@ details:
   -  Client: Bestseller
   -  Architect: Linehouse
   -  Design Lead: Alex Mok, Briar Hickling
-  -  Design Team: Inez Low, Edwards Shi
-  -  Collaboratively Designed with Bestseller
+  -  Design Team: Inez Low, Edwards Shi, Collaboratively Designed with Bestseller
   -  Project Address: 336 Xizang Road, Shanghai
   -  Photographer: Dirk Weiblen
   -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
