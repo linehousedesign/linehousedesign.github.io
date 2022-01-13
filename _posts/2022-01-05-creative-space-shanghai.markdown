@@ -1,6 +1,6 @@
 ---
 layout: post
-sequence: 325
+sequence: 320
 title:  "Creative Office, Shanghai"
 date:   2022-01-15 15:55:53
 categories:

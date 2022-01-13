@@ -1,6 +1,6 @@
 ---
 layout: post
-sequence: 330
+sequence: 325
 title:  "W OSAKA Dessert Bar: MIXup"
 date:   2022-01-03 15:53:53
 categories:
