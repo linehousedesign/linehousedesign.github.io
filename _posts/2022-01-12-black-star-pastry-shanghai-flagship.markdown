@@ -20,8 +20,8 @@ details:
   -  Photographer: Jonathan Leijonhufvud
   -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
   -  For more information, contact: info@linehousedesign.com
-header-image: /assets/images/projects/blackstar-pastry-shanghai/Linehouse_BlackStarPastry_003_LO-RES.jpg
-square-image: /assets/images/projects/blackstar-pastry-shanghai/Linehouse_BlackStarPastry_thumb.jpg
+header-image: /assets/images/projects/blackstar-pastry-shanghai/Linehouse_BlackStarPastry_003_Header.jpg
+square-image: /assets/images/projects/blackstar-pastry-shanghai/Linehouse_BlackStarPastry_002_LO-RES_thumb.jpg
 image-gallery:
   -  /assets/images/projects/blackstar-pastry-shanghai/Linehouse_BlackStarPastry_001_LO-RES.jpg
   -  /assets/images/projects/blackstar-pastry-shanghai/Linehouse_BlackStarPastry_002_LO-RES.jpg
