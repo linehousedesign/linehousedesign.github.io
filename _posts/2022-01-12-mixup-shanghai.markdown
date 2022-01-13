@@ -12,7 +12,7 @@ details:
   -  Local Interior Design: Nikken Space Design
   -  Design Lead: Alex Mok, Briar Hickling
   -  Design Team: Cherngyu Chen, Inez Low, Elspeth Lee, Jingru Tong, Celine Cheung
-  -  Client: Client: Sekisui House
+  -  Client: Sekisui House
   -  Operator: Operator: Marriott International
   -  Photographer: Photographer: Nacasa & Partners
   -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
