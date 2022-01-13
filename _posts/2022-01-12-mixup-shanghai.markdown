@@ -13,8 +13,8 @@ details:
   -  Design Lead: Alex Mok, Briar Hickling
   -  Design Team: Cherngyu Chen, Inez Low, Elspeth Lee, Jingru Tong, Celine Cheung
   -  Client: Sekisui House
-  -  Operator: Operator: Marriott International
-  -  Photographer: Photographer: Nacasa & Partners
+  -  Operator: Marriott International
+  -  Photographer: Nacasa & Partners
   -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
   -  For more information, contact: info@linehousedesign.com
 header-image: /assets/images/projects/mixup-shanghai/WOsaka_Linehouse_002_LQ_header.jpg
