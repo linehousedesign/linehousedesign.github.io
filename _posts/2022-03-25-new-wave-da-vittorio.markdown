@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 335
-title:  "New Wave by Da Vittorio, UCCA Edge Shanghai"
+title:  "New Wave by Da Vittorio"
 date:   2022-03-25 5:15:15
 categories:
   -  Architecture & Interior
@@ -15,7 +15,7 @@ details:
   -  Project Address: 2F, No.88 Xizang Bei Lu, Jing'an District, Shanghai
   -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
   -  For more information, contact: info@linehousedesign.com
-header-image: /assets/images/projects/new-wave-da-vittorio/Linehouse_New_Wave_Da_Vittorio_0021.jpg
+header-image: nmwd/assets/images/projects/new-wave-da-vittorio/Linehouse_New_Wave_Da_Vittorio_0021.jpg
 square-image: /assets/images/projects/new-wave-da-vittorio/Linehouse_New_Wave_Da_Vittorio_thumb.jpg
 image-gallery:
   -  /assets/images/projects/new-wave-da-vittorio/Linehouse_New_Wave_Da_Vittorio_0003.jpg
