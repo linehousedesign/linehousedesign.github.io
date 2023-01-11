@@ -11,7 +11,7 @@ banner:
 <b>Perspective’s 40 Under 40 Awards: Alex Mok & Briar Hickling</b><br/>
 
 
-John Anthony Restaurant (see the <a href="/work/house-of-john-anthony"project</a>):
+John Anthony Restaurant (see the <a href="/work/house-of-john-anthony">project</a>):
 <ul>
  <li>WIN Awards Gold Winner, Hospitality - Restaurants</li>
  <li>Archmarathon Selection, 1st Prize, Bar & Restaurant</li>
@@ -45,7 +45,7 @@ Tingtai Teahouse (see the <a href="http://linehousedesign.com/work/tingtai-tea-h
  <li>Hospitality Design Awards, Coffee shop Finalist</li>
 </ul>
 
-N3ON Shanghai (see the <a href="architecture/&/interior/2016/02/20/n3on-shanghai.html">project<a/>)
+N3ON Shanghai (see the <a href="/architecture/&/interior/2016/02/20/n3on-shanghai.html">project<a/>)
 <ul>
  <li>Asia Pacific Interior Design Awards, Judges Choice & Shopping Space Winner</li>
  <li>Retail Interiors. Longlist</li>
