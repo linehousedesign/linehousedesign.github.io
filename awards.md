@@ -11,7 +11,7 @@ banner:
 <b>Perspective’s 40 Under 40 Awards: Alex Mok & Briar Hickling</b><br/>
 
 
-John Anthony Restaurant (see the <a href="/work/house-of-john-anthony">project</a>):
+John Anthony Restaurant (see the <a href="/work/house-of-john-anthony">project</a>)
 <ul>
  <li>WIN Awards Gold Winner, Hospitality - Restaurants</li>
  <li>Archmarathon Selection, 1st Prize, Bar & Restaurant</li>
