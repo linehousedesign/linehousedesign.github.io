@@ -47,14 +47,14 @@ Tingtai Teahouse (see the <a href="http://linehousedesign.com/work/tingtai-tea-h
 
 N3ON Shanghai (see the <a href="architecture/&/interior/2016/02/20/n3on-shanghai.html">project<a/>)
 <ul>
- <li>Asia Pacific Interior Design Awards: Judges Choice & Shopping Space Winner: N3ON</li>
+ <li>Asia Pacific Interior Design Awards, Judges Choice & Shopping Space Winner</li>
  <li>Retail Interiors. Longlist</li>
 </ul>
 
 
 Cote & Ciel Hong Kong (see the <a href="/architecture/&/interior/2015/12/07/cote-ciel.html">project</a>)
 <ul>
- <li>A&D Trophy Awards, Best Retail Certificate of Excellence, Cote & Ciel<bli>
+ <li>A&D Trophy Awards, Best Retail Certificate of Excellence</li>
  <li>Retail Interiors. Longlist</li>
 </ul>
 
