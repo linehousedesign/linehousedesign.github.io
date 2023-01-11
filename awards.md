@@ -34,7 +34,7 @@ WeWork China Flagship Weihhai Road (see the <a href="/work/wework-weihai">projec
  <li>Workspace Interiors Less Than 10,000SQM shortlist</li>
  <li>INSIDE World Festival of Interiors, Offices Shortlist</li>
  <li>FX Awards Workspace Environment Shortlist</li>
- <li>INDE.Awards, rhe Workspace Shortlist<br/>
+ <li>INDE.Awards, rhe Workspace Shortlist</li>
 </ul>
  
 Tingtai Teahouse (see the <a href="http://linehousedesign.com/work/tingtai-tea-house">project</a>)
