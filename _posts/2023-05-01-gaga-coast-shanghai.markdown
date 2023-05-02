@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 345
-title:  "Gaga coast, Shaghai"
+title:  "Gaga coast Shanghai"
 date:   2023-05-01 5:35:15
 categories:
   -  Architecture & Interior
