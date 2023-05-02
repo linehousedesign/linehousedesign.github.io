@@ -18,26 +18,26 @@ details:
 header-image: /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_013_lo_header.jpg
 square-image: /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_001-projects.jpg
 image-gallery:
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_001_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_002_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_003_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_004_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_005_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_006_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_007_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_008_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_009_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_010_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_011_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_012_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_013_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_014_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_015_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_016_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_017_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_018_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_019_lo.jpg
-  -  /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_020_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_001_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_002_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_003_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_004_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_005_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_006_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_007_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_008_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_009_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_010_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_011_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_012_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_013_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_014_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_015_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_016_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_017_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_018_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_019_lo.jpg
+  -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_020_lo.jpg
 ---
 The gaga coast restaurant in Shanghai recalls a deep connection with coastal elements and Mediterranean soul. Linehouse transformed a three storey building into a vertical journey of refined rusticity across three floors of the restaurant giving visitors unique and distinct spaces to dine. Colours and materials throughout the three floors change telling a different part of the story; green earthy tones on the ground floor link the garden to the open café space, the red fire tones of second floor reflect the dining room centered on the parilla grill, the black yakisugi wood of the third floor contrasts against the white washed flanked stone walls and existing traditional timber trussed ceiling.
  
