@@ -15,8 +15,8 @@ details:
   -  Architect Website: <a href="www.linehousedesign.com">linehousedesign.com</a>
   -  For more information, contact: info@linehousedesign.com
   -  photo credit: ©Wen Studio
-header-image: /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_013_lo_header.jpg
-square-image: /assets/images/projects/gaga-coast-shaghai/Linehouse_gaga_coast_001-projects.jpg
+header-image: /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_007_lo.jpg
+square-image: /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_001-projects.jpg
 image-gallery:
   -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_001_lo.jpg
   -  /assets/images/projects/gaga-coast-shanghai/Linehouse_gaga_coast_002_lo.jpg
