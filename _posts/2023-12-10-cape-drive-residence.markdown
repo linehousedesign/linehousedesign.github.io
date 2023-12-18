@@ -16,30 +16,30 @@ details:
 header-image: /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_010_header.jpg
 square-image: /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_projects.jpg
 image-gallery:
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_001.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_002.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_003.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_004.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_005.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_006.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_007.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_008.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_009.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_010.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_011.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_012.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_013.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_014.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_015.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_016.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_017.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_018.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_019.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_020.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_021.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_022.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_023.jpg
-  -  /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_024.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_001.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_002.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_003.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_004.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_005.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_006.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_007.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_008.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_009.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_010.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_011.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_012.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_013.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_014.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_015.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_016.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_017.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_018.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_019.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_020.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_021.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_022.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_023.jpg
+  -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_024.jpg
  
 ---
 Cape Drive Residence is located in a costal setting on the south side of Hong Kong Island.  The home offers elevated panoramic ocean views to the east and west and is just a short walk from the sandy white beaches of Stanley and Chung Hom Kok. 
