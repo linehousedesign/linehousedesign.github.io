@@ -13,8 +13,8 @@ details:
   -  Design Principle: Briar Hickling
   -  Design Team: Ricki-Lee Van Het Wout, Cindy Pooh
   -  Photography: Jonathan Leijonhufvud
-header-image: /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_010_header.jpg
-square-image: /assets/images/projects/cape-drive-residence/Linehouse_CapeDriveResidence_projects.jpg
+header-image: /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_010_header.jpg
+square-image: /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_projects.jpg
 image-gallery:
   -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_001.jpg
   -  /assets/images/projects/cape-drive-residence-hong-kong/Linehouse_CapeDriveResidence_002.jpg
