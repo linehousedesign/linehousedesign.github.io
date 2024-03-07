@@ -14,7 +14,7 @@ details:
   -  Design Principle: Briar Hickling
   -  Design Team: Cindy Pooh
   -  Photo credit: Depth of Field, Jonathan Leijonhufvud
-header-image: /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_001_lo_header.jpg
+header-image: /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_009_lo_header.jpg
 square-image: /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_001_lo_projects.jpg
 image-gallery:
   -  /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_001_lo.jpg
