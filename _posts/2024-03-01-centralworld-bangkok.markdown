@@ -64,12 +64,12 @@ CentralWorld
 
 全新的改造设计让原来陈旧和单调的建筑和室内焕发新生。相比起全部拆除重建，改造设计尽可能利用原有的结构和柱网，减少碳排放，保护环境。
 
-完成时间：2023
-项目面积：27,000平米
-项目客户：Central Pattana
-建筑设计：联图Linehouse
-室内设计：联图Linehouse
-设计主创：Briar Hickling
-设计团队：Cindy Pooh
-项目地址：泰国 曼谷	
+完成时间：2023 <br />
+项目面积：27,000平米 <br />
+项目客户：Central Pattana <br />
+建筑设计：联图Linehouse <br />
+室内设计：联图Linehouse <br />
+设计主创：Briar Hickling <br />
+设计团队：Cindy Pooh <br />
+项目地址：泰国 曼谷	<br />
 项目摄影：Depth of Field, Jonathan Leijonhufvud
