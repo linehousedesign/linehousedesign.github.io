@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 365
-title:  "CentralWorld Bangkok, Thailand"
+title:  "CentralWorld Bangkok"
 date:   2024-03-01 15:05:15
 categories:
   -  Architecture & Interior
