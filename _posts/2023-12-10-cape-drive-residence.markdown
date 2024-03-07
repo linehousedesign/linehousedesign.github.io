@@ -67,10 +67,10 @@ Cape Drive住宅坐落在香港岛南区的海边。 项目所在位置地势较
 
 整个住宅设计体现了海滨居住的轻松和悠闲的生活方式。温暖的色调，舒适的质感和纹理，干净简洁的材料组合，以及室内和室外的模糊边界, Cape Drive 私人住宅是海滨居住的美好呈现。
 
-完工日期: 2022
-项目面积: 743 sqm
-客户名字: Private Residence
-室内设计: Linehouse
-设计主创: Briar Hickling
-设计团队: Ricki-Lee Van Het Wout, Cindy Pooh 
-摄影摄影: Jonathan Leijonhufvud
+完工日期: 2022 <br />
+项目面积: 743 sqm <br />
+客户名字: Private Residence <br />
+室内设计: Linehouse <br />
+设计主创: Briar Hickling <br />
+设计团队: Ricki-Lee Van Het Wout, Cindy Pooh <br />
+摄影摄影: Jonathan Leijonhufvud <br />
