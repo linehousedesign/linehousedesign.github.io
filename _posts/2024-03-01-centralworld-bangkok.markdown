@@ -19,7 +19,6 @@ square-image: /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorl
 image-gallery:
   -  /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_001_lo.jpg
   -  /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_002_lo.jpg
-  -  /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_003_lo.jpg
   -  /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_004_lo.jpg
   -  /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_005_lo.jpg
   -  /assets/images/projects/centralworld-bangkok/Linehouse_CentralWorld_006_lo.jpg
