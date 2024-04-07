@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 370
-title:  "Foodie Social at Hong Shou Fang, Shanghai"
+title:  "Foodie Social Hong Shou Fang"
 date:   2024-04-05 05:15:05
 categories:
   -  Architecture & Interior
