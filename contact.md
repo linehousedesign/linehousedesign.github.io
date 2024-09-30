@@ -11,13 +11,17 @@ Lane 465 Zhenning Road<br/>
 Changning District, Shanghai<br/>
 长宁区镇宁路465弄181号一幢5楼FGH室Linehouse<br/>
 <br />
-<br />
 HONG KONG<br />
 22A Gee Chang Hong Centre<br />
 65 Wong Chuk Hang Road<br />
 Wong Chuk Hang<br />
 Hong Kong<br />
-
+<br />
+NEW ZEALAND<br />
+Level 5<br />
+187 Queen Street<br />
+Auckland<br />
+<br />
 WeChat: @Linehouse联图<br />
 Instagram: <a href="https://www.instagram.com/line___house/" target="_new">line___house</a><br /> 
 Linkedin: <a href="ttp://www.linkedin.com/companies/linehouse" target="_new">Linehouse</a><br /> 
