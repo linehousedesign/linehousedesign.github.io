@@ -14,8 +14,8 @@ details:
   -  Architect Website: linehousedesign.com
   -  For more information, contact: info@linehousedesign.com
   -  Photographer: HDP Photography
-header-image: /assets/images/projects/yingnflow-admiralty/01_Linehouse_Website_YingnFlo_Admiralty_Header.jpg
-square-image: /assets/images/projects/yingnflow-admiralty/02_Linehouse_Website_YingnFlo_Admiralty_Projects.jpg
+header-image: /assets/images/projects/yingnflow-admiralty/02_Linehouse_Website_YingnFlo_Admiralty_Header.jpg
+square-image: /assets/images/projects/yingnflow-admiralty/01_Linehouse_Website_YingnFlo_Admiralty_Projects.jpg
 image-gallery:
   -  /assets/images/projects/yingnflow-admiralty/03_Linehouse_Website_YingnFlo_Admiralty.jpg
   -  /assets/images/projects/yingnflow-admiralty/04_Linehouse_Website_YingnFlo_Admiralty.jpg
